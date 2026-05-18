@@ -74,3 +74,4 @@ $routes->get('/notifications/create', 'NotificationController::create');
 // Scraper Route from examveda
 $routes->get('/scrape', 'Scraper::index');
 $routes->get('/book', 'Scraper::book');
+$routes->get('book/(:any)', 'Scraper::book/$1');

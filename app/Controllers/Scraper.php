@@ -10,16 +10,51 @@ use CodeIgniter\Controller;
 class Scraper extends Controller
 {
 
-    public function book()
-    {
-        return view('book');
+    public function book($folder = null)
+{
+    $basePath = WRITEPATH . 'json/';
+
+    // If no folder selected
+    if ($folder === null) {
+
+        $folders = array_filter(
+            glob($basePath . '*'),
+            'is_dir'
+        );
+
+        $data['folders'] = array_map(function ($path) {
+            return basename($path);
+        }, $folders);
+
+        return view('book', $data);
     }
+
+    // Folder path
+    $folderPath = $basePath . $folder;
+
+    // Folder not found
+    if (!is_dir($folderPath)) {
+        throw \CodeIgniter\Exceptions\PageNotFoundException::forPageNotFound();
+    }
+
+    // Get all json files
+    $jsonFiles = glob($folderPath . '/*.json');
+
+    $data['jsonFiles'] = $jsonFiles;
+
+    // Clean title
+    $data['displayTitle'] = ucwords(
+        str_replace(['_', '-'], ' ', $folder)
+    );
+
+    return view('book', $data);
+}
     public function index()
     {
         ini_set('memory_limit', '-1');
         set_time_limit(0);
 
-        $baseUrl = "https://www.examveda.com/competitive-english/practice-mcq-question-on-articles/";
+        $baseUrl = "https://www.examveda.com/state-gk/practice-mcq-question-on-assam/";
 
         // Create json folder
         if (!is_dir(WRITEPATH . 'json')) {
