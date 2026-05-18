@@ -1,0 +1,2279 @@
+[
+    {
+        "question": "Which is the tallest plunge waterfall in India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Dudhsagar Falls"
+            },
+            {
+                "option": "B.",
+                "text": "Mawsmai Falls"
+            },
+            {
+                "option": "C.",
+                "text": "Kunchikal Falls"
+            },
+            {
+                "option": "D.",
+                "text": "Nohkalikai Falls"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "The Meghalaya High Court was established in the year",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2011"
+            },
+            {
+                "option": "B.",
+                "text": "2012"
+            },
+            {
+                "option": "C.",
+                "text": "2013"
+            },
+            {
+                "option": "D.",
+                "text": "2014"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Baghmara Pitcher Plant Sanctuary is situated in which district of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "West Jaintia Hills"
+            },
+            {
+                "option": "B.",
+                "text": "South Garo Hills District"
+            },
+            {
+                "option": "C.",
+                "text": "East Jaintia Hills"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the first Chief Justice of Meghalaya High Court?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "T. Meena Kumari"
+            },
+            {
+                "option": "B.",
+                "text": "Prafulla Chandra Pant"
+            },
+            {
+                "option": "C.",
+                "text": "Uma Nath Singh"
+            },
+            {
+                "option": "D.",
+                "text": "Dinesh Maheshwari"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Who was the candidate for president of India from Meghalaya in 1992?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "George Gilbert Swell"
+            },
+            {
+                "option": "B.",
+                "text": "Shankar Dayal Sharma"
+            },
+            {
+                "option": "C.",
+                "text": "K. R. Narayanan"
+            },
+            {
+                "option": "D.",
+                "text": "Tridib Chowdhury"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the smallest district of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "East Khasi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "South West Garo Hills"
+            },
+            {
+                "option": "C.",
+                "text": "North Garo Hills"
+            },
+            {
+                "option": "D.",
+                "text": "West Garo Hills"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the Area rank of Meghalaya amongst the Northeastern state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3rd"
+            },
+            {
+                "option": "B.",
+                "text": "4th"
+            },
+            {
+                "option": "C.",
+                "text": "5th"
+            },
+            {
+                "option": "D.",
+                "text": "7th"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The Anglo-Khasi War was started in the year",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1827"
+            },
+            {
+                "option": "B.",
+                "text": "1828"
+            },
+            {
+                "option": "C.",
+                "text": "1829"
+            },
+            {
+                "option": "D.",
+                "text": "1830"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Total Numbers of Dams in Meghalaya.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "15"
+            },
+            {
+                "option": "B.",
+                "text": "12"
+            },
+            {
+                "option": "C.",
+                "text": "9"
+            },
+            {
+                "option": "D.",
+                "text": "7"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "The name 'Meghalaya' was coined by",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ram Charan"
+            },
+            {
+                "option": "B.",
+                "text": "S. P. Chatterjee"
+            },
+            {
+                "option": "C.",
+                "text": "Devendra Lal"
+            },
+            {
+                "option": "D.",
+                "text": "Bhupen Hazarika"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the Third Governor Of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Prakash Chandra Mehrotra"
+            },
+            {
+                "option": "B.",
+                "text": "Madhukar Dighe"
+            },
+            {
+                "option": "C.",
+                "text": "M. M. Jacob"
+            },
+            {
+                "option": "D.",
+                "text": "Banwari Lal Joshi"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "What is the State code of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "MLA"
+            },
+            {
+                "option": "B.",
+                "text": "ML"
+            },
+            {
+                "option": "C.",
+                "text": "MG"
+            },
+            {
+                "option": "D.",
+                "text": "MGL"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Area rank of Meghalaya state in India is?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "15th rank"
+            },
+            {
+                "option": "B.",
+                "text": "23rd rank"
+            },
+            {
+                "option": "C.",
+                "text": "13th rank"
+            },
+            {
+                "option": "D.",
+                "text": "18th rank"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the State Motto of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Unity"
+            },
+            {
+                "option": "B.",
+                "text": "The Dragon Lord"
+            },
+            {
+                "option": "C.",
+                "text": "Satyameva Jayate"
+            },
+            {
+                "option": "D.",
+                "text": "May None Suffer Any Pain"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who was the first speaker of Meghalaya Legislative Assembly?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "P. R. Kyndiah"
+            },
+            {
+                "option": "B.",
+                "text": "E. K. Mawlong"
+            },
+            {
+                "option": "C.",
+                "text": "R. S. Lyngdoh"
+            },
+            {
+                "option": "D.",
+                "text": "W. Syiemiong"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who was the first Governor of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Braj Kumar Nehru"
+            },
+            {
+                "option": "B.",
+                "text": "Lallan Prasad Singh"
+            },
+            {
+                "option": "C.",
+                "text": "Tribeni Sahai Misra"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "What is the total area of Nokrek National Park?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "57.48 km2"
+            },
+            {
+                "option": "B.",
+                "text": "37.48 km2"
+            },
+            {
+                "option": "C.",
+                "text": "47.48 km2"
+            },
+            {
+                "option": "D.",
+                "text": "27.48 km2"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the State Animal of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sambar Deer"
+            },
+            {
+                "option": "B.",
+                "text": "Clouded Leopard"
+            },
+            {
+                "option": "C.",
+                "text": "Himalayan Serow"
+            },
+            {
+                "option": "D.",
+                "text": "Mithun"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the Second CM Of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "P. A. Sangma"
+            },
+            {
+                "option": "B.",
+                "text": "Darwin Diengdoh Pugh"
+            },
+            {
+                "option": "C.",
+                "text": "B. B. Lyngdoh"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Where is the Nohkalikai Falls located in India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Assam"
+            },
+            {
+                "option": "B.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "C.",
+                "text": "Kerala"
+            },
+            {
+                "option": "D.",
+                "text": "Sikkim"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When President Rule was first imposed on Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1990"
+            },
+            {
+                "option": "B.",
+                "text": "1991"
+            },
+            {
+                "option": "C.",
+                "text": "1992"
+            },
+            {
+                "option": "D.",
+                "text": "1993"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which one is the highest point of the Garo Hills region of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tura Peak"
+            },
+            {
+                "option": "B.",
+                "text": "Arbella Peak"
+            },
+            {
+                "option": "C.",
+                "text": "Nokrek Peak"
+            },
+            {
+                "option": "D.",
+                "text": "Ranggira Peak"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the State Bird of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nongin"
+            },
+            {
+                "option": "B.",
+                "text": "Emerald Dove"
+            },
+            {
+                "option": "C.",
+                "text": "Blyth's Tragopan"
+            },
+            {
+                "option": "D.",
+                "text": "Hill Myna"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "What is the maximum height of NohKalikai Falls?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "340 m"
+            },
+            {
+                "option": "B.",
+                "text": "220 m"
+            },
+            {
+                "option": "C.",
+                "text": "140 m"
+            },
+            {
+                "option": "D.",
+                "text": "440 m"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which one is the longest natural cave in South Asia?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Krem Iawe"
+            },
+            {
+                "option": "B.",
+                "text": "Siju CaveKrem Iawe"
+            },
+            {
+                "option": "C.",
+                "text": "Krem Liat Prah"
+            },
+            {
+                "option": "D.",
+                "text": "Krem Mawmluh"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who is Conrad Sangma?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Home Minister of India"
+            },
+            {
+                "option": "B.",
+                "text": "Governor of Meghalaya"
+            },
+            {
+                "option": "C.",
+                "text": "The chief minister of Meghalaya"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the State Flower of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Glorosa Lily"
+            },
+            {
+                "option": "B.",
+                "text": "Lady's Slipper Orchid"
+            },
+            {
+                "option": "C.",
+                "text": "Tangidi Puvvu"
+            },
+            {
+                "option": "D.",
+                "text": "Indian Rose Chestnut"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "The Nokrek Ridge National Park is located at?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tripura"
+            },
+            {
+                "option": "B.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "C.",
+                "text": "Kerala"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which one is recognised as the state bird of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Great hornbill"
+            },
+            {
+                "option": "B.",
+                "text": "Hill myna"
+            },
+            {
+                "option": "C.",
+                "text": "House Sparrow"
+            },
+            {
+                "option": "D.",
+                "text": "Asian Koel"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Conrad Sangma comes from which political party?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Asom Gana Parishad"
+            },
+            {
+                "option": "B.",
+                "text": "National People's Party"
+            },
+            {
+                "option": "C.",
+                "text": "Nationalist Democratic Progress Party"
+            },
+            {
+                "option": "D.",
+                "text": "Nationalist Congress Party"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the State Tree of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Alder"
+            },
+            {
+                "option": "B.",
+                "text": "Gamhar"
+            },
+            {
+                "option": "C.",
+                "text": "Agarwood"
+            },
+            {
+                "option": "D.",
+                "text": "Uningthou"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the first Chief Minister of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Williamson A. Sangma"
+            },
+            {
+                "option": "B.",
+                "text": "B. B. Lyngdoh"
+            },
+            {
+                "option": "C.",
+                "text": "P. A. Sangma"
+            },
+            {
+                "option": "D.",
+                "text": "Darwin Diengdoh Pugh"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The Baghmara Pitcher Plant Wildlife Sanctuary is located at?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Uttarakhand"
+            },
+            {
+                "option": "C.",
+                "text": "Punjab"
+            },
+            {
+                "option": "D.",
+                "text": "Assam"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Where is the Baljek Airport located in India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Tripura"
+            },
+            {
+                "option": "C.",
+                "text": "Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which one largest district by population in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "East Khasi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "East Garo Hills"
+            },
+            {
+                "option": "C.",
+                "text": "West Jaintia Hills"
+            },
+            {
+                "option": "D.",
+                "text": "West Garo Hills"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Wangala Festival is celebrated in which state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Andhra Pradesh"
+            },
+            {
+                "option": "B.",
+                "text": "Telangana"
+            },
+            {
+                "option": "C.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "North Eastern Space Application Centre was established in the year",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2000"
+            },
+            {
+                "option": "B.",
+                "text": "2001"
+            },
+            {
+                "option": "C.",
+                "text": "2004"
+            },
+            {
+                "option": "D.",
+                "text": "2006"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Total Number of Wildlife Sanctuary In Meghalaya.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "7"
+            },
+            {
+                "option": "B.",
+                "text": "3"
+            },
+            {
+                "option": "C.",
+                "text": "9"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the first Indian National Congress Chief Minister of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Williamson A. Sangma"
+            },
+            {
+                "option": "B.",
+                "text": "P. A. Sangma"
+            },
+            {
+                "option": "C.",
+                "text": "S. C. Marak"
+            },
+            {
+                "option": "D.",
+                "text": "J. D. Rymbai"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Nongkrem Festival is celebrated in which state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Rajasthan"
+            },
+            {
+                "option": "C.",
+                "text": "Odisha"
+            },
+            {
+                "option": "D.",
+                "text": "Gujarat"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Purno A. Sangma had been awarded with Padma Vibhushan award in the year",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2015"
+            },
+            {
+                "option": "B.",
+                "text": "2017"
+            },
+            {
+                "option": "C.",
+                "text": "2018"
+            },
+            {
+                "option": "D.",
+                "text": "2019"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the first person from Meghalaya to received Padma Bhushan award?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mrinal Miri"
+            },
+            {
+                "option": "B.",
+                "text": "Silverine Swer"
+            },
+            {
+                "option": "C.",
+                "text": "Evelyn Norah Shullai"
+            },
+            {
+                "option": "D.",
+                "text": "Inderjit Kaur Barthakur"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Jadoh, Nahkham and Doh Khlieh are the Cuisine (Famous Food) of which state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "option": "B.",
+                "text": "Himachal Pradesh"
+            },
+            {
+                "option": "C.",
+                "text": "Telangana"
+            },
+            {
+                "option": "D.",
+                "text": "Meghalaya"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which political party did Donkupar Roy, the 10th Chief Minister of Meghalaya belong to?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "All Party Hill Leaders Conference"
+            },
+            {
+                "option": "B.",
+                "text": "Indian National Congress"
+            },
+            {
+                "option": "C.",
+                "text": "United Democratic Party"
+            },
+            {
+                "option": "D.",
+                "text": "Hill People's Union"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who is the first person from Meghalaya to received Padma Shri award?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Queenie Rynjah"
+            },
+            {
+                "option": "B.",
+                "text": "Patricia Mukhim"
+            },
+            {
+                "option": "C.",
+                "text": "Sitamon Sawian"
+            },
+            {
+                "option": "D.",
+                "text": "Evelyn Norah Shullai"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who became the 12th Chief Minsiter of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mukul Sangma"
+            },
+            {
+                "option": "B.",
+                "text": "Conrad Sangma"
+            },
+            {
+                "option": "C.",
+                "text": "D. D. Lapang"
+            },
+            {
+                "option": "D.",
+                "text": "Donkupar Roy"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What are the Traditional Dress for Men in Meghalaya State?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Jacket"
+            },
+            {
+                "option": "B.",
+                "text": "Ka Shad Suk Mynsie"
+            },
+            {
+                "option": "C.",
+                "text": "Ka Pom-Blang"
+            },
+            {
+                "option": "D.",
+                "text": "All of the above"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Under which constituency did Conrad Sangma fight for the election of 2018?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sohra"
+            },
+            {
+                "option": "B.",
+                "text": "Shella"
+            },
+            {
+                "option": "C.",
+                "text": "Ampati"
+            },
+            {
+                "option": "D.",
+                "text": "Tura"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "What are the Traditional Dress for Women in Meghalaya State?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Jainsem Dhara"
+            },
+            {
+                "option": "B.",
+                "text": "Jainkup"
+            },
+            {
+                "option": "C.",
+                "text": "Shad Suk Mynsiem"
+            },
+            {
+                "option": "D.",
+                "text": "All of the above"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "As of 2021, how many person had received Padma Shri award from Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10"
+            },
+            {
+                "option": "B.",
+                "text": "12"
+            },
+            {
+                "option": "C.",
+                "text": "15"
+            },
+            {
+                "option": "D.",
+                "text": "17"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Shillong is the capital city of which Indian State?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tripura"
+            },
+            {
+                "option": "B.",
+                "text": "Odisha"
+            },
+            {
+                "option": "C.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who was elected as the Deputy Chief Minister of Meghalaya when Conrad Sangma was elected as the Chief Minister?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Bindo Lanong"
+            },
+            {
+                "option": "B.",
+                "text": "Prestone Tynsong"
+            },
+            {
+                "option": "C.",
+                "text": "Mukul Sangma"
+            },
+            {
+                "option": "D.",
+                "text": "D. D. Lapang"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "P. A. Sangma elected as the Speaker of the Lok Sabha in the year?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1995"
+            },
+            {
+                "option": "B.",
+                "text": "1996"
+            },
+            {
+                "option": "C.",
+                "text": "1997"
+            },
+            {
+                "option": "D.",
+                "text": "1998"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Where is the Mendi Pathar railway stations located in India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "option": "D.",
+                "text": "Himachal Pradesh"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which one the State recognised tree of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Gamhar"
+            },
+            {
+                "option": "B.",
+                "text": "Arjuna"
+            },
+            {
+                "option": "C.",
+                "text": "Gulmohar"
+            },
+            {
+                "option": "D.",
+                "text": "Ashoka"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "When did Meghalaya become an autonomous state within Assam?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1st April 1969"
+            },
+            {
+                "option": "B.",
+                "text": "1st April 1970"
+            },
+            {
+                "option": "C.",
+                "text": "21st January 1971"
+            },
+            {
+                "option": "D.",
+                "text": "21st January 1972"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is elected as the first member of Rajya Sabha from Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Robert Kharshiing"
+            },
+            {
+                "option": "B.",
+                "text": "Alexander Warjri"
+            },
+            {
+                "option": "C.",
+                "text": "Showaless K. Shilla"
+            },
+            {
+                "option": "D.",
+                "text": "George Gilbert Swell"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "which state is east of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Assam"
+            },
+            {
+                "option": "B.",
+                "text": "Nagaland"
+            },
+            {
+                "option": "C.",
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Who was the first Inspector General of Police Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "R. C. Dutt"
+            },
+            {
+                "option": "B.",
+                "text": "K. P. S. Gill"
+            },
+            {
+                "option": "C.",
+                "text": "B. S. Baber"
+            },
+            {
+                "option": "D.",
+                "text": "M. I. S. Iyer"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Who is the 19th Governor of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ganga Prasad"
+            },
+            {
+                "option": "B.",
+                "text": "R. N. Ravi"
+            },
+            {
+                "option": "C.",
+                "text": "Tathagata Roy"
+            },
+            {
+                "option": "D.",
+                "text": "Satya Pal Malik"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "How many seats does the Meghalaya Legislative Assembly contain?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "60 Seats"
+            },
+            {
+                "option": "B.",
+                "text": "66 Seats"
+            },
+            {
+                "option": "C.",
+                "text": "56 Seats"
+            },
+            {
+                "option": "D.",
+                "text": "64 Seats"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Mary Help of Christians Cathedral in Shillong was founded in the year",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1928"
+            },
+            {
+                "option": "B.",
+                "text": "1932"
+            },
+            {
+                "option": "C.",
+                "text": "1936"
+            },
+            {
+                "option": "D.",
+                "text": "1940"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which one is the first Khasi film?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Iewduh"
+            },
+            {
+                "option": "B.",
+                "text": "Manik Raitong"
+            },
+            {
+                "option": "C.",
+                "text": "Onaatah: Of The Earth"
+            },
+            {
+                "option": "D.",
+                "text": "Ka Synjuk Ri ki Laiphew Syiem"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "How many seats does Meghalaya have in the Rajya Sabha?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1 Seat"
+            },
+            {
+                "option": "B.",
+                "text": "2 Seat"
+            },
+            {
+                "option": "C.",
+                "text": "3 Seat"
+            },
+            {
+                "option": "D.",
+                "text": "4 Seat"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Schistura syngkai, recently discovered in Meghalaya is the scientific name of which type of species?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Fish"
+            },
+            {
+                "option": "B.",
+                "text": "Cat"
+            },
+            {
+                "option": "C.",
+                "text": "Horse"
+            },
+            {
+                "option": "D.",
+                "text": "Frog"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "How many seats does Meghalaya have in the Lok Sabha?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4 Seats"
+            },
+            {
+                "option": "B.",
+                "text": "3 Seats"
+            },
+            {
+                "option": "C.",
+                "text": "2 Seats"
+            },
+            {
+                "option": "D.",
+                "text": "1 Seat"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "The leader of Khasi Uprising was",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Somil Singh"
+            },
+            {
+                "option": "B.",
+                "text": "Tirot Singh"
+            },
+            {
+                "option": "C.",
+                "text": "Tikadrenjit Singh"
+            },
+            {
+                "option": "D.",
+                "text": "Debendra Singh"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was Meghalaya High Court established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "March 2011"
+            },
+            {
+                "option": "B.",
+                "text": "March 2012"
+            },
+            {
+                "option": "C.",
+                "text": "March 2013"
+            },
+            {
+                "option": "D.",
+                "text": "March 2014"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "The U. Tirot Sing Day is observed on",
+        "options": [
+            {
+                "option": "A.",
+                "text": "17th July"
+            },
+            {
+                "option": "B.",
+                "text": "17th August"
+            },
+            {
+                "option": "C.",
+                "text": "17th May"
+            },
+            {
+                "option": "D.",
+                "text": "17th April"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The Seng Kut Snem is observed every year on",
+        "options": [
+            {
+                "option": "A.",
+                "text": "12th March"
+            },
+            {
+                "option": "B.",
+                "text": "16th August"
+            },
+            {
+                "option": "C.",
+                "text": "17th September"
+            },
+            {
+                "option": "D.",
+                "text": "23th November"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "When did Meghalaya receive the status of a full-fledged State by the North-Eastern Areas Act?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1970"
+            },
+            {
+                "option": "B.",
+                "text": "1971"
+            },
+            {
+                "option": "C.",
+                "text": "1972"
+            },
+            {
+                "option": "D.",
+                "text": "1973"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which one is declared as Meghalaya's first Eri Silk Village?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Bokmagre"
+            },
+            {
+                "option": "B.",
+                "text": "Nanil Apal"
+            },
+            {
+                "option": "C.",
+                "text": "Umden-Diwon"
+            },
+            {
+                "option": "D.",
+                "text": "Raksam Genang"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "When did Shillong become the capital of Assam?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1864"
+            },
+            {
+                "option": "B.",
+                "text": "1874"
+            },
+            {
+                "option": "C.",
+                "text": "1884"
+            },
+            {
+                "option": "D.",
+                "text": "1894"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who coined the term \"Meghalaya\"?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Amartya Sen"
+            },
+            {
+                "option": "B.",
+                "text": "S. P. Chatterjee"
+            },
+            {
+                "option": "C.",
+                "text": "Kazi Nazrul Islam"
+            },
+            {
+                "option": "D.",
+                "text": "Rabindranath Tagore"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the highest point in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mawryngkneng"
+            },
+            {
+                "option": "B.",
+                "text": "Rableng Hill"
+            },
+            {
+                "option": "C.",
+                "text": "Nokrek Peak"
+            },
+            {
+                "option": "D.",
+                "text": "Shillong Peak"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the longest River of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Barapani River"
+            },
+            {
+                "option": "B.",
+                "text": "Simsang River"
+            },
+            {
+                "option": "C.",
+                "text": "Umtrew River"
+            },
+            {
+                "option": "D.",
+                "text": "Umngot River"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which River divides Garo Hills into two parts?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ganol River"
+            },
+            {
+                "option": "B.",
+                "text": "Dareng River"
+            },
+            {
+                "option": "C.",
+                "text": "Simsang River"
+            },
+            {
+                "option": "D.",
+                "text": "Bugai River"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which section of the plateau in the Garo Hills Region is nearly plain?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Western Section"
+            },
+            {
+                "option": "B.",
+                "text": "Eastern Section"
+            },
+            {
+                "option": "C.",
+                "text": "Northern Section"
+            },
+            {
+                "option": "D.",
+                "text": "Southern Section"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which Indian State have a highest decadal growth rate of Population?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Nagaland"
+            },
+            {
+                "option": "C.",
+                "text": "Mizoram"
+            },
+            {
+                "option": "D.",
+                "text": "Assam"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the highest point in the Garo Hills?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tura Peak"
+            },
+            {
+                "option": "B.",
+                "text": "Nokrek Peak"
+            },
+            {
+                "option": "C.",
+                "text": "Maryngsih Peak"
+            },
+            {
+                "option": "D.",
+                "text": "Sellm Peak"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the elevation of Tura Peak?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "872 meters"
+            },
+            {
+                "option": "B.",
+                "text": "772 meters"
+            },
+            {
+                "option": "C.",
+                "text": "672 meters"
+            },
+            {
+                "option": "D.",
+                "text": "572 meters"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "What is the highest average rainfall in some areas of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "12,000 mm"
+            },
+            {
+                "option": "B.",
+                "text": "10,000 mm"
+            },
+            {
+                "option": "C.",
+                "text": "8,000 mm"
+            },
+            {
+                "option": "D.",
+                "text": "4,000 mm"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Where is Nokrek National Park located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "West Garo Hills District"
+            },
+            {
+                "option": "B.",
+                "text": "North Garo Hills District"
+            },
+            {
+                "option": "C.",
+                "text": "East Garo Hills District"
+            },
+            {
+                "option": "D.",
+                "text": "South Garo Hills District"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Where is Balphakram National Park located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "North Garo Hills District"
+            },
+            {
+                "option": "B.",
+                "text": "South Garo Hills District"
+            },
+            {
+                "option": "C.",
+                "text": "East Garo Hills District"
+            },
+            {
+                "option": "D.",
+                "text": "West Garo Hills District"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the species name of \"Me'mang Koksi\" a local name for the 'Pitcher Plant' found in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nepenthes"
+            },
+            {
+                "option": "B.",
+                "text": "Caryophyllales"
+            },
+            {
+                "option": "C.",
+                "text": "Nepenthaceae"
+            },
+            {
+                "option": "D.",
+                "text": "Nepenthes khasiana"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "What is Siju Cave known in English?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Bat Cave"
+            },
+            {
+                "option": "B.",
+                "text": "Mineral Cave"
+            },
+            {
+                "option": "C.",
+                "text": "Both A and B"
+            },
+            {
+                "option": "D.",
+                "text": "Limestone Cave"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the largest bird found in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Deo Haah"
+            },
+            {
+                "option": "B.",
+                "text": "Great Indian Hornbill"
+            },
+            {
+                "option": "C.",
+                "text": "Rama Chiluka"
+            },
+            {
+                "option": "D.",
+                "text": "Grey Peacock Pheasant"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the population growth of Meghalaya from 2001 to 2011 as per the census report of \"Census of India\"?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "32.0%"
+            },
+            {
+                "option": "B.",
+                "text": "30.6%"
+            },
+            {
+                "option": "C.",
+                "text": "31.6%"
+            },
+            {
+                "option": "D.",
+                "text": "27.8%"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the largest group in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Jaintias"
+            },
+            {
+                "option": "B.",
+                "text": "Khasis"
+            },
+            {
+                "option": "C.",
+                "text": "Garos"
+            },
+            {
+                "option": "D.",
+                "text": "Nepali"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which religion is mostly found in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Christianity"
+            },
+            {
+                "option": "B.",
+                "text": "Hinduism"
+            },
+            {
+                "option": "C.",
+                "text": "Islam"
+            },
+            {
+                "option": "D.",
+                "text": "Buddhism"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Where are the Muslims of Meghalaya mostly concentrated?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "South West Khasi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "West Khasi Hills"
+            },
+            {
+                "option": "C.",
+                "text": "West Garo Hills"
+            },
+            {
+                "option": "D.",
+                "text": "East Khasi Hills"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Where is \"Nartiang Durga Temple\" located in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "West Khasi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "East Khasi Hills"
+            },
+            {
+                "option": "C.",
+                "text": "West Jaintia Hills"
+            },
+            {
+                "option": "D.",
+                "text": "East Jaintia Hills"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Where is the Head Quarters of East Garo Hills District?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Resubelpara"
+            },
+            {
+                "option": "B.",
+                "text": "Tura"
+            },
+            {
+                "option": "C.",
+                "text": "Baghmara"
+            },
+            {
+                "option": "D.",
+                "text": "Williamnagar"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "When was Union Christian College, Meghalaya established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1942"
+            },
+            {
+                "option": "B.",
+                "text": "1952"
+            },
+            {
+                "option": "C.",
+                "text": "1962"
+            },
+            {
+                "option": "D.",
+                "text": "1972"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the Motto of North-Eastern Hill University?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Work Is Worship"
+            },
+            {
+                "option": "B.",
+                "text": "True Knowledge Liberates"
+            },
+            {
+                "option": "C.",
+                "text": "Work Maketh A Man"
+            },
+            {
+                "option": "D.",
+                "text": "Rise Up And Build"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "When was North-Eastern Hill University (NEHU) established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1973"
+            },
+            {
+                "option": "B.",
+                "text": "1975"
+            },
+            {
+                "option": "C.",
+                "text": "1963"
+            },
+            {
+                "option": "D.",
+                "text": "1979"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which two universities were born through North-Eastern Hill University?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mizoram University and Sikkim University"
+            },
+            {
+                "option": "B.",
+                "text": "Tripura University and Mizoram University"
+            },
+            {
+                "option": "C.",
+                "text": "Manipur University and Nagaland University"
+            },
+            {
+                "option": "D.",
+                "text": "Nagaland University and Mizoram University"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "How many campuses does NEHU have?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "One"
+            },
+            {
+                "option": "B.",
+                "text": "Two"
+            },
+            {
+                "option": "C.",
+                "text": "Three"
+            },
+            {
+                "option": "D.",
+                "text": "Four"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Where in Shillong is the North-Eastern Hill University located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Jani Mawiong"
+            },
+            {
+                "option": "B.",
+                "text": "Mawkynroh Umshing"
+            },
+            {
+                "option": "C.",
+                "text": "Mawiong Umjapung"
+            },
+            {
+                "option": "D.",
+                "text": "Mawlai Umthlong"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    }
+]

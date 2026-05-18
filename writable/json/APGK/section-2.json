@@ -1,0 +1,1432 @@
+[
+    {
+        "question": "Dr. Jaya Arunachalam, veteran social activist has passed away. She was from which state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Kerala"
+            },
+            {
+                "option": "B.",
+                "text": "Karnataka"
+            },
+            {
+                "option": "C.",
+                "text": "Andhra Pradesh"
+            },
+            {
+                "option": "D.",
+                "text": "Tamil Nadu"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which one is the largest district in Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Kurung Kumey"
+            },
+            {
+                "option": "B.",
+                "text": "Upper Dibang Valley"
+            },
+            {
+                "option": "C.",
+                "text": "West Kameng"
+            },
+            {
+                "option": "D.",
+                "text": "Upper Siang"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the Arunachal Pradesh state Flower?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lady slipper orchid"
+            },
+            {
+                "option": "B.",
+                "text": "Marigold"
+            },
+            {
+                "option": "C.",
+                "text": "Rhododendron"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which of the following has become the new district of Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lepa Rada"
+            },
+            {
+                "option": "B.",
+                "text": "Pakke-Kessang"
+            },
+            {
+                "option": "C.",
+                "text": "Manigong"
+            },
+            {
+                "option": "D.",
+                "text": "Shi Yomi"
+            },
+            {
+                "option": "E.",
+                "text": "Bichom and Keyi Panyor"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer: Option E"
+    },
+    {
+        "question": "In which district of Arunachal Pradesh Parshuram kund is located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lohit"
+            },
+            {
+                "option": "B.",
+                "text": "Changlang"
+            },
+            {
+                "option": "C.",
+                "text": "Triap"
+            },
+            {
+                "option": "D.",
+                "text": "Longdings"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "In which district the Parshuram Kund is located",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lohit"
+            },
+            {
+                "option": "B.",
+                "text": "East Siang"
+            },
+            {
+                "option": "C.",
+                "text": "East Kameng"
+            },
+            {
+                "option": "D.",
+                "text": "West Kameng"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The Golden Pagoda is located in which district",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lohit District"
+            },
+            {
+                "option": "B.",
+                "text": "Namsai District"
+            },
+            {
+                "option": "C.",
+                "text": "Upper Siang District"
+            },
+            {
+                "option": "D.",
+                "text": "Longding District"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the first person from Arunachal to received Padma Shri Award",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mamang Dai"
+            },
+            {
+                "option": "B.",
+                "text": "Binny Yanga"
+            },
+            {
+                "option": "C.",
+                "text": "Mohan Singh Gunjyal"
+            },
+            {
+                "option": "D.",
+                "text": "Lama Thupten Phuntsok"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "The border between China and India is known as?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meatatarian line"
+            },
+            {
+                "option": "B.",
+                "text": "Palk strait"
+            },
+            {
+                "option": "C.",
+                "text": "McMahon line"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "\"Pakhui Wildlife Sanctuary\" is located in which state of India",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Manipur"
+            },
+            {
+                "option": "C.",
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "option": "D.",
+                "text": "Nagaland"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Mountain between the Siang river and the Noa-Dihing river is classified as?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mishmi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "Hengduan Shan"
+            },
+            {
+                "option": "C.",
+                "text": "Eastern Himalayas"
+            },
+            {
+                "option": "D.",
+                "text": "Patkai Range"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The Union Cabinet has approved the introduction of a Bill to modify the list of Scheduled Tribes (STs) of Arunachal Pradesh. Which of the following tribes will be included in the list?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mishmi-Kaman"
+            },
+            {
+                "option": "B.",
+                "text": "Idu"
+            },
+            {
+                "option": "C.",
+                "text": "Taraon"
+            },
+            {
+                "option": "D.",
+                "text": "All of the above"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which of the following forests extend from Kashmir to Arunachal Pradesh between 2900 to 3500 metres?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Montane Wet temperate forests"
+            },
+            {
+                "option": "B.",
+                "text": "Himalayan Dry temperate Forest"
+            },
+            {
+                "option": "C.",
+                "text": "Sub alpine forest"
+            },
+            {
+                "option": "D.",
+                "text": "Moist Alpine scrub"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which of the following mountain passes forms the tri-junction of India, China and Myanmar?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nathula"
+            },
+            {
+                "option": "B.",
+                "text": "Jelep La"
+            },
+            {
+                "option": "C.",
+                "text": "Bomdi La"
+            },
+            {
+                "option": "D.",
+                "text": "Diphu"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Arunachal Pradesh was also known as",
+        "options": [
+            {
+                "option": "A.",
+                "text": "NEFA"
+            },
+            {
+                "option": "B.",
+                "text": "NESA"
+            },
+            {
+                "option": "C.",
+                "text": "NEFF"
+            },
+            {
+                "option": "D.",
+                "text": "NEXA"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which one country did not share its border with Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nepal"
+            },
+            {
+                "option": "B.",
+                "text": "Myanmar"
+            },
+            {
+                "option": "C.",
+                "text": "China"
+            },
+            {
+                "option": "D.",
+                "text": "Bhutan"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which union minister has inaugurated RIWATCH Museum in Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nitin Gadkari"
+            },
+            {
+                "option": "B.",
+                "text": "Ashok Gajapathi Raju"
+            },
+            {
+                "option": "C.",
+                "text": "Kiren Rijiju"
+            },
+            {
+                "option": "D.",
+                "text": "Prakash Javadekar"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which one is the Official Language of Arunachal Pradesh",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nyishi"
+            },
+            {
+                "option": "B.",
+                "text": "Adi"
+            },
+            {
+                "option": "C.",
+                "text": "Hindi"
+            },
+            {
+                "option": "D.",
+                "text": "English"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which one is not a native tribe of Arunachal Pradesh",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nyishi"
+            },
+            {
+                "option": "B.",
+                "text": "Rabha"
+            },
+            {
+                "option": "C.",
+                "text": "Apatani"
+            },
+            {
+                "option": "D.",
+                "text": "Adi"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Recently, President's rule was imposed in Arunachal Pradesh. Consider the following statements with this context:\n1. During President's rule in a state, the executive power shifts from Council of Ministers to President of India.\n2. President’s rule must be approved by Parliament within a period of six months.\nWhich of the above is \/ are correct statements?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2"
+            },
+            {
+                "option": "C.",
+                "text": "Both 1 & 2"
+            },
+            {
+                "option": "D.",
+                "text": "Neither 1 nor 2"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "In which of the following states of India, the Governor has been given special discretionary powers in matters related to law and order?\n1. Nagaland\n2. Arunachal Pradesh\nSelect the correct option from given below:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2"
+            },
+            {
+                "option": "C.",
+                "text": "Both 1 & 2"
+            },
+            {
+                "option": "D.",
+                "text": "Neither 1 nor 2"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "\"Which among the following is \/ are correct statements with respect to Shifting Cultivation as practiced in India?\n1. India's largest area under shifting cultivation is in the state of Arunachal Pradesh.\n2. In recent years, the cycle of shifting cultivation on a particular land has reduced drastically.\nSelect the correct option from given below:\"",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2"
+            },
+            {
+                "option": "C.",
+                "text": "Both 1 & 2"
+            },
+            {
+                "option": "D.",
+                "text": "Neither 1 nor 2"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which of the following pairs of monasteries and their correct location state is \/ are correct?\n1. Rumtek Monastery - Sikkim\n2. Tawang Monastery - Ladakh\n3. Hemis Monastery - Arunachal Pradesh\nSelect the correct option from given below:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1"
+            },
+            {
+                "option": "B.",
+                "text": "Only 1 & 2"
+            },
+            {
+                "option": "C.",
+                "text": "Only 1 & 3"
+            },
+            {
+                "option": "D.",
+                "text": "1, 2 & 3"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which of the following states share boarder with Myanmar?\n1. Arunachal Pradesh\n2. Mizoram\n3. Manipur\n4. Nagaland\nSelect the correct option from given below:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1 & 2"
+            },
+            {
+                "option": "B.",
+                "text": "Only 1 & 3"
+            },
+            {
+                "option": "C.",
+                "text": "Only 2 & 4"
+            },
+            {
+                "option": "D.",
+                "text": "1, 2, 3 & 4"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "With reference to the NGT directive to Arunachal Pradesh government to identify illegal deforestation hotspots in Pakke Tiger Reserve, consider the following statements the protected site:\n1. The reserve represent the range limits of Indochinese tigers and Bengal tigers.\n2. The reserve is known for the 'Hornbill Nest Adoption Program'.\n3. The forest belongs to evergreen category.\nWhich of the above statements is\/are correct?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1 and 2 are correct"
+            },
+            {
+                "option": "B.",
+                "text": "Only 1 and 3 are correct"
+            },
+            {
+                "option": "C.",
+                "text": "Only 2 and 3 are correct"
+            },
+            {
+                "option": "D.",
+                "text": "All are correct"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "In context with the call for creation of a separate IAS cadre for Arunachal Pradesh, consider the following statements:\n1. The IAS cadre for the state are sourced from the AGMUT cadres.\n2. Article 312 provides for creation of a new all India service.\nSelect the correct option from given below:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1 is correct"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2 is correct"
+            },
+            {
+                "option": "C.",
+                "text": "Neither 1 nor 2 is correct"
+            },
+            {
+                "option": "D.",
+                "text": "Both 1 and 2 are correct"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "India's APEDA introduced its kiwi wine in Greece. In this context, consider the following statements:\n1. The Indian Kiwi wine is produced in Arunachal Pradesh.\n2. Wine is being produced by the Apatani tribe.\nWhich of the above statements is\/are correct?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1 is correct"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2 is correct"
+            },
+            {
+                "option": "C.",
+                "text": "Neither 1 nor 2 is correct"
+            },
+            {
+                "option": "D.",
+                "text": "Both 1 and 2 are correct"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "In context of the recent signing of agreements for the Morh Tunnel project, consider the following statements:\n1. It is to be constructed in Arunachal Pradesh.\n2. It is to be an all-weather connectivity project.\nSelect the correct option from given below:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1 is correct"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2 is correct"
+            },
+            {
+                "option": "C.",
+                "text": "Neither 1 nor 2 is correct"
+            },
+            {
+                "option": "D.",
+                "text": "Both 1 and 2 are correct"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "With reference to the recent discussions about the Galo tribe, consider the following statements:\n1. They are designated as a particularly vulnerable tribal group'.\n2. They are found in Arunachal Pradesh.\nSelect the correct option from given below:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1 is correct"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2 is correct"
+            },
+            {
+                "option": "C.",
+                "text": "Neither 1 nor 2 is correct"
+            },
+            {
+                "option": "D.",
+                "text": "Both 1 and 2 are correct"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "In context of the recent rescue operations due to heavy snowfall in Nathu La, consider the following statements:\n1. The Nathu La pass connects India and China.\n2. The Nathu La Pass is in Arunachal Pradesh.\nWhich of the above statements is\/are true?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1 is correct"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2 is correct"
+            },
+            {
+                "option": "C.",
+                "text": "Neither 1 nor 2 is correct"
+            },
+            {
+                "option": "D.",
+                "text": "Both 1 and 2 are correct"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The achievements of the Border Road Organisation has been highlighted recently. In this context, consider the following statements:\n1. Project Brahmank of BRO is implemented in Arunachal Pradesh.\n2. The Diffo Bridge was constructed as a part of Project Brahmank.\nSelect the correct option from given below:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1 is correct"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2 is correct"
+            },
+            {
+                "option": "C.",
+                "text": "Neither 1 nor 2 is correct"
+            },
+            {
+                "option": "D.",
+                "text": "Both 1 and 2 are correct"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Consider the following states:\n1. Arunachal Pradesh\n2. Nagaland\n3. Meghalaya\n4. Mizoram\nThe inner line permit (ILP) is required by Indian citizens to enter Which among the above states?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1, 2 & 3"
+            },
+            {
+                "option": "B.",
+                "text": "Only 1, 2 & 4"
+            },
+            {
+                "option": "C.",
+                "text": "Only 2, 3 & 4"
+            },
+            {
+                "option": "D.",
+                "text": "1, 2, 3 & 4"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "English is the official language of __:\n1. Nagaland\n2. Arunachal Pradesh\n3. Mizoram\n4. Manipur\nSelect the correct option from given below:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 1, 2 & 3"
+            },
+            {
+                "option": "B.",
+                "text": "Only 2, 3 & 4"
+            },
+            {
+                "option": "C.",
+                "text": "Only 1 & 2"
+            },
+            {
+                "option": "D.",
+                "text": "1, 2, 3 & 4"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "\"Consider the following pairs of Ramsar sites with their states:\n1. Hokersar - Karnataka\n2. Pong Dam Lake - Arunachal Pradesh\n3. Bhoj Wetland - Gujarat\nWhich of the above pairs is\/are correctly matched?\"",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Only 3"
+            },
+            {
+                "option": "B.",
+                "text": "Only 1 & 3"
+            },
+            {
+                "option": "C.",
+                "text": "Only 2 & 3"
+            },
+            {
+                "option": "D.",
+                "text": "None"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the capital of Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Pasighat"
+            },
+            {
+                "option": "B.",
+                "text": "Itanagar"
+            },
+            {
+                "option": "C.",
+                "text": "Deomali"
+            },
+            {
+                "option": "D.",
+                "text": "Tezpur"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Name of the current chief minister of Arunachal Pradesh",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Pema Khandu"
+            },
+            {
+                "option": "B.",
+                "text": "Gegong Apang"
+            },
+            {
+                "option": "C.",
+                "text": "Tomo Riba"
+            },
+            {
+                "option": "D.",
+                "text": "Nabam Tuki"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "How was Arunachal Pradesh formerly known?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "PEPSU"
+            },
+            {
+                "option": "B.",
+                "text": "Coorg"
+            },
+            {
+                "option": "C.",
+                "text": "North East Frontier Agency"
+            },
+            {
+                "option": "D.",
+                "text": "North West Frontier Province"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which is the first Hindi newspaper recently launched in Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Pradesh Bhasha"
+            },
+            {
+                "option": "B.",
+                "text": "Arun Bhoomi"
+            },
+            {
+                "option": "C.",
+                "text": "Hind Sahitya"
+            },
+            {
+                "option": "D.",
+                "text": "Hindi Times"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which of the following passes is located in Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rohtang Pass"
+            },
+            {
+                "option": "B.",
+                "text": "Bara Lachan Pass"
+            },
+            {
+                "option": "C.",
+                "text": "Bomdila Pass"
+            },
+            {
+                "option": "D.",
+                "text": "Shipki La Pass"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "In which City of Arunachal Pradesh Ganga Lake is situated",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Roing"
+            },
+            {
+                "option": "B.",
+                "text": "Itanagar"
+            },
+            {
+                "option": "C.",
+                "text": "Seppa"
+            },
+            {
+                "option": "D.",
+                "text": "Khonsa"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "The archeological site Bhismaknagar is located near which city",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Roing"
+            },
+            {
+                "option": "B.",
+                "text": "Dirang"
+            },
+            {
+                "option": "C.",
+                "text": "Pasighat"
+            },
+            {
+                "option": "D.",
+                "text": "Naharlagun"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which one is the highest Peak in Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sela Pass"
+            },
+            {
+                "option": "B.",
+                "text": "Tawang"
+            },
+            {
+                "option": "C.",
+                "text": "Kangte"
+            },
+            {
+                "option": "D.",
+                "text": "Myodia"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "As per the Koppen's classification of the Indian climate, Sikkim and Arunachal Pradesh are the part of which of the following climatic region?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Semi-Arid Steppe"
+            },
+            {
+                "option": "B.",
+                "text": "Tundra type"
+            },
+            {
+                "option": "C.",
+                "text": "Cold Humid type"
+            },
+            {
+                "option": "D.",
+                "text": "Tropical Monsoon type"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "The state Arunachal Pradesh is also known as",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Seven Sister State"
+            },
+            {
+                "option": "B.",
+                "text": "Land of Rising Sun"
+            },
+            {
+                "option": "C.",
+                "text": "Egg Bowl of India"
+            },
+            {
+                "option": "D.",
+                "text": "Sugar Bowl of India"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "By which name outer-sub Himalayan range are called in Arunachal Pradesh",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Shivalik mountains"
+            },
+            {
+                "option": "B.",
+                "text": "Mishmi Hills"
+            },
+            {
+                "option": "C.",
+                "text": "Kachar Hills"
+            },
+            {
+                "option": "D.",
+                "text": "Barail Range"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "It is among the oldest surviving health traditions of the world with a living history of more than 2500 years. It has been practised in Himalayan regions, particularly in Leh and Ladakh (J&K), Himachal Pradesh, Arunachal Pradesh, Sikkim, Darjeeling etc. This curative system is very effective in managing chronic diseases like Asthma, Bronchitis, Arthritis, etc. It considers body and the mind as the locus of treatment. This healing system is known as ____?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sowa-Rigpa"
+            },
+            {
+                "option": "B.",
+                "text": "Naturopathy"
+            },
+            {
+                "option": "C.",
+                "text": "Unani"
+            },
+            {
+                "option": "D.",
+                "text": "Ayurveda"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which species has been recently named after the state of Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Spider"
+            },
+            {
+                "option": "B.",
+                "text": "Gecko"
+            },
+            {
+                "option": "C.",
+                "text": "Turtle"
+            },
+            {
+                "option": "D.",
+                "text": "Butterfly"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who becomes the first woman in the world to scale the summit of Mount Everest twice in a season",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tagit Sorang"
+            },
+            {
+                "option": "B.",
+                "text": "Tashi Yangjom"
+            },
+            {
+                "option": "C.",
+                "text": "Abraham Tagit Sorang"
+            },
+            {
+                "option": "D.",
+                "text": "Anshu Jamsenpa"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Who is also known as the father of Donyi-Polo",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Talom Gamlin"
+            },
+            {
+                "option": "B.",
+                "text": "Talom Rukbo"
+            },
+            {
+                "option": "C.",
+                "text": "Talom Mithi"
+            },
+            {
+                "option": "D.",
+                "text": "Talom Apang"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the first person from Arunachal Pradesh to scale Everest",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tapi Mra"
+            },
+            {
+                "option": "B.",
+                "text": "Tine Mena"
+            },
+            {
+                "option": "C.",
+                "text": "Tashi Yangjom"
+            },
+            {
+                "option": "D.",
+                "text": "Anshu Jamsenpa"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Who succeeded Dorjee Khandu as Arunachal Pradesh's chief minister?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tarun Gogoi"
+            },
+            {
+                "option": "B.",
+                "text": "Rishang Keishing"
+            },
+            {
+                "option": "C.",
+                "text": "S. C. Jamir"
+            },
+            {
+                "option": "D.",
+                "text": "Dorjee Khandu"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which one is the capital of Arunachal Pradesh",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tawang"
+            },
+            {
+                "option": "B.",
+                "text": "Pasighat"
+            },
+            {
+                "option": "C.",
+                "text": "Itanagar"
+            },
+            {
+                "option": "D.",
+                "text": "Shillong"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Most Populous district of Arunachal Pradesh",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tawang"
+            },
+            {
+                "option": "B.",
+                "text": "West Siang"
+            },
+            {
+                "option": "C.",
+                "text": "Papum Pare District"
+            },
+            {
+                "option": "D.",
+                "text": "Lohit"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "The Kameng River originates in which district",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tawang district"
+            },
+            {
+                "option": "B.",
+                "text": "West Kameng district"
+            },
+            {
+                "option": "C.",
+                "text": "East Siang district"
+            },
+            {
+                "option": "D.",
+                "text": "Lohit district"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Namdapha National Park is the ______ largest national park in India.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "third"
+            },
+            {
+                "option": "B.",
+                "text": "fourth"
+            },
+            {
+                "option": "C.",
+                "text": "fifth"
+            },
+            {
+                "option": "D.",
+                "text": "sixth"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Name of the first chief minister of Arunachal Pradesh",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tomo Riba"
+            },
+            {
+                "option": "B.",
+                "text": "Dorjee Khandu"
+            },
+            {
+                "option": "C.",
+                "text": "Prem Khandu Thungan"
+            },
+            {
+                "option": "D.",
+                "text": "Nabam Tuki"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which state is known as \"the land of dawn-lit mountains\"?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tripura"
+            },
+            {
+                "option": "B.",
+                "text": "Assam"
+            },
+            {
+                "option": "C.",
+                "text": "Arunachal Pradesh"
+            },
+            {
+                "option": "D.",
+                "text": "Mizoram"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which of the following forests are found in the region to the east of Nepal into Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tropical moist deciduous forests"
+            },
+            {
+                "option": "B.",
+                "text": "Tropical wet evergreen forests"
+            },
+            {
+                "option": "C.",
+                "text": "Sub tropical Dry evergreen forests"
+            },
+            {
+                "option": "D.",
+                "text": "Montane Wet temperate forests"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which of the following district's border touches Bhutan, Tibet and Assam?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Upper Siang"
+            },
+            {
+                "option": "B.",
+                "text": "Tawang"
+            },
+            {
+                "option": "C.",
+                "text": "West Kameng"
+            },
+            {
+                "option": "D.",
+                "text": "East Kameng"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "The ancient archaeological site Gomsi is locatedin which district",
+        "options": [
+            {
+                "option": "A.",
+                "text": "West Kameng District"
+            },
+            {
+                "option": "B.",
+                "text": "Dibang Valley District"
+            },
+            {
+                "option": "C.",
+                "text": "East Kameng District"
+            },
+            {
+                "option": "D.",
+                "text": "East Siang District"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the Arunachal Pradesh state Animal?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Wild buffalo"
+            },
+            {
+                "option": "B.",
+                "text": "Snow leopard"
+            },
+            {
+                "option": "C.",
+                "text": "Gayal (Mithun)"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who is the first Rajya Sabha member from Arunachal Pradesh",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Yonggam Nyodek"
+            },
+            {
+                "option": "B.",
+                "text": "Ratan Tama"
+            },
+            {
+                "option": "C.",
+                "text": "Mukut Mithi"
+            },
+            {
+                "option": "D.",
+                "text": "Nabam Rebia"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    }
+]

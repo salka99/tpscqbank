@@ -1,0 +1,2296 @@
+[
+    {
+        "question": "The average age of seven boys sitting in a row facing North is 26 years. If the average age of the first three boys is 19 years and the average age of the last three boys is 32 years, what is the age of the boy who is sitting in the middle of the row?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "24 years"
+            },
+            {
+                "option": "B.",
+                "text": "28 years"
+            },
+            {
+                "option": "C.",
+                "text": "29 years"
+            },
+            {
+                "option": "D.",
+                "text": "31 years"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Age of the boy sitting in the middle = [26 × 7 - (19 × 3 + 32 × 3)]= (180 + 153) years = 29 years"
+    },
+    {
+        "question": "The average weight of 45 students in a class is 52 kg. Five of them whose average weight is 48 kg leave the class and other 5 students whose average weight is 54 kg join the class. What is the new average weight (in kg) of the class?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$52\\frac{1}{3}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$52\\frac{1}{2}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$52\\frac{2}{3}$$"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum of the weights of the students after replacement = [(52 × 45) - (48 × 5) + (54 × 5)] kg = 2370 kg ∴ New average = $$\\left( {\\frac{{2370}}{{45}}} \\right)$$ kg = $$52\\frac{2}{3}$$ kg"
+    },
+    {
+        "question": "The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average of the whole team. What is the average age of the team?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "23 years"
+            },
+            {
+                "option": "B.",
+                "text": "24 years"
+            },
+            {
+                "option": "C.",
+                "text": "25 years"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the average age of the whole team be x years. ∴ 11x - (26 + 29) = 9 (x - 1) ⇒ 11x - 9x = 46 ⇒ 2x = 46 ⇒ x = 23 So, the average age of the team is 23 years."
+    },
+    {
+        "question": "A motorist travels to a place 150 km away at an average speed of 50 km\/hr and returns at 30 km\/ hr. His average speed for the whole journey in km\/hr is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "35 km\/hr"
+            },
+            {
+                "option": "B.",
+                "text": "37 km\/hr"
+            },
+            {
+                "option": "C.",
+                "text": "37.5 km\/hr"
+            },
+            {
+                "option": "D.",
+                "text": "40 km\/hr"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Average speed $$\\eqalign{ & = \\left( {\\frac{{2xy}}{{x + y}}} \\right){\\text{ km\/hr}} \\cr & = \\left( {\\frac{{2 \\times 50 \\times 30}}{{50 + 30}}} \\right){\\text{ km\/hr}} \\cr & = 37.5{\\text{ km\/hr}} \\cr} $$"
+    },
+    {
+        "question": "The average age of a husband and wife at the time of their marriage was 25 years. A son was born to them two years after their marriage. The present average age of all three of them is 24 years. How many years is it since the couple got married?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "5 years"
+            },
+            {
+                "option": "B.",
+                "text": "6 years"
+            },
+            {
+                "option": "C.",
+                "text": "8 years"
+            },
+            {
+                "option": "D.",
+                "text": "9 years"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum of the ages of husband and wife at the time of their marriage = (25 × 2) yrs = 50 yrs Sum of the ages of husband and wife when their son was born = (50 + 2 × 2) yrs = 54 yrs Sum of the ages of husband, wife and son at present = (24 × 3) yrs = 72 yrs ∴ Age of son = $$\\frac{{\\left( {72 - 54} \\right)}}{3}$$   = $$\\frac{{18}}{3}$$   = 6 years Hence, the couple got married (6 + 2) = 8 years ago"
+    },
+    {
+        "question": "The average age of a group of persons going for picnic is 16 years. Twenty new persons with an average age of 15 years join the group on the spot due to which their average age become 15.5 years. The number of persons initially going for picnic is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "5"
+            },
+            {
+                "option": "B.",
+                "text": "10"
+            },
+            {
+                "option": "C.",
+                "text": "20"
+            },
+            {
+                "option": "D.",
+                "text": "30"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the initial number of persons be x. Then, ⇒ 16x + 20 × 15 = 15.5 (x + 20) ⇒ 0.5x = 10 ⇒ x = 20"
+    },
+    {
+        "question": "A certain factory employed 600 men and 400 women and the average wage was Rs. 25.50 per day. If women got Rs. 5 less than a man, then what are their daily wages?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Man: Rs. 25,  Woman: Rs. 20"
+            },
+            {
+                "option": "B.",
+                "text": "Man: Rs. 27.50,  Woman: Rs. 22.50"
+            },
+            {
+                "option": "C.",
+                "text": "Man: Rs. 30,  Woman: Rs. 25"
+            },
+            {
+                "option": "D.",
+                "text": "Man: Rs. 32.50,  Woman: Rs. 27.50"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the daily wage of a man be Rs. x Then, daily wage of a woman = Rs. (x - 5) Now, ⇒ 600x + 400(x - 5) = 25.50 × (600 + 400) ⇒ 1000x = 27500 ⇒ x = 27.50 ∴ Man's daily wages = Rs. 27.50 Woman's daily wages = (x - 5) = Rs. 22.50"
+    },
+    {
+        "question": "A coaching institute has students in 3 batches – X, Y and Z. In a certain examination, the average marks obtained by these batches are 72, 60 and 50 respectively. The average marks of batches X and Y taken together is 69. If the ratio of the number of students in batches Y and Z is 6 : 7. What is the average score of all the three batches put together?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "59"
+            },
+            {
+                "option": "B.",
+                "text": "61.6"
+            },
+            {
+                "option": "C.",
+                "text": "63.5"
+            },
+            {
+                "option": "D.",
+                "text": "64.7"
+            },
+            {
+                "option": "E.",
+                "text": "65"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let the number of students in batches Y and Z be 6x and 7x respectively, and the number of students in batch X be y. Then, $$\\eqalign{ & \\Rightarrow 72y + 60 \\times 6x = 69\\left( {6x + y} \\right) \\cr & \\Rightarrow 72y + 360x = 414x + 69y \\cr & \\Rightarrow 3y = 54x \\cr & \\Rightarrow y = 18x \\cr} $$ ∴ Required average $$\\eqalign{ & = \\frac{{72 \\times 18x + 60 \\times 6x + 50 \\times 7x}}{{18x + 6x + 7x}} \\cr & = \\frac{{1296 + 360 + 350}}{{31}} \\cr & = \\frac{{2006}}{{31}} \\cr & = 64.7 \\cr} $$"
+    },
+    {
+        "question": "In an engineering college the average salary of all engineering graduates from Mechanical trade is Rs. 2.45 lacs per annum and that of the engineering graduates from Electronics trade is Rs. 3.56 lacs per annum. The average salary of all Mechanical and Electronics graduates is Rs. 3.12 lacs per annum. Find the least number of Electronics graduates passing out from this institute.-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "43"
+            },
+            {
+                "option": "B.",
+                "text": "59"
+            },
+            {
+                "option": "C.",
+                "text": "67"
+            },
+            {
+                "option": "D.",
+                "text": "Cannot be determined"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the number of Mechanical Engineering graduates be M and the number of Electronics Engineering graduates be E. Then,   $$ \\Rightarrow 2.45M + 3.56E = $$    $$3.12\\left( {M + E} \\right)$$   $$ \\Rightarrow 2.45M + 3.56E = $$    $$3.12M + 3.12E$$ $$\\eqalign{ & \\Rightarrow 0.44E = 0.67M \\cr & \\Rightarrow \\frac{M}{E} = \\frac{{0.44}}{{0.67}} = \\frac{{44}}{{67}} \\cr} $$ Since the ratio 44 : 67 is in its simplest form, So least number of Electronics graduates = 67"
+    },
+    {
+        "question": "Mr. Joe’s family consists of six people-himself, his wife and their four children. It is known that the average age of the family immediately after the birth of the first, second, third and fourth child was 16, 15, 16 and 15 years respectively. Find the age of Mr. Joe’s eldest son if the present average age of the entire family is 16 years -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "8 years"
+            },
+            {
+                "option": "B.",
+                "text": "12 years"
+            },
+            {
+                "option": "C.",
+                "text": "15 years"
+            },
+            {
+                "option": "D.",
+                "text": "16 years"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: When the first child was born, the total age of all the family members = (16 × 3) years = 48 years When the second child was born, the total age of all the family members = (15 × 4) years= 60 years By the time the second child was born, each one of the 3 family members had grown by$$\\eqalign{ & = \\left( {\\frac{{60 - 48}}{3}} \\right) \\cr & = \\frac{{12}}{3} \\cr} $$= 4 years Hence, the age of eldest son when the second child was born = 4 years When the third child was born, the total age of all the family members = (16 × 5) years = 80 years By the time, the third child was born, each one of the four family members had grown by = $$\\left( {\\frac{{80 - 60}}{4}} \\right)$$ = 5 years So, the age of the eldest son when the third child was born= (4 + 5) years = 9 years When the fourth child was born, the total age of all the family members = (15 × 6) years = 90 years By the time, the fourth child was born, each of the five family members had grown by = $$\\left( {\\frac{{90 - 80}}{5}} \\right)$$ = 2 years So, the age of the eldest son when the fourth child was born= (9 + 2) years= 11 years At present, the total age of all the 6 family members= (16 × 6) years= 96 years By now, each one of the 6 members have grown by= $$\\left( {\\frac{{96 - 90}}{6}} \\right)$$  years= 1 year Hence, the present age of the eldest son= (11 + 1) years = 12 years"
+    },
+    {
+        "question": "Out of 10 teachers of a school, on teacher retires and in place of him a new teacher 25 years old joins. As a result of it average age of the teachers reduces by 3 years. Age of the retired teacher ( in years) is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "55"
+            },
+            {
+                "option": "B.",
+                "text": "60"
+            },
+            {
+                "option": "C.",
+                "text": "58"
+            },
+            {
+                "option": "D.",
+                "text": "56"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Total number of teachers = 10 Age of new teacher = 25 years Age of the retire teacher = (25 + 3 × 10) years = 55 years"
+    },
+    {
+        "question": "The average salary of all the workers in a workshop is Rs. 8000. The average salary of 7 technicians is Rs. 12000 and the average salary of the rest is Rs. 6000. The total number of workers in the workshop is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "20"
+            },
+            {
+                "option": "B.",
+                "text": "21"
+            },
+            {
+                "option": "C.",
+                "text": "22"
+            },
+            {
+                "option": "D.",
+                "text": "23"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the total number of workers be x. Then,⇒ 8000x = (12000 × 7) + 6000(x - 7)⇒ 2000x = 42000⇒ x = 21"
+    },
+    {
+        "question": "The average age of a husband and his wife was 23 years at the times of their marriage. After five years they have a one-year old child. The average age of the family now is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "19 years"
+            },
+            {
+                "option": "B.",
+                "text": "23 years"
+            },
+            {
+                "option": "C.",
+                "text": "28.5 years"
+            },
+            {
+                "option": "D.",
+                "text": "29.3 years"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Sum of the present ages of husband, wife and child = (23 × 2 + 5 × 2) + 1 = 57 years ∴ Required average = $$\\left( {\\frac{{57}}{3}} \\right)$$ = 19 years"
+    },
+    {
+        "question": "In a class with a certain number of students, if one student weighting 50 kg is added then the average weight of the class increased by 1 kg. If one more student weighting 50 kg is added, then the average weight of the class increased by 1.5 kg over the original average. What is the original average weight (in kg) of the class?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "46"
+            },
+            {
+                "option": "D.",
+                "text": "47"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let the original average weight of the class be x kg and let there be n students. Then, sum of weights of n students = (nx) kg $$\\eqalign{ & \\therefore \\frac{{nx + 50}}{{n + 1}} = x + 1 \\cr & \\Rightarrow nx + 50 = \\left( {n + 1} \\right)\\left( {x + 1} \\right) \\cr & \\Rightarrow nx + 50 = nx + x + n + 1 \\cr & \\Rightarrow x + n = 49 \\cr & \\Rightarrow 2x + 2n = 98.....(i) \\cr & {\\text{And,}} \\cr & \\Rightarrow \\frac{{nx + 100}}{{n + 2}} = x + 1.5 \\cr & \\Rightarrow nx + 100 = \\left( {n + 2} \\right)\\left( {x + 1.5} \\right) \\cr & \\Rightarrow nx + 100 = nx + 1.5n + 2x + 3 \\cr & \\Rightarrow 2x + 1.5n = 97.....(ii) \\cr} $$ Subtracting (ii) from (i), we get: 0.5n = 1 or n = 2 Putting n = 2 in (i), we get: x = 47"
+    },
+    {
+        "question": "The average height of 25 boys is 1.4 m. When 5 boys leave the group, then the average height increased by 0.15 m. What is the average height of the 5 boys who leave ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0.8 m"
+            },
+            {
+                "option": "B.",
+                "text": "0.9 m"
+            },
+            {
+                "option": "C.",
+                "text": "0.95 m"
+            },
+            {
+                "option": "D.",
+                "text": "1.05 m"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Sum of height of the 5 boys = (25 × 1.4 - 20 × 1.55) m = 4 m ∴ Required average = $$\\left( {\\frac{4}{5}} \\right)$$ = 0.8 m"
+    },
+    {
+        "question": "The average monthly income of a family of four earning members was Rs. 15130. One of the daughters in the family got married and left home, so the average monthly income of the family came down to Rs. 14660. What is the monthly income of the married daughter?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 12000"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 15350"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 16540"
+            },
+            {
+                "option": "D.",
+                "text": "Cannot be determined"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Monthly income of the married daughter = Rs. (15130 × 4 - 14660 × 3) = Rs. (60520 - 43980) = Rs. 16540"
+    },
+    {
+        "question": "The average marks obtained by 22 candidates in an examination are 45. The average marks of the first ten are 55 and that of the last eleven are 40. The number of marks obtained by the 11th candidates is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "45"
+            },
+            {
+                "option": "C.",
+                "text": "47.5"
+            },
+            {
+                "option": "D.",
+                "text": "50"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Mark obtained by the 11th candidate = [(45 × 22) - (55 × 10 + 40 × 11)] = (990 - 990) = 0"
+    },
+    {
+        "question": "The average of 10 numbers is 40.2. Later it is found that two numbers have been wrongly added. The first is 18 greater than the actual number and the second number added is 13 instead of 33. Find the correct average.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "40.2"
+            },
+            {
+                "option": "B.",
+                "text": "40.4"
+            },
+            {
+                "option": "C.",
+                "text": "40.6"
+            },
+            {
+                "option": "D.",
+                "text": "40.8"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Correct sum = (40.2 × 10 - 18 + 33 - 13) = 404 ∴ Correct average = $$\\left( {\\frac{{404}}{{10}}} \\right)$$ = 40.4"
+    },
+    {
+        "question": "The average height of 35 girls in a class was calculated as 160 cm. It was later found that the height of one of the girls in the class was wrongly written as 144 cm, whereas her actual height was 104 cm. What is the actual average height of the girls in the class? ( rounded off to 2 digits after decimal)-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "158.54 cm"
+            },
+            {
+                "option": "B.",
+                "text": "158.74 cm"
+            },
+            {
+                "option": "C.",
+                "text": "159.56 cm"
+            },
+            {
+                "option": "D.",
+                "text": "159.86 cm"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer & Solution Answer: Option E Solution: Correct sum = (160 × 35 + 104 - 144) cm = 5560 cm ∴ Actual average height = $$\\left( {\\frac{{5560}}{{35}}} \\right)$$  cm = 158.857 cm $$ \\approx $$ 158.86 cm"
+    },
+    {
+        "question": "A student obtained the following marks in percentage in his semester examination English 50, Maths 65, Statistics 70, Economics 58 and Accountancy 63. The weights of these subjects are 2, 2, 1, 1 and 1 respectively. What is the weighted arithmetic mean?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "60"
+            },
+            {
+                "option": "B.",
+                "text": "61"
+            },
+            {
+                "option": "C.",
+                "text": "62"
+            },
+            {
+                "option": "D.",
+                "text": "63"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Weighted arithmetic mean $$\\eqalign{ & = \\frac{{50 \\times 2 + 65 \\times 2 + 70 \\times 1 + 58 \\times 1 + 63 \\times 1}}{{2 + 2 + 1 + 1 + 1}} \\cr & = \\frac{{100 + 130 + 70 + 58 + 63}}{7} \\cr & = \\frac{{421}}{7} \\cr & = 60.14 \\approx 60 \\cr} $$"
+    },
+    {
+        "question": "Visitor to a show were charged Rs. 15 each on the first day, Rs. 7.50 each on the second day and Rs. 2.50 each on the third day. The attendance on the three days was in the ratio 2 : 5 : 13. The average charge per person for the whole show was-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 5"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 6.33"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 7.50"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 9"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the attendance on the three days be 2x, 5x and 13x respectively. Then, total charges = Rs. (15 × 2x + 7.50 × 5x + 2.50 × 13x) = Rs. (30x + 37.5x + 32.5x) = Rs. 100x ∴ Average change per person = Rs. $$\\left( {\\frac{{100x}}{{2x + 5x + 13x}}} \\right)$$ = Rs. 5"
+    },
+    {
+        "question": "A company produces on an average 4000 items per must for the first 3 months. How many items it must produce on an average per month over the next 9 months, to average 4375 items per month over the whole?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4500"
+            },
+            {
+                "option": "B.",
+                "text": "4600"
+            },
+            {
+                "option": "C.",
+                "text": "4680"
+            },
+            {
+                "option": "D.",
+                "text": "4710"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Required average $$\\eqalign{ & = \\frac{{\\left( {4375 \\times 12} \\right) - \\left( {4000 \\times 3} \\right)}}{9} \\cr & = \\frac{{52500 - 12000}}{9} \\cr & = \\frac{{40500}}{9} \\cr & = 4500 \\cr} $$"
+    },
+    {
+        "question": "In a cricket eleven, the average age of eleven players is 28 years. Out of these, the average age of three groups of three players each are 25 years, 28 years and 30 years respectively. If in these groups the captain and the youngest player are not included and the captain is eleven years older than the youngest player, what is the age of the captain?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "33 years"
+            },
+            {
+                "option": "B.",
+                "text": "34 years"
+            },
+            {
+                "option": "C.",
+                "text": "35 years"
+            },
+            {
+                "option": "D.",
+                "text": "36 years"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum of ages of the captain and the youngest player = [(28 × 11) - (25 × 3) + (28 × 3) + (30 × 3)] years = (308 - 249) years = 59 years Let the age of the youngest player be x years.Then, age of the captain = (x + 11) years ∴ x + (x + 11) = 59 ⇒ 2x = 48 ⇒ x = 24 So, the age of captain is = (x + 11) = (24 + 11) = 35 years"
+    },
+    {
+        "question": "The mean monthly salary paid to 75 workers in a factory is Rs. 5680. The mean salary of 25 of them is Rs. 5400 and that of 30 others is Rs. 5700. The mean salary of the remaining workers is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 5000"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 6000"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 7000"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 8000"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Required average $$ = {\\text{Rs}}{\\text{.}}$$ $$\\left[ {\\frac{{\\left( {5680 \\times 75} \\right) - \\left\\{ {\\left( {5400 \\times 25} \\right) + \\left( {5700 \\times 30} \\right)} \\right\\}}}{{75 - \\left( {25 + 30} \\right)}}} \\right]$$ $$ = {\\text{Rs}}{\\text{. }}\\left[ {\\frac{{426000 - \\left( {135000 + 171000} \\right)}}{{20}}} \\right]$$ $$\\eqalign{ & = {\\text{Rs}}{\\text{. }}\\left( {\\frac{{120000}}{{20}}} \\right) \\cr & = {\\text{ Rs}}{\\text{. 6000}} \\cr} $$"
+    },
+    {
+        "question": "There were 35 students in a hostel. If the number of the students is increased by 7, then the expenses of the mess increased by Rs. 42 per day, while the average expenditure per head diminishes by Rs. 1. The original expenditure of the mess per day was-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 400"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 420"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 432"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 442"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the original expenditure of the mess per day be Rs. x Then, new expenditure = Rs. (x + 42) $$\\eqalign{ & \\therefore \\frac{x}{{35}} - \\frac{{\\left( {x + 42} \\right)}}{{42}} = 1 \\cr & \\Rightarrow 6x - 5\\left( {x + 42} \\right) = 210 \\cr & \\Rightarrow x - 210 = 210 \\cr & \\Rightarrow x = 420 \\cr} $$"
+    },
+    {
+        "question": "The mean of 5 numbers is 18. If one number is excluded, their mean is 16.  Find the excluded number.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "25"
+            },
+            {
+                "option": "B.",
+                "text": "26"
+            },
+            {
+                "option": "C.",
+                "text": "27"
+            },
+            {
+                "option": "D.",
+                "text": "28"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Excluded number = (18 × 5) - (16 × 4) = 90 - 64 = 26"
+    },
+    {
+        "question": "The average of the reciprocals of x and y is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{(x + y)}{(x - y)}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{(x + y)}{2xy}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{2(x + y)}{xy}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{2xy}{(x + y)}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Required average $$\\eqalign{ & = \\frac{{\\left( {\\frac{1}{x} + \\frac{1}{y}} \\right)}}{2} \\cr & = \\frac{{x + y}}{{2xy}} \\cr} $$"
+    },
+    {
+        "question": "The arithmetic mean of 15 numbers is 41.4. Then the sum of these numbers is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "414"
+            },
+            {
+                "option": "B.",
+                "text": "420"
+            },
+            {
+                "option": "C.",
+                "text": "620"
+            },
+            {
+                "option": "D.",
+                "text": "621"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Sum of numbers = (41.4 × 15) = 621"
+    },
+    {
+        "question": "If the average of m numbers is n2  and that of n numbers is m2 , then the average of (m + n) numbers is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "m - n"
+            },
+            {
+                "option": "B.",
+                "text": "mn"
+            },
+            {
+                "option": "C.",
+                "text": "m + n"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{m}{n}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Sum of m numbers = mn2 Sum of n numbers = nm2 ∴ Average of (m + n) numbers = $$\\frac{mn(m + n)}{(m + n)}$$ = mn"
+    },
+    {
+        "question": "Of the three numbers, the first is twice the second and the second is twice the third. The average of the reciprocal of the numbers is $$\\frac{7}{72}$$ . The numbers are:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "16, 8, 4"
+            },
+            {
+                "option": "B.",
+                "text": "20, 10, 5"
+            },
+            {
+                "option": "C.",
+                "text": "24, 12, 6"
+            },
+            {
+                "option": "D.",
+                "text": "36, 18, 9"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the number be x. Then, second number = 2x.First number = 4x. ∴ $$\\frac{1}{x}$$ + $$\\frac{1}{2x}$$ + $$\\frac{1}{4x}$$ = $$\\frac{7}{72}$$ × 3 ⇒ $$\\frac{7}{4x}$$ = $$\\frac{7}{24}$$ ⇒ 4x = 24 ⇒ x = 6 So, the number are 24, 12 and 6"
+    },
+    {
+        "question": "There are 4 consecutive odd numbers (x1, x2, x3 and x4) and three consecutive even numbers (y1, y2 and y3). The average of the odd numbers is 6 less than the average of the even numbers. If the sum of the three even numbers is 16 less than the sum of the four odd numbers, what is the average of x1, x2, x3 and x4?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "30"
+            },
+            {
+                "option": "B.",
+                "text": "38"
+            },
+            {
+                "option": "C.",
+                "text": "32"
+            },
+            {
+                "option": "D.",
+                "text": "34"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: According to given information Average of odd numbers = Average of even numbers - 6 $$ \\Rightarrow \\frac{{{x_1} + {x_2} + {x_3} + {x_4}}}{4} = $$     $$\\frac{{{y_1} + {y_2} + {y_3}}}{3} - 6$$ $$ \\Rightarrow \\frac{{{x_1} + {x_2} + {x_3} + {x_4}}}{4} = $$     $$\\frac{{{y_1} + {y_2} + {y_3} - 18}}{3}$$ $$ \\Rightarrow 3\\left( {{x_1} + {x_2} + {x_3} + {x_4}} \\right) = $$     $$4\\left( {{y_1} + {y_2} + {y_3}} \\right) - 72$$ Also, $$ \\Rightarrow {y_1} + {y_2} + {y_3} = $$     $${x_1} + {x_2} + {x_3} + {x_4} - 16$$ $$ \\Rightarrow {x_1} + {x_2} + {x_3} + {x_4} = $$     $${y_1} + {y_2} + {y_3} + 16$$   .....(i) So we have, $$ \\Rightarrow 3\\left( {{y_1} + {y_2} + {y_3} + 16} \\right) = $$     $$4\\left( {{y_1} + {y_2} + {y_3}} \\right) - 72$$ $$ \\Rightarrow 3{y_1} + 3{y_2} + 3{y_3} + 48 = $$     $$4{y_1} + 4{y_2} + 4{y_3} - 72$$ $$ \\Rightarrow 4{y_1} + 4{y_2} + 4{y_3}$$   $$ - 3{y_1} - 3{y_2} - 3{y_3}$$     = 48 + 72 $$ \\Rightarrow {y_1} + {y_2} + {y_3} = 120$$ $$ \\Rightarrow {x_1} + {x_2} + {x_3} + {x_4}$$     = 120 + 16 = 136 [From (i)] ∴ Average of four odd numbers : $$\\eqalign{ & = \\frac{{{x_1} + {x_2} + {x_3} + {x_4}}}{4} \\cr & = \\frac{{136}}{4} \\cr & = 34 \\cr} $$"
+    },
+    {
+        "question": "There are three positive numbers. One third of the average of all the three numbers is 8 less than the value of the highest number. The average of the lowest and the second lowest number is 8. What is the highest number?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "11"
+            },
+            {
+                "option": "B.",
+                "text": "14"
+            },
+            {
+                "option": "C.",
+                "text": "10"
+            },
+            {
+                "option": "D.",
+                "text": "9"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the three positive numbers in increasing order be a, b and c and the average of these numbers be be A. Then, $$\\frac{{a + b + c}}{3} = A.....(i)$$ Given, $$\\eqalign{ & c - \\frac{A}{3} = 8 \\cr & \\Rightarrow c - \\frac{{a + b + c}}{9} = 8.....(ii) \\cr} $$ Also given, $$\\eqalign{ & \\frac{{b + a}}{2} = 8 \\cr & \\Rightarrow a + b = 16.....(iii) \\cr} $$ Putting the value of (a + b) in equation (ii), we get $$\\eqalign{ & \\Rightarrow c - \\left( {\\frac{{16 + c}}{9}} \\right) = 8 \\cr & \\Rightarrow 9c - 16 - c = 72 \\cr & \\Rightarrow 8c = 72 + 16 \\cr & \\Rightarrow 8c = 88 \\cr & \\Rightarrow c = 11 \\cr} $$ ∴ Highest number = 11"
+    },
+    {
+        "question": "Average score of a class of 60 students, in an exam, was 43. Average score of the students who had passed is 52 and the average score of students who had failed is 16. How many failed the exam?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "25"
+            },
+            {
+                "option": "B.",
+                "text": "20"
+            },
+            {
+                "option": "C.",
+                "text": "15"
+            },
+            {
+                "option": "D.",
+                "text": "18"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Total number of students in class = 60 Average score of passed student = 52 Average score of failed students = 16 By applying the rule of alligation, ∴ Number of students who failed in exam = $$\\frac{1}{4}$$ × 60 = 15"
+    },
+    {
+        "question": "The average weight of boys in a class is 30 kg and the average weight of girls in the same class is 20 kg. If the average weight of the whole class is 23.25 kg, what could be the possible strength of boys and girls respectively in the same class?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "14 and 26"
+            },
+            {
+                "option": "B.",
+                "text": "13 and 27"
+            },
+            {
+                "option": "C.",
+                "text": "17 and 17"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the number of boys and girls in the class are x and y. According to given information, ⇒ 30x + 20y = 23.25 (x + y) ⇒ 30x + 20 y = 23.25x + 23.25y ⇒ 30x - 23.25x = 23.25y - 20y ⇒ 6.75x = 3.25y ⇒ $$\\frac{x}{y}$$ = $$\\frac{3.25}{6.75}$$ ⇒ $$\\frac{x}{y}$$ = $$\\frac{13}{27}$$ Hence, possible number of boys and girls 13 and 27 respectively."
+    },
+    {
+        "question": "The mean monthly salary paid to graduating MBA class of a management institute is Rs. 16000. The mean monthly salary paid to students with work experience is Rs. 18000. The corresponding figure for the students without any work experience is Rs. 12000. Determine the percentage of students with work experience and those without any work experience in the class.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "66.67%, 33.33%"
+            },
+            {
+                "option": "B.",
+                "text": "33.33%, 66.67%"
+            },
+            {
+                "option": "C.",
+                "text": "75%, 25%"
+            },
+            {
+                "option": "D.",
+                "text": "25%, 75%"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the number of students with work experience be x and those without work experience be y. Then, 18000x + 12000y = 16000 (x + y) ⇒ 2000x = 4000y ⇒ $$\\frac{x}{y}$$ = $$\\frac{2}{1}$$ ∴ Percentage of students with work experience = $$\\left( {\\frac{2}{3} \\times 100} \\right)\\% $$ = 66.67% Percentage of students without work experience = (100 - 66.67)% = 33.33%"
+    },
+    {
+        "question": "The monthly incomes of five persons are Rs. 1132, Rs. 1140, Rs. 1144, Rs. 1136 and Rs. 1148 respectively.  What is their arithmetic mean?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 1100"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 1120"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 1132"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 1140"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Arithmetic mean $$\\eqalign{ & = {\\text{Rs}}{\\text{. }}\\left( {\\frac{{1132 + 1140 + 1144 + 1136 + 1148}}{5}} \\right) \\cr & = {\\text{Rs}}{\\text{.}}\\left( {\\frac{{5700}}{5}} \\right) \\cr & = {\\text{Rs}}{\\text{. 1140}} \\cr} $$"
+    },
+    {
+        "question": "Kunal bought 65 books for Rs. 1050 from one shop and 50 books for Rs. 1020 from another. What is the average price he paid per book?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 18"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 18.20"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 24"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 36.40"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Total money paid for 115 books = Rs. (1050 + 1020) = Rs. 2070 ∴ Average price paid per book = Rs. ($$\\frac{2070}{115}$$) = Rs. 18"
+    },
+    {
+        "question": "Average age of ten persons learning yoga is 32 years. When the age of their instructor is added, the average age becomes 34 years. The age of their instructor is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "46 years"
+            },
+            {
+                "option": "B.",
+                "text": "52 years"
+            },
+            {
+                "option": "C.",
+                "text": "54 years"
+            },
+            {
+                "option": "D.",
+                "text": "56 years"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Age of the instructor = (34 × 11 - 32 × 10) years = (374 - 320) years = 54 years"
+    },
+    {
+        "question": "There were 24 students in a class. One of them, who was 18 years old, left the class and his place was filled up by a newcomer. If the average of the class thereby, was lowered by one month, the age of the newcomer is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "14 years"
+            },
+            {
+                "option": "B.",
+                "text": "15 years"
+            },
+            {
+                "option": "C.",
+                "text": "16 years"
+            },
+            {
+                "option": "D.",
+                "text": "17 years"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Total age decreased = (24 × 1) months = 24 months = 2 years ∴ Age of the newcomer = (18 - 2) years = 16 years"
+    },
+    {
+        "question": "In a primary school the average weight of male students is 65.9 kg and the average weight of female students is 57 kg. If the average weight of all the students ( both male and female ) is 60.3 kg and the number of male students in the school is 66, what is the number of female students in the school?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "162"
+            },
+            {
+                "option": "B.",
+                "text": "168"
+            },
+            {
+                "option": "C.",
+                "text": "180"
+            },
+            {
+                "option": "D.",
+                "text": "112"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let the number of female students be x Let weight of female students = 57x Number of male students = 66 Total weights of male students = 65.9 × 66 Average weight of all the students = 60.3 kg Total weights of all the students = 60.3 (66 + x) According to given information, Then, ⇒ 60.3 (66 + x) = 66 × 65.9 + 57x ⇒ 60.3 × 66 + 60.3x = 66 × 65.9 + 57x ⇒ 60.3x - 57x = 66 (65.9 - 60.3) ⇒ 3.3x = 66 × 5.6 ∴ x = $$\\frac{66 × 5.6}{3.3}$$ ⇒ x = 2 × 56 ⇒ x = 112"
+    },
+    {
+        "question": "The average monthly income of P and Q is Rs. 6000; that of Q and R is Rs. 5250; and that P and R is Rs. 5500. What is P’s monthly income?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 3500"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 4500"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 6250"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 4800"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Average monthly income of P and Q = Rs. 6000 Average monthly income of Q and R = Rs. 5250 Average monthly income of P and R = Rs. 5500 Total income of P + Q= 2 × 6000= Rs. 12000.....(i) Total income of Q + R = 2 × 5250= Rs. 10500.....(ii) Total income of R + P= 2 × 5500= Rs. 11000.....(iii) On adding equation (i) (ii) and (iii), we have 2 (P + Q + R) = 12000 + 10500 + 11000 ⇒ P + Q + R = $$\\frac{33500}{2}$$ ⇒ P + Q + R = Rs. 16750.....(iv) By equation (iv) - (ii) P's monthly income = Rs. (16750 - 10500) = Rs. 6250"
+    },
+    {
+        "question": "The average weight of a group of 75 girls was calculated as 47 kgs. It was later discovered that the weight of one of the girls was read as 45 kgs. Whereas her actual weight was 25 kgs. What is the actual average weight of the group of 75 girls? ( Rounded off to two digits after decimal).",
+        "options": [
+            {
+                "option": "A.",
+                "text": "34"
+            },
+            {
+                "option": "B.",
+                "text": "36"
+            },
+            {
+                "option": "C.",
+                "text": "30"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Average weight of 75 girls = 47 kgs Total weight of 75 girls = 47 × 75= 3525 kgs Actual weight of 75 girls = x Correct weight of 75 girls = 3525 - 45 + 25 = 3525 - 20= 3505 kgs ∴ Required average weight x =$$\\frac{3505}{75}$$ x = 46.73 kgs"
+    },
+    {
+        "question": "Find the average of the following sets of scores:385, 441, 876, 221, 536, 46, 291, 428",
+        "options": [
+            {
+                "option": "A.",
+                "text": "221"
+            },
+            {
+                "option": "B.",
+                "text": "403"
+            },
+            {
+                "option": "C.",
+                "text": "428"
+            },
+            {
+                "option": "D.",
+                "text": "536"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Average $$ = \\left( {\\frac{{385 + 441 + 876 + 221 + 536 + 46 + 291 + 428}}{8}} \\right){\\text{kg}}$$ $$\\eqalign{ & = \\left( {\\frac{{3224}}{8}} \\right){\\text{kg}} \\cr & = 403{\\text{ kg}} \\cr} $$"
+    },
+    {
+        "question": "If 25a + 25b = 115, what is the average of  a  and b?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2.5"
+            },
+            {
+                "option": "B.",
+                "text": "3.4"
+            },
+            {
+                "option": "C.",
+                "text": "4.5"
+            },
+            {
+                "option": "D.",
+                "text": "4.6"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer & Solution Answer: Option E Solution: 25a + 25b = 115 ⇒ 25 (a + b) = 115 ⇒ a + b = $$\\frac{115}{25}$$ ⇒ a + b = $$\\frac{23}{5}$$ ∴ Average of a and b = $$\\frac{a + b}{2}$$ = $$\\frac{23}{5}$$ × $$\\frac{1}{2}$$ = $$\\frac{23}{10}$$ = 2.3"
+    },
+    {
+        "question": "The average of two numbers is XY. If one number is X, the other is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{Y}{2}$$"
+            },
+            {
+                "option": "B.",
+                "text": "Y"
+            },
+            {
+                "option": "C.",
+                "text": "2XY - X"
+            },
+            {
+                "option": "D.",
+                "text": "X (Y - 1)"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum of numbers = 2XY ∴ Other number = 2XY - X"
+    },
+    {
+        "question": "The average weight of a class of 24 students is 35 kg. If the weight of the teacher be included, the average rises by 400 g. The weight of the teacher is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "45 kg"
+            },
+            {
+                "option": "B.",
+                "text": "50 kg"
+            },
+            {
+                "option": "C.",
+                "text": "53 kg"
+            },
+            {
+                "option": "D.",
+                "text": "55 kg"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Weight of the teacher = (35.4 × 25 - 35 × 24) kg = 45 kg"
+    },
+    {
+        "question": "The average age of an adult class is 40 years. 12 new students with an average age of 32 years join the class, thereby decreasing the average by 4 years. The original strength of the class was-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10"
+            },
+            {
+                "option": "B.",
+                "text": "11"
+            },
+            {
+                "option": "C.",
+                "text": "12"
+            },
+            {
+                "option": "D.",
+                "text": "15"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the original strength of the class be x Sum of ages of the whole class = 40x years Sum of ages of 12 now students = (12 × 32) years= 384 years ∴ $$\\frac{40x + 384}{x + 12}$$  = 36 ⇒ 40x + 384 = 36x + 432 ⇒ 4x = 48 ⇒ x = 12 Hence, the original strength of the class = 12"
+    },
+    {
+        "question": "The average of the first five multiples of 3 is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3"
+            },
+            {
+                "option": "B.",
+                "text": "9"
+            },
+            {
+                "option": "C.",
+                "text": "12"
+            },
+            {
+                "option": "D.",
+                "text": "15"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Average $$\\eqalign{ & = \\frac{{3\\left( {1 + 2 + 3 + 4 + 5} \\right)}}{5} \\cr & = \\frac{{45}}{5} \\cr & = 9 \\cr} $$"
+    },
+    {
+        "question": "The average of X1, X2 and X3 is 14. Twice the sum of X2 and X3 is 30. What is the value of X1?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "12"
+            },
+            {
+                "option": "B.",
+                "text": "16"
+            },
+            {
+                "option": "C.",
+                "text": "20"
+            },
+            {
+                "option": "D.",
+                "text": "27"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\eqalign{ & {{\\text{X}}_1} + {{\\text{X}}_2} + {{\\text{X}}_3} \\cr & = \\left( {14 \\times 3} \\right) \\cr & = 42 \\cr} $$ According to the question, $$\\eqalign{ & 2\\left( {{{\\text{X}}_2} + {{\\text{X}}_3}} \\right) = 30 \\cr & \\Rightarrow {{\\text{X}}_2} + {{\\text{X}}_3} = 15 \\cr & \\therefore {{\\text{X}}_1} = \\left( {42 - 15} \\right) = 27 \\cr} $$"
+    },
+    {
+        "question": "The average sale of car dealership was 15 cars per week. After a promotional scheme the average sale increased to 21 cars per week. The percentage increased in the sale of cars was-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "39.33%"
+            },
+            {
+                "option": "B.",
+                "text": "40%"
+            },
+            {
+                "option": "C.",
+                "text": "42$$\\frac{6}{7}$$%"
+            },
+            {
+                "option": "D.",
+                "text": "140%"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Number of cars sold per week originally = 15 × 7 = 105 Number of cars sold per week under scheme = 21 × 7 = 147 Increase in sale = 147 - 105 = 42 ∴ Percentage increase $$\\eqalign{ & = \\left( {\\frac{{42}}{{105}} \\times 100} \\right)\\% \\cr & = \\left( {\\frac{{4200}}{{105}}} \\right)\\% \\cr & = 40\\% \\cr} $$"
+    },
+    {
+        "question": "The average age of the mother and her six children is 12 years which is reduced by 5 years if the age of the mother is excluded. How old is the mother ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "40 years"
+            },
+            {
+                "option": "B.",
+                "text": "42 years"
+            },
+            {
+                "option": "C.",
+                "text": "48 years"
+            },
+            {
+                "option": "D.",
+                "text": "50 years"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Age of the mother = (12 × 7 - 7 × 6) years = 42 years"
+    },
+    {
+        "question": "The average age of the boys in a class is 16 years and that of the girls is 15 years. The average age for the whole class is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "15 years"
+            },
+            {
+                "option": "B.",
+                "text": "15.5 years"
+            },
+            {
+                "option": "C.",
+                "text": "16 years"
+            },
+            {
+                "option": "D.",
+                "text": "Cannot be computed with the given information"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Clearly, to find average, we ought to know the number of boys, girls or students in the class, neither of which has been given. So. the data provided is inadequate."
+    },
+    {
+        "question": "Amount five people with monthly income (in Rs.) 15000, 26000, 16000, 19000, 50000, how many will have income less than the mean income of five people?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "4"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Mean income $$ = {\\text{Rs}}{\\text{.}}\\left( {\\frac{{15000 + 26000 + 16000 + 19000 + 50000}}{5}} \\right)$$ $$\\eqalign{ & = {\\text{Rs}}{\\text{.}}\\left( {\\frac{{126000}}{5}} \\right) \\cr & = {\\text{Rs}}{\\text{. 25200}} \\cr} $$ Clearly, three people have monthly income below the mean income."
+    },
+    {
+        "question": "If the arithmetic mean of 0, 5, 4, 3 is a, that of -1, 0, 1, 5, 4, 3 is b and that of 5, 4, 3 is c, then the relation between a, b, and c is",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a = b = c"
+            },
+            {
+                "option": "B.",
+                "text": "a : b : c = 3 : 2 : 4"
+            },
+            {
+                "option": "C.",
+                "text": "4a = 5b = c"
+            },
+            {
+                "option": "D.",
+                "text": "a + b + c = 12"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: We have : $$\\eqalign{ & a = \\frac{{0 + 5 + 4 + 3}}{4} = 3 \\cr & b = \\frac{{ - 1 + 0 + 1 + 5 + 4 + 3}}{6} = 2 \\cr & c = \\frac{{5 + 4 + 3}}{3} = 4 \\cr & \\therefore a:b:c = 3:2:4 \\cr} $$"
+    },
+    {
+        "question": "In a family, the average age of a father and a mother is 35 years. The average age of the father, mother and their only son is 27 years. What is the age of the son?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10 years"
+            },
+            {
+                "option": "B.",
+                "text": "10.5 years"
+            },
+            {
+                "option": "C.",
+                "text": "11 years"
+            },
+            {
+                "option": "D.",
+                "text": "12 years"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum of ages of father and mother= (35 × 2) years= 70 years Sum of ages of father, mother and son= (27 × 3) years= 81 years ∴ Son's age = (81 - 70) years= 11 years"
+    },
+    {
+        "question": "Find the average of all the numbers between 6 and 34 which are divisible by 5 -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "18"
+            },
+            {
+                "option": "B.",
+                "text": "20"
+            },
+            {
+                "option": "C.",
+                "text": "24"
+            },
+            {
+                "option": "D.",
+                "text": "30"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Average$$\\eqalign{ & {\\text{ = }}\\left( {\\frac{{10 + 15 + 20 + 25 + 30}}{5}} \\right) \\cr & {\\text{ = }}\\frac{{100}}{5} \\cr & {\\text{ = 20}} \\cr} $$"
+    },
+    {
+        "question": "The mean of 25 observations was found to be 78.4. But later on it was found that 96 were misread as 69. The correct means is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "76.54"
+            },
+            {
+                "option": "B.",
+                "text": "78.4"
+            },
+            {
+                "option": "C.",
+                "text": "79.48"
+            },
+            {
+                "option": "D.",
+                "text": "81.32"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Correct sum = (78.4 × 25 + 96 - 69) = 1987 ∴ Correct mean = $$\\frac{1987}{25}$$= 79.48"
+    },
+    {
+        "question": "The average temperature for the first four days of a week is 40.2° C and that of the last four days is 41.3° C.  If the average temperature for the whole 40.6°C, then the temperature on the fourth day is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "40.8° C"
+            },
+            {
+                "option": "B.",
+                "text": "41.3° C"
+            },
+            {
+                "option": "C.",
+                "text": "41.8° C"
+            },
+            {
+                "option": "D.",
+                "text": "38.5° C"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Temperature on the fourth day = [(40.2 × 4 + 41.3 × 4) - (40.6 × 7)]° C = 41.8° C"
+    },
+    {
+        "question": "The average of five numbers is 306.4. The average of the first two numbers is 431 and the average of the last two numbers is 214.5. What is the third number?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "52"
+            },
+            {
+                "option": "B.",
+                "text": "108"
+            },
+            {
+                "option": "C.",
+                "text": "321"
+            },
+            {
+                "option": "D.",
+                "text": "Cannot be determined"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer & Solution Answer: Option E Solution: Third number = [306.4 × 5 - (431 × 2 + 214.5 × 2)]= (1532 - 1291)= 241"
+    },
+    {
+        "question": "The average of six numbers is x and the average of three of these is y. If the average of the remaining three is z, then-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "x = y + z"
+            },
+            {
+                "option": "B.",
+                "text": "2x = y + z"
+            },
+            {
+                "option": "C.",
+                "text": "x = 2y + 2z"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Clearly, we have : $$\\eqalign{ & \\Rightarrow x = \\left( {\\frac{{3y + 3z}}{6}} \\right) \\cr & \\Rightarrow 2x = y + z \\cr} $$"
+    },
+    {
+        "question": "The average of the first 100 positive integers is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "49.5"
+            },
+            {
+                "option": "B.",
+                "text": "50.5"
+            },
+            {
+                "option": "C.",
+                "text": "51"
+            },
+            {
+                "option": "D.",
+                "text": "100"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Required average $$\\eqalign{ & = \\left( {\\frac{{1 + 2 + 3 + .... + 100}}{{100}}} \\right) \\cr & = \\frac{1}{{100}} \\times \\frac{{100 \\times 101}}{2} \\cr & = 50.5 \\cr} $$"
+    },
+    {
+        "question": "After replacing an old member by a new member, it was found that the average age of five members of a club is the same as it was 3 years ago. What is the difference between the ages of the replaced and the new member?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2 years"
+            },
+            {
+                "option": "B.",
+                "text": "4 years"
+            },
+            {
+                "option": "C.",
+                "text": "8 years"
+            },
+            {
+                "option": "D.",
+                "text": "15 years"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Age decreased = (5 × 3) years = 15 years So, the required difference = 15 years"
+    },
+    {
+        "question": "The average weight of 8 men is increased by 1.5 kg when one of the men, who weight 65 kg is replaced by a new man. The weight of the new man is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "70 kg"
+            },
+            {
+                "option": "B.",
+                "text": "74 kg"
+            },
+            {
+                "option": "C.",
+                "text": "76 kg"
+            },
+            {
+                "option": "D.",
+                "text": "77 kg"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Total weight increased = (8 × 1.5) kg = 12 kg Weight of the new man = (65 + 12) kg = 77 kg"
+    },
+    {
+        "question": "Total expenses of a boarding house are partly fixed and partly varying linearly with the number of boarders. The average expense per boarder is Rs. 700 when there are 25 boarders and Rs. 600 when there are 50 boarders. What is the average expense per boarder when there are 100 boarders?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 540"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 550"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 570"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 580"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the fixed cost be Rs. x and the variable cost be Rs. y per boarder. Then, x + 25y = 700 × 25 ⇒ x + 25y = 17500.....(i) x + 50y = 600 × 50 ⇒ x + 50y = 30000.....(ii) Subtracting (i) from (ii), we get: 25y = 12500 ⇒ y = 500 Putting y = 500 in (i), we get: x = 5000 ∴ Total expenses of 100 boarders = Rs. (5000 + 500 × 100) = Rs. 55000 Hence, average expense = Rs. $$\\frac{55000}{100}$$ = Rs. 550"
+    },
+    {
+        "question": "A shop of electronic goods is closed on Monday. The average daily sales for remaining six days of a week is Rs. 15,640 and the average sale of Tuesday to Saturday is Rs. 14,124. The sales on Sunday is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 20,188"
+            },
+            {
+                "option": "B.",
+                "text": "Data inadequate"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 23,220"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 21,704"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Average sales per day for six days of the week = Rs. 15640 Total sales of six days of the week = 15640 × 6 = Rs. 93840 Average sales to Tuesday to Saturday = Rs. 14124 Total sales from Tuesday to Saturday = 14124 × 5 = Rs. 70620 ∴ Sales on Sunday = (Rs. 93840 - 70620) = Rs. 23,220"
+    },
+    {
+        "question": "The average expenditure of a man for the first five months is Rs. 1200 and for the next seven months is Rs. 1300. If he saves Rs. 2900 in that year, his monthly average income is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 1500"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 1600"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 1700"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 1400"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Average expenditure of a man for the first five month = Rs. 1200 Average expenditure of a man for the next seven month = Rs. 1300 Total annual expenditure of man = Rs. (5 × 1200 + 7 × 1300) = Rs. (6000 + 9100) = Rs. 15100 Man saves = Rs. 2900 His total annual income = Rs. (15100 + 2900) = Rs. 18000 ∴ Average monthly income = $$\\frac{18000}{12}$$ = Rs. 1500"
+    },
+    {
+        "question": "The average weight of 21 boys was recorded as 64 kg. If the weight of the teacher was added, the average increased by 1 kg. What was the teacher’s weight?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "86 kg"
+            },
+            {
+                "option": "B.",
+                "text": "64 kg"
+            },
+            {
+                "option": "C.",
+                "text": "72 kg"
+            },
+            {
+                "option": "D.",
+                "text": "84 kg"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Average weights of 21 boys = 64 kg Total weights of 21 boys = 64 × 21= 1344 kg The weight of the teacher was added then average increase by 1 kg⇒ Total weight of teacher and 21 boys = 65 × 22= 1430 kg ∴ Weight of teacher = 1430 - 1344 = 86 kg"
+    },
+    {
+        "question": "In a school with 600 students, the average age of the boys is 12 years and that of the girls is 11 years. If the average of the school is 11 years 9 months, then the average the number of girls in the school is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "150"
+            },
+            {
+                "option": "B.",
+                "text": "250"
+            },
+            {
+                "option": "C.",
+                "text": "350"
+            },
+            {
+                "option": "D.",
+                "text": "450"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the number of girls be x Then, number of boys = (600 - x) Then, $$\\left( {11\\frac{3}{4} \\times 600} \\right)$$   = 11x + 12 (600 - x) ⇔ x = 7200 - 7050 ⇔ x = 150"
+    },
+    {
+        "question": "The arithmetic mean of the scores of a group of students in a test was 52. The brightest 20% of them secured a mean score of 80 and the dullest 25% a mean score of 31. The mean score of remaining 55% is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "45"
+            },
+            {
+                "option": "B.",
+                "text": "50"
+            },
+            {
+                "option": "C.",
+                "text": "51.4 approx"
+            },
+            {
+                "option": "D.",
+                "text": "54.6 approx"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the required mean score be x Then, $$\\eqalign{ & 20 \\times 80 + 25 \\times 31 + 55 \\times x = 52 \\times 100 \\cr & \\Leftrightarrow 1600 + 775 + 55x = 5200 \\cr & \\Leftrightarrow 55x = 2825 \\cr & \\Leftrightarrow x = \\frac{{2825}}{{55}} \\approx 51.4 \\cr} $$"
+    },
+    {
+        "question": "The average age of 3 children in a family is 20% of the average age of the father and the eldest child. The total age of the mother and the youngest child is 39 years. If the father's age is 26 years, what is the age of the second child ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "15 years"
+            },
+            {
+                "option": "B.",
+                "text": "18 years"
+            },
+            {
+                "option": "C.",
+                "text": "20 years"
+            },
+            {
+                "option": "D.",
+                "text": "Cannot be determined"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Since the total or average age of all the family members is not given, te given data is inadequate. So, the age of the second child cannot be determined."
+    },
+    {
+        "question": "Five years ago the average age of A, B, C, D was 45 years. By including X the present average of all the five is 49 years. Them the present age of X is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "40 years"
+            },
+            {
+                "option": "B.",
+                "text": "45 years"
+            },
+            {
+                "option": "C.",
+                "text": "48 years"
+            },
+            {
+                "option": "D.",
+                "text": "64 years"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Sum of the present ages of A, B, C and D = (45 × 4 + 5 × 4) years = 200 years Sum of the present ages of A, B, C, D and X = (49 × 5) years = 245 years ∴ X's present age = (245 - 200) years = 45 years"
+    },
+    {
+        "question": "A cricketer whose bowling average is 12.4 runs per wicket takes 5 wickets for 26 runs and thereby decreased his average by 0.4. The number of wickets taken by him the last match was-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "64"
+            },
+            {
+                "option": "B.",
+                "text": "72"
+            },
+            {
+                "option": "C.",
+                "text": "80"
+            },
+            {
+                "option": "D.",
+                "text": "85"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let the number of wickets taken till the last match be x $$\\eqalign{ & \\Rightarrow \\frac{{12.4x + 26}}{{x + 5}} = 12 \\cr & \\Rightarrow 12.4x + 26 = 12x + 60 \\cr & \\Rightarrow 0.4x = 34 \\cr & \\Rightarrow x = \\frac{{34}}{{0.4}} \\cr & \\Rightarrow x = \\frac{{340}}{4} \\cr & \\Rightarrow x = 85 \\cr} $$"
+    },
+    {
+        "question": "The average of 11 players of a cricket team is decreased by 2 months when two of them aged 17 years and 20 years are replaced by two new players. The average age of the new players is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "17 years 1 month"
+            },
+            {
+                "option": "B.",
+                "text": "17 years 7 months"
+            },
+            {
+                "option": "C.",
+                "text": "17 years 11 months"
+            },
+            {
+                "option": "D.",
+                "text": "18 years 3 months"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Total age decreased = (11 × 2) months = 22 months = 1 year 10 months ∴ Average age of two new players $$\\left( {\\frac{{{\\text{35 years 2 months}}}}{2}} \\right)$$ = 17 years 7 months"
+    },
+    {
+        "question": "The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of  P is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 3500"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 4000"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 4050"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 5000"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let P, Q and R represent their respective monthly income Then, we have P + Q = (5050 × 2) = 10100.....(i) Q + R = (6250 × 2) = 12500.....(ii) P + R = (5200 × 2) = 10400.....(iii) Adding (i), (ii) and (iii), we get 2 (P + Q + R) = 33000 ⇒ P + Q + R = 16500 Subtracting (ii) from (iv), we get P = 4000 ∴ P's monthly income = Rs. 4000"
+    },
+    {
+        "question": "The average of the ages of Sumit, Krishna and Rishabh is 43 and the average of the ages of Sumit, Rishabh and Rohit is 49. If Rohit is 54 years old, what is Krishna’s age?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "24 years"
+            },
+            {
+                "option": "B.",
+                "text": "36 years"
+            },
+            {
+                "option": "C.",
+                "text": "45 years"
+            },
+            {
+                "option": "D.",
+                "text": "Cannot be determined"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Sumit + Krishna + Rishabh = 43 × 3 = 129.....(i) Sumit + Rishabh + Rohit = 49 × 3 = 147.....(ii) Subtracting (i) from (ii), we get: Rohit - Krishna = 18 ⇒ Krishna = 54 - 18 = 36"
+    },
+    {
+        "question": "A library has an average of 510 visitors on Sundays and 240 on other days. What is the average number of visitors per day in the month of June beginning with a Sunday?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "276"
+            },
+            {
+                "option": "B.",
+                "text": "280"
+            },
+            {
+                "option": "C.",
+                "text": "285"
+            },
+            {
+                "option": "D.",
+                "text": "250"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: If a month beings with Sunday then there are 5 Sundays in that month. Total number of visitors comes on Sunday = 510 × 5 = 2550 Total number of visitors come on other days = 240 × 25 = 6000 ∴ Average number of visitor per day $$\\eqalign{ & = \\frac{{2550 + 6000}}{{30}} \\cr & = \\frac{{8550}}{{30}} \\cr & = 285 \\cr} $$"
+    },
+    {
+        "question": "Average of a, b, and c is 11; average of c, d and e is 17; average of e and f is 22 and average of e and c is 17. Find out the average of a, b, c, d, e and f.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$15\\frac{2}{3}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$18\\frac{1}{2}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$16\\frac{1}{2}$$"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Average of a, b and c = 11 Total of a, b and c = 33.....(i) Similarly, average of c, d and e = 17 Sum of c + d + e = 3 × 17 = 51.....(ii) Average of e and f is 22 Sum of e + f = 2 × 22 = 44.....(iii) Average of e and c is 17 Sum of e + c = 2 × 17 = 34.....(iv) By equations (i) + (ii) + (iii) - (iv) a + b + c + c + d + e + e + f - e - c = 33 + 51 + 44 - 34 = 128 - 34 = 94 ∴ Required average = $$\\frac{94}{6}$$ = $$\\frac{47}{3}$$ = $$15\\frac{2}{3}$$"
+    },
+    {
+        "question": "The average of 6 numbers is 7. The average of three numbers of them is 5. What will be the average of remaining numbers?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "15"
+            },
+            {
+                "option": "B.",
+                "text": "30"
+            },
+            {
+                "option": "C.",
+                "text": "9"
+            },
+            {
+                "option": "D.",
+                "text": "42"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Average of 6 numbers = 7 Sum of 6 numbers = 6 × 7 = 42 Average of three numbers = 5 Sum of three numbers = 5 × 3 = 15 ∴ Sum of the remaining three numbers = 42 - 15 = 27 ∴ Required average = $$\\frac{27}{3}$$ = 9"
+    },
+    {
+        "question": "Find the average of 205, 302, 108, 403, and 202-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "450"
+            },
+            {
+                "option": "B.",
+                "text": "1125"
+            },
+            {
+                "option": "C.",
+                "text": "244"
+            },
+            {
+                "option": "D.",
+                "text": "1220"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum of numbers = 205 + 302 + 108 + 403 + 202 = 1220∴ Required average = $$\\frac{1220}{5}$$ = 244"
+    },
+    {
+        "question": "The mean high temperature of the first four days of a week is 25°C whereas the mean of the last four days is 25.5°C. If the mean of the whole week is 25.2°C, then the temperature of the 4th day is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "25.2°C"
+            },
+            {
+                "option": "B.",
+                "text": "25.5°C"
+            },
+            {
+                "option": "C.",
+                "text": "25.6°C"
+            },
+            {
+                "option": "D.",
+                "text": "25°C"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Average temperature of first four days = 25°C Total temperature of first four days = 25° × 4 = 100°C Average temperature last four days = 25.5°C Total temperature of four days = 25.5° × 4 = 102°C Total temperature of whole week = 25.2° × 7 = 176.4°C ∴ Temperature of the 4th day = 100° + 102° - 176.4° = 25.6°C"
+    },
+    {
+        "question": "The average weight of A, B and C is 40 kgs. Weight of C is 24 kgs more than A’s weight and 3 kgs less than B’s weight. What will be the average weight of A, B, C and D, if D weights 15 kgs less than C?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "42 kgs"
+            },
+            {
+                "option": "B.",
+                "text": "40 kgs"
+            },
+            {
+                "option": "C.",
+                "text": "36 kgs"
+            },
+            {
+                "option": "D.",
+                "text": "38 kgs"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Average weight of A, B and C = 40 kgs Total weights of A , B and C = 40 × 3 = 120 kgs Weight of C = (A + 24) and C = (B - 3) ∴ A + 24 = B - 3 ⇒ B = A + 27 Now A + B + C = 120 ⇒ A + A + 27 + A + 24 = 120 ⇒ 3A + 51 = 120 ⇒ A = $$\\frac{69}{3}$$ = 23 kg B = A + 27 = 23 + 27 = 50 kg C = 120 - 23 - 50 = 47 kg D = 47 - 15 = 32 kg ∴ Required average weight of A, B, C and D = $$\\frac{23 + 50 + 47 + 32}{4}$$ = $$\\frac{152}{4}$$ = 38 kg"
+    },
+    {
+        "question": "The average of 11 results is 60. If the average of first six results is 58 and that of last six is 63, find the 6th result-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "66"
+            },
+            {
+                "option": "B.",
+                "text": "55"
+            },
+            {
+                "option": "C.",
+                "text": "64"
+            },
+            {
+                "option": "D.",
+                "text": "68"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: The average of 11 results = 60 The total of 11 results = 60 × 11 = 660 Average of first six results = 58 Average of last six results = 63 Total of first six results = 58 × 6 = 348 Total of last six results = 63 × 6 = 378 ∴ Sixth result = Total of first and last sixth results = Total of 11 results = (348 + 378) - 660 = 726 - 660 = 66"
+    },
+    {
+        "question": "The average age of students of a class is 15.8 years. The average age of boys in the class is 16.4 years and that of the girls is 15.4 years. The ratio of the number of boys to the number of girls in the class is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1 : 2"
+            },
+            {
+                "option": "B.",
+                "text": "2 : 3"
+            },
+            {
+                "option": "C.",
+                "text": "3 : 4"
+            },
+            {
+                "option": "D.",
+                "text": "3 : 5"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the ratio be K : 1 Then, ⇔ K × 16.4 + 1 × 15.4 = (K + 1) × 15.8 ⇔ (16.4 - 15.8) K = (15.8 - 15.4) ⇔ K = $$\\frac{0.4}{0.6}$$ ⇔ K = $$\\frac{2}{3}$$ ∴ Required ratio = $$\\frac{2}{3}$$ : 1 = 2 : 3"
+    },
+    {
+        "question": "The average score of a class of boys and girls in an examination is A. The ratio of boys and girls in the class is 3 : 1. If the average score of the boys is A + 1, the average score of the girls is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "A - 1"
+            },
+            {
+                "option": "B.",
+                "text": "A - 3"
+            },
+            {
+                "option": "C.",
+                "text": "A + 1"
+            },
+            {
+                "option": "D.",
+                "text": "A + 3"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the number of boys and girls in the class be 3x and x respectively. Let the average score of the girls be y. Then, ⇒ 3x (A + 1) + xy = (3x + x) A ⇒ 3 (A + 1) y = 4A ⇒ y = A - 3"
+    },
+    {
+        "question": "Ten years ago, the ages of the members of a joint family of eight people added up to 231 years. Three years later, one member died at the age of 60 years and a child was born during the same year. After another three years, one more member died, again at 60, and a child was born during the same year. The current average of this eight-member joint family is nearest to-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "21 years"
+            },
+            {
+                "option": "B.",
+                "text": "22 years"
+            },
+            {
+                "option": "C.",
+                "text": "23 years"
+            },
+            {
+                "option": "D.",
+                "text": "24 years"
+            },
+            {
+                "option": "E.",
+                "text": "25 years"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Sum of the ages of 8 members, 10 years ago = 231 years Sum of the ages of all members, 7 years ago = (231 + 8 × 3 - 60) years = 195 years Sum of the ages of all members, 4 years ago = (195 + 8 × 3 - 60) years = 159 years Sum of the present ages of all 8 members = (159 + 8 × 4) years = 191 years ∴ Current average age = $$\\frac{191}{8}$$ years = 23.8 years $$ \\approx $$ 24 years"
+    },
+    {
+        "question": "Four years ago, the average age of a family of four persons was 18 years. During this period, a baby was born. Today if the average age of the family is still 18 years, the age of the baby is",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1.2 years"
+            },
+            {
+                "option": "B.",
+                "text": "2 years"
+            },
+            {
+                "option": "C.",
+                "text": "2.5 years"
+            },
+            {
+                "option": "D.",
+                "text": "3 years"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Sum of the ages of 4 members, 4 years ago = (18 × 4) years = 72 years Sum of the ages of 4 members now = (72 + 4 × 4) years = 88 years Sum of the ages of 5 members now = (18 × 5) years = 90 years ∴ Age of the baby = (90 - 88) years= 2 years"
+    },
+    {
+        "question": "When the average age of a couple and their son was 42 years, the son married and got a child after one year. When the child was 5 years old, the average age of the family became 36 years. What was the age of daughter-in- law at the time of their marriage ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "23 years"
+            },
+            {
+                "option": "B.",
+                "text": "24 years"
+            },
+            {
+                "option": "C.",
+                "text": "25 years"
+            },
+            {
+                "option": "D.",
+                "text": "26 years"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum of the ages of father, mother and son at the time of son's marriage = (42 × 3) years = 126 years Sum of the present ages of father, mother and son= (126 + 3 × 6)years= 144 years Sum of the present ages of father, mother, son and grandson = (144 + 5) years= 149 years Sum of the present ages of father, mother, son, daughter-in-law and grandson= (36 × 5) years= 180 years Daughter-in-law's present age = (180 - 149) years= 31 years ∴ Age of daughter-in-law at the time of marriage= (31 - 6) years= 25 years"
+    },
+    {
+        "question": "The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "35 years"
+            },
+            {
+                "option": "B.",
+                "text": "40 years"
+            },
+            {
+                "option": "C.",
+                "text": "50 years"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Sum of the present ages of husband, wife and child = (27 × 3 + 3 × 3) years = 90 years Sum of the present ages of wife and child = (20 × 2 + 5 × 2) years = 50 years ∴ Husband's present age = (90 - 50) years = 40 years"
+    },
+    {
+        "question": "Four years ago, the average age of A and B was 18 years. At present the average age of A, B, and C is 24 years. What would be the age of C after 8 years?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "25 years"
+            },
+            {
+                "option": "B.",
+                "text": "28 years"
+            },
+            {
+                "option": "C.",
+                "text": "32 years"
+            },
+            {
+                "option": "D.",
+                "text": "36 years"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Sum of the present ages of A and B = (18 × 2 + 4 × 2) years = 44 years Sum of the present ages of A, B and C = (24 × 3) years = 72 years C's present age = (72 - 44) years = 28 years ∴ C's age after 8 years= (28 + 8) years= 36 years"
+    },
+    {
+        "question": "The average weight of 3 men A, B, and C is 84 kg. Another man D joins the group and the average now becomes 80 kg. If another man E, whose weight is 3 kg more than that of D, replaces A, then the average weight of B, C, D and E becomes 79 kg. The weight if A is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "70 kg"
+            },
+            {
+                "option": "B.",
+                "text": "72 kg"
+            },
+            {
+                "option": "C.",
+                "text": "75 kg"
+            },
+            {
+                "option": "D.",
+                "text": "80 kg"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let A, B, C, D and E represent their respective weights. Then, A + B + C = (84 × 3) = 252 kgA + B + C + D = (80 × 4) = 320 kg ∴ D = (320 - 252) kg = 68 kg E = (68 + 3) kg = 71 kg B + C + D + E = (79 × 4) = 316 kg Now, = (A + B + C + D) - (B + C + D + E) = (320 - 316) kg= 4 kg ∴ A - E = 4⇒ A = (4 + E)⇒ A = 75 kg"
+    },
+    {
+        "question": "A team of 8 persons joins in a shooting competition. The best marksman scored 85 points. If had scored 92 points, the average score for the team would have been 84. The number of points, the team scored was-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "588"
+            },
+            {
+                "option": "B.",
+                "text": "645"
+            },
+            {
+                "option": "C.",
+                "text": "665"
+            },
+            {
+                "option": "D.",
+                "text": "672"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the total score be x $$\\eqalign{ & \\therefore \\frac{{x + 92 - 85}}{8} = 84 \\cr & \\Rightarrow x + 7 = 672 \\cr & \\Rightarrow x = 665 \\cr} $$"
+    },
+    {
+        "question": "A batsman makes a score of 84 runs in the 21st inning and thus increases his average by 2 runs. His average after 21st inning is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "24"
+            },
+            {
+                "option": "B.",
+                "text": "34"
+            },
+            {
+                "option": "C.",
+                "text": "44"
+            },
+            {
+                "option": "D.",
+                "text": "54"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the average for 20 innings be x $$\\eqalign{ & \\therefore \\frac{{20x + 84}}{{21}} = x + 2 \\cr & \\Rightarrow 20x + 84 = 21x + 42 \\cr & \\Rightarrow x = 42 \\cr} $$ ∴ Average after 21st innings= 42 + 2= 44"
+    },
+    {
+        "question": "When 15 is included in a list of natural numbers, their mean is increased by 2. When 1 is included in this new list, the mean of the numbers in the new list is decreased by 1. How many numbers were there in the original list?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4"
+            },
+            {
+                "option": "B.",
+                "text": "5"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "8"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let there be n numbers in the original list and let their mean be x.Then, sum of n numbers = nx $$\\eqalign{ & \\therefore \\frac{{nx + 15}}{{n + 1}} = x + 2 \\cr & \\Rightarrow nx + 15 = \\left( {n + 1} \\right)\\left( {x + 2} \\right) \\cr & \\Rightarrow nx + 15 = nx + 2n + x + 2 \\cr & \\Rightarrow 2n + x = 13.....(i) \\cr} $$ And, $$\\eqalign{ & \\therefore \\frac{{nx + 16}}{{n + 2}} = \\left( {x + 2} \\right) - 1 \\cr & \\Rightarrow nx + 16 = \\left( {n + 2} \\right)\\left( {x + 1} \\right) \\cr & \\Rightarrow nx + 16 = nx + n + 2x + 2 \\cr & \\Rightarrow n + 2x = 14.....(ii) \\cr} $$ Solving (i) and (ii), we get: n = 4, x = 5"
+    },
+    {
+        "question": "The average temperature of the town in the first four days of month was 58 degrees. The average for the second, third, fourth and fifth days was 60 degrees. If the temperature of the first and fifth days were in the ratio 7 : 8, then what is the temperature on the fifth day?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "64 degrees"
+            },
+            {
+                "option": "B.",
+                "text": "62 degrees"
+            },
+            {
+                "option": "C.",
+                "text": "56 degrees"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Sum of temperature on 1st, 2nd, 3rd and 4th days= (58 × 4)= 232 degrees Sum of temperature on 2nd, 3rd, 4th and 5th days= (60 × 4)= 240 degrees Subtracting (i) from (ii), we get : Temperature on 5th day - Temperature on 1st day = 8 degrees Let the temperature on 1st and 5th days be 7x and 8x degrees respectively. Then, ⇒ 8x - 7x = 8 ⇒ x = 8 ∴ Temperature on the 5th day= 8x= 8 × 8= 64 degrees"
+    },
+    {
+        "question": "The average of 11 numbers is 10.9. If the average of the first six numbers is 10.5 and that of the last six numbers is 11.4, then the middle number is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "11"
+            },
+            {
+                "option": "B.",
+                "text": "11.3"
+            },
+            {
+                "option": "C.",
+                "text": "11.4"
+            },
+            {
+                "option": "D.",
+                "text": "11.5"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Middle number = [(10.5 × 6 + 11.4 × 6) - 10.9 × 11]= (131.4 - 119.9)= 11.5"
+    },
+    {
+        "question": "A pupil’s marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half. The number of pupils in the class is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10"
+            },
+            {
+                "option": "B.",
+                "text": "20"
+            },
+            {
+                "option": "C.",
+                "text": "40"
+            },
+            {
+                "option": "D.",
+                "text": "73"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let there be x pupils in the class Total increase in marks = x × $$\\frac{1}{2}$$= $$\\frac{x}{2}$$ ∴ $$\\frac{x}{2}$$ = (83 - 63) ⇒ $$\\frac{x}{2}$$ = 20 ⇒ x = 40"
+    },
+    {
+        "question": "The average marks in Science subject of a class of 20 students is 68. If the marks of two students were misread as 48 and 65 instead of the actual marks 72 and 61 respectively, what would be the correct average?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "66"
+            },
+            {
+                "option": "B.",
+                "text": "68.5"
+            },
+            {
+                "option": "C.",
+                "text": "69"
+            },
+            {
+                "option": "D.",
+                "text": "69.5"
+            },
+            {
+                "option": "E.",
+                "text": "70"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Correct sum = (68 × 20 + 72 + 61 - 48 - 65) = 1380 ∴ Correct average = $$\\frac{1380}{20}$$ = 69"
+    },
+    {
+        "question": "Average of ten positive numbers is $$\\overline x $$. If each number is increased by 10%, then $$\\overline x $$ -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Remains unchanged"
+            },
+            {
+                "option": "B.",
+                "text": "May decrease"
+            },
+            {
+                "option": "C.",
+                "text": "May increase"
+            },
+            {
+                "option": "D.",
+                "text": "Is increased by 10%"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\eqalign{ & \\Rightarrow \\frac{{{x_1} + {x_2} + ..... + {x_{10}}}}{{10}} = \\overline x \\cr & \\Rightarrow {x_1} + {x_2} + ..... + {x_{10}} = 10\\overline x \\cr & \\Rightarrow \\frac{{110}}{{100}}{x_1} + \\frac{{110}}{{100}}{x_2} + ..... + \\frac{{110}}{{100}}{x_{10}} = \\frac{{110}}{{100}} \\times 10\\overline x \\cr & \\Rightarrow \\frac{{\\frac{{110}}{{100}}{x_1} + \\frac{{110}}{{100}}{x_2} + ..... + \\frac{{110}}{{100}}{x_{10}}}}{{10}} = \\frac{{11}}{{10}}\\overline x \\cr} $$ ⇒ Average is increased by 10%"
+    }
+]

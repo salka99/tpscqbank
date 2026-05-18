@@ -1,0 +1,2309 @@
+[
+    {
+        "question": "Which of the following digits will replace the H marks in the following equation ? 9H + H8 + H6 = 230",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "5"
+            },
+            {
+                "option": "D.",
+                "text": "9"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer & Solution Answer: Option E Solution: 9H + H8 + H6 = 230 ⇒ {(9 × 10) + H} + (10H + 8) + (10H + 6) = 230 ⇒ 21H + 104 = 230 ⇒ 21H = 126 ⇒ H = 6"
+    },
+    {
+        "question": "What least number must be added to 1056 to get a number exactly divisible by 23 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2"
+            },
+            {
+                "option": "B.",
+                "text": "3"
+            },
+            {
+                "option": "C.",
+                "text": "21"
+            },
+            {
+                "option": "D.",
+                "text": "25"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: On dividing 1056 by 23, we get 21 as remainder. ∴ Required number to be added = (23 - 21) = 2"
+    },
+    {
+        "question": "If a and b are positive integers, a > b and (a + b)2  - (a - b)2  > 29\nThen the smallest value of a is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "7"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Since (a + b)2 - (a - b)2 = 4ab, So, the given expression should be a multiple of 4 So, the least value of 4ab is 32 and so the least value of ab is 8 Hence, the smallest value of a is 4 and that of b is 2 Hence, a = 4"
+    },
+    {
+        "question": "The digit in the unit's place of the number (67)25 - 1 must be -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "6"
+            },
+            {
+                "option": "C.",
+                "text": "8"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Unit digit of (67)25 = Unit digit of 725Unit digit of 74 is 1 and so the unit digit of (74)6 is 1 ∴ Unit digit of 725 = (1 × 7) = 7 Hence, the unit digit of (725 - 1) is (7 - 1) = 6"
+    },
+    {
+        "question": "287 × 287 + 269 × 269 - 2 × 287 × 269 = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "534"
+            },
+            {
+                "option": "B.",
+                "text": "446"
+            },
+            {
+                "option": "C.",
+                "text": "354"
+            },
+            {
+                "option": "D.",
+                "text": "324"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\eqalign{ & \\left( {287 \\times 287 + 269 \\times 269 - 2 \\times 287 \\times 269} \\right) \\cr & = {\\left( {287} \\right)^2} + {\\left( {269} \\right)^2} - \\left( {2 \\times 287 \\times 269} \\right) \\cr & = {\\left( {287 - 269} \\right)^2} \\cr & = {\\left( {18} \\right)^2} \\cr & = 324 \\cr} $$ [∵ a2 + b2 - 2ab = (a - b)2 ]"
+    },
+    {
+        "question": "What number should replace M in this multiplication problem ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "4"
+            },
+            {
+                "option": "D.",
+                "text": "8"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Clearly, M = 0, since 304 × 4 = 1216"
+    },
+    {
+        "question": "$$\\sqrt 2 $$   is a\/an -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "rational number"
+            },
+            {
+                "option": "B.",
+                "text": "natural number"
+            },
+            {
+                "option": "C.",
+                "text": "irrational number"
+            },
+            {
+                "option": "D.",
+                "text": "integer"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Since, $$\\sqrt 2 $$  is a non-terminating and non-repeating decimal, so it is an irrational number."
+    },
+    {
+        "question": "If a number is divisible by both 11 and 13, then it must be necessarily :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "429"
+            },
+            {
+                "option": "B.",
+                "text": "Divisible by (11 × 13)"
+            },
+            {
+                "option": "C.",
+                "text": "Divisible by (11 + 13)"
+            },
+            {
+                "option": "D.",
+                "text": "Divisible by (13 - 11)"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: We know that 11 and 13 are co-prime So, a number divisible by both 11 and 13 will be divisible by (11 × 13)"
+    },
+    {
+        "question": "What is sum of all natural numbers from 1 to 100 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "5050"
+            },
+            {
+                "option": "B.",
+                "text": "6000"
+            },
+            {
+                "option": "C.",
+                "text": "5000"
+            },
+            {
+                "option": "D.",
+                "text": "5052"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Required sum $$\\eqalign{ & = \\frac{{100}}{2}\\left[ {1 + 100} \\right] \\cr & = 101 \\times 50 \\cr & = 5050 \\cr} $$"
+    },
+    {
+        "question": "If a = 7, b = 5, c = 3, then the value of a2  + b2  + c2  - ab - bc - ca is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "- 12"
+            },
+            {
+                "option": "B.",
+                "text": "0"
+            },
+            {
+                "option": "C.",
+                "text": "8"
+            },
+            {
+                "option": "D.",
+                "text": "12"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: = (a2 + b2 + c2 - ab - bc - ca) = (a + b + c)2 - 3 (ab + bc +ca) = (7 + 5 + 3)2 - 3 (35 + 15 + 21) = (15)2 - 3 × 71 = (225 - 213) = 12"
+    },
+    {
+        "question": "While writing all the numbers from 700 to 1000, how many numbers occur in which the first digits greater than the second digit, and the second digit is greater than the third digit ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "61"
+            },
+            {
+                "option": "B.",
+                "text": "64"
+            },
+            {
+                "option": "C.",
+                "text": "78"
+            },
+            {
+                "option": "D.",
+                "text": "85"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: When the second digit is 1, third digit can be 0, i.e., there is one such number. When the second digit is 2, third digit can be 0 or 1, i.e., there are 2 such numbers. When the second digit is 3, third digit can be 0, 1 or 2, i.e., there are 3 such numbers, and so on. When the first digit is 7, second digit can be 1, 2, 3, 4, 5 or 6 So, there are (1 + 2 + 3 + 4 + 5 + 6) = 21 such numbers between 700 and 799 When the first digit is 8, second digit can be 1, 2, 3, 4, 5, 6 or 7 So, there are (1 + 2 + 3 + 4 + 5 + 6 + 7) = 28 such numbers between 800 and 899 When the digit is 9, second digit can be 1, 2, 3, 4, 5, 6, 7 or 8 So, there are (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8) = 36 such numbers between 900 and 999 Hence, the required number = (21 + 28 + 36) = 85"
+    },
+    {
+        "question": "98th term of the infinite series 1, 2, 3, 4, 1, 2, 3, 4, 1, 2, .... is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "4"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Given series is 1, 2, 3, 4, 1, 2, 3, 4, 1, 2, 3, 4, ..... ∴ 96th term is 4 So, $${T_{97}}$$ = 1 and $${T_{98}}$$ = 2 Hence, the 98th term is 2"
+    },
+    {
+        "question": "If x and y are two digits of the number 653xy such that the number is divisible by 80, then x + y is equal to :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "5"
+            },
+            {
+                "option": "D.",
+                "text": "6"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Since, 653xy is divisible by 80, we must have y = 0 Now, 653x0 must be divisible by both 5 and 16 Clearly, it is divisible by 5 for all values of x Now, the number 53x0 must be divisible by 16 The least value of x is clearly 6 So, x + y= 6 + 0= 6"
+    },
+    {
+        "question": "P and Q are two positive integers such that PQ = 64. Which of the following cannot be the value of P + Q = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "16"
+            },
+            {
+                "option": "B.",
+                "text": "21"
+            },
+            {
+                "option": "C.",
+                "text": "35"
+            },
+            {
+                "option": "D.",
+                "text": "65"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: We may have (64 and 1), (32 and 2), (16 and 4) and (8 and 8) In any case, the sum is not 35"
+    },
+    {
+        "question": "How many numbers less than 1000 are multiple of both 10 and 13 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "6"
+            },
+            {
+                "option": "B.",
+                "text": "7"
+            },
+            {
+                "option": "C.",
+                "text": "8"
+            },
+            {
+                "option": "D.",
+                "text": "9"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Required numbers are multiples of (10 × 13), i.e., 130 These numbers are 130, 260, 390, 520, 650, 780 and 910 They are 7 in number."
+    },
+    {
+        "question": "If (1012 + 25)2  - (1012 - 25)2 = 10n, then the value of n is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "5"
+            },
+            {
+                "option": "B.",
+                "text": "10"
+            },
+            {
+                "option": "C.",
+                "text": "14"
+            },
+            {
+                "option": "D.",
+                "text": "20"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: (1012 + 25)2 - (1012 - 25)2 = 4 × 1012 × 25[∵ (a + b)2 - (a - b)2 = 4ab] = 1012 × 100 = 1012 × 102 = 1014 Hence, n = 14"
+    },
+    {
+        "question": "Which of the following numbers is divisible by 3, 7, 9 and 11 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "639"
+            },
+            {
+                "option": "B.",
+                "text": "2079"
+            },
+            {
+                "option": "C.",
+                "text": "3791"
+            },
+            {
+                "option": "D.",
+                "text": "37911"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Clearly, 639 is not divisible by 7 Consider 2079 Sum of its digits= (2 + 0 + 7 + 9)= 18 So, it is divisible by both 3 and 9 Also, (79 - 2) = 77, which is divisible by 7 So, 2079 is divisible by 7 Also, (9 + 0) - (7 + 2) = 0 So, 2079 is divisible by 11 Hence, 2079 is divisible by each one of 3, 7, 9 and 11"
+    },
+    {
+        "question": "When a certain positive integer P is divided by another positive integer, the remainder is $${r_{1}}$$ . When a second positive integer Q is divided by the same integer, the remainder is $${r_{2}}$$ and when (P + Q) is divided by the same divisor, the remainder is $${r_{3}}$$ . Then the divisor may be :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$${r_{1}}$$$${r_{2}}$$$${r_{3}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$${r_{1}}$$ + $${r_{2}}$$ + $${r_{3}}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$${r_{1}}$$ - $${r_{2}}$$ + $${r_{3}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$${r_{1}}$$ + $${r_{2}}$$ - $${r_{3}}$$"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let P = x + $${r_{1}}$$ and Q = y + $${r_{2}}$$, where each of x and y are divisible by the common divisor. Then, P + Q = (x + $${r_{1}}$$) + (y + $${r_{2}}$$)                     = (x + y) + ($${r_{1}}$$ + $${r_{2}}$$) (P + Q) leaves remainder $${r_{3}}$$ when divided by the common divisor. ⇒ [(x + y) + ($${r_{1}}$$ + $${r_{2}}$$) - $${r_{3}}$$] is divisible by the common divisor. Since (x + y) is divisible by the common divisor, so divisor = $${r_{1}}$$ + $${r_{2}}$$ - $${r_{3}}$$"
+    },
+    {
+        "question": "For the integer n, if n3 is odd, then which of the following statements are true ?\nI. n is odd\nII. n2 is odd\nIII. n2 is even",
+        "options": [
+            {
+                "option": "A.",
+                "text": "I only"
+            },
+            {
+                "option": "B.",
+                "text": "II only"
+            },
+            {
+                "option": "C.",
+                "text": "I and II only"
+            },
+            {
+                "option": "D.",
+                "text": "I and III only"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: n3 is odd ⇒ n is odd and n2 is odd ∴ I and II are true."
+    },
+    {
+        "question": "A 9 digit number in which zero does not appear and no digits are repeated has the following properties: The number comprising the left most two digits is divisible by 2, that comprising the left most three digits is divisible by 3, and so on",
+        "options": [
+            {
+                "option": "A.",
+                "text": "183654729"
+            },
+            {
+                "option": "B.",
+                "text": "381654729"
+            },
+            {
+                "option": "C.",
+                "text": "983654721"
+            },
+            {
+                "option": "D.",
+                "text": "981654723"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: (a) In 183654729, 1836547 is not divisible by 7 (b) In 381654729, 38 is divisible by 2, 381 is divisible by 3, 3816 is divisible by 4, 38165 is divisible by 5, 381654 is divisible by 6, 3816547 is divisible by 7 38165472 is divisible by 8 and 381654729 is divisible by 9 (c) In 983654721, 983 is not divisible by 3 (d) In 981654723, 9816547 is not divisible by 7"
+    },
+    {
+        "question": "The remainder obtained when any prime number greater than 6 is divided by 6 must be :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "either 1 or 2"
+            },
+            {
+                "option": "B.",
+                "text": "either 1 or 3"
+            },
+            {
+                "option": "C.",
+                "text": "either 1 or 5"
+            },
+            {
+                "option": "D.",
+                "text": "either 3 or 5"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the required prime number be p. Let p when divided by 6 give n as quotient and r as remainder. Then p = 6n + r, where 0 $$ \\leqslant $$ r < 6 Now, r = 0, r = 2, r = 3 and r = 4 do not give p as prime. ∴ r $$ \\ne $$ 0, r $$ \\ne $$ 2, r $$ \\ne $$ 3, and r $$ \\ne $$ 4 Hence, r = 1 or r = 5"
+    },
+    {
+        "question": "The smallest number which must be subtracted from 8112 to make it exactly divisible by 99 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "91"
+            },
+            {
+                "option": "B.",
+                "text": "92"
+            },
+            {
+                "option": "C.",
+                "text": "93"
+            },
+            {
+                "option": "D.",
+                "text": "95"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: On dividing 8112 by 99, we get 93 as remainder. So, the required number to be subtracted is 93."
+    },
+    {
+        "question": "If the sum of two numbers is 14 and their difference is 10, find the product of these two numbers.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "18"
+            },
+            {
+                "option": "B.",
+                "text": "20"
+            },
+            {
+                "option": "C.",
+                "text": "24"
+            },
+            {
+                "option": "D.",
+                "text": "22"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the two numbers be are a and b ∴ a + b = 14.....(i) a - b = 10.....(ii) By adding equation (i) and (ii) we get 2a = 24 ∴ a = 12 and b = 2 ∴ Product of these two numbers= 12 × 2 = 24"
+    },
+    {
+        "question": "The greatest number by which the product of three consecutive multiples of 3 is always divisible is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "54"
+            },
+            {
+                "option": "B.",
+                "text": "81"
+            },
+            {
+                "option": "C.",
+                "text": "162"
+            },
+            {
+                "option": "D.",
+                "text": "243"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Three consecutive multiples of 3 are 3m, 3(m + 1) and 3(m + 2) Their product = 3m × 3(m + 1) × 3(m + 2)                       = 27 × m × (m + 1) × (m + 2) Putting m = 1, this product is (27 × 1 × 2 × 3) = 162 So, this product is always divisible by 162"
+    },
+    {
+        "question": "If p3 - q3 = (p - q) (p - q)2 - xpq, then find the value of x :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "- 3"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "- 1"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $${p^3} - {q^3} = \\left( {p - q} \\right)$$ &nbsp $$\\left\\{ {{{\\left( {p - q} \\right)}^2} - xpq} \\right\\}$$ $$ \\Rightarrow \\left( {p - q} \\right)\\left( {{p^2} + {q^2} + pq} \\right)$$     $$ = \\left( {p - q} \\right)$$   $$\\left\\{ {{{\\left( {p - q} \\right)}^2} - xpq} \\right\\}$$ $$\\left\\{ {\\because {a^3} - {b^3} = \\left( {a - b} \\right)\\left( {{a^2} + ab + {b^2}} \\right)} \\right\\}$$By cancelling same terms of both sides $$ \\Rightarrow {p^2} + {q^2} + pq = {p^2} + {q^2}$$     $$ - 2pq - xpq$$   $$\\left\\{ {{{\\left( {a - b} \\right)}^2} = {a^2} + {b^2} - 2ab} \\right\\}$$ $$\\eqalign{ & \\Rightarrow 3pq = - xpq \\cr & \\Rightarrow x = - 3 \\cr} $$"
+    },
+    {
+        "question": "If n = 1 + x, where x is the product of four consecutive positive integers, then which of the following is\/are true ?\nI. n is odd\nII. n is prime\nIII. n is a perfect square",
+        "options": [
+            {
+                "option": "A.",
+                "text": "I only"
+            },
+            {
+                "option": "B.",
+                "text": "I and II only"
+            },
+            {
+                "option": "C.",
+                "text": "I and III only"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let n = 1 + x = 1 + m (m + 1) (m + 2) (m + 3), where m is a positive integer. Then, clearly two of m, (m + 1), (m + 2), (m + 3) are even and so their product is even. Thus, x is even and hence n = 1 + x is odd Also, n = 1 + m (m + 3) (m + 1) (m + 2) = 1 + (m2 + 3m) (m2 + 3m + 2) ⇒ n = 1 + y (y + 2), where m2 + 3m = y ⇒ n = 1 + y2 +2y = (1 + y)2 , which is a perfect square. Hence, I and III are true."
+    },
+    {
+        "question": "If the seven digit number 876p37q is divided by 225, then the value of p and q respectively are :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0 and 0"
+            },
+            {
+                "option": "B.",
+                "text": "9 and 0"
+            },
+            {
+                "option": "C.",
+                "text": "0 and 5"
+            },
+            {
+                "option": "D.",
+                "text": "9 and 5"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 225 = 9 × 25, where 9 and 25 are co-primes. So, a number is divisible by 225 if it is divisible by both 9 and 25Given number is divisible by 25, only if 7q is divisible by 25, i,e, if q = 5 Sum of digits of given number = (8 + 7 + 6 + p + 3 + 7 + 5)= 36 + p, which must be divisible by 9 This is possible if p = 0 Hence, p = 0,   q = 5"
+    },
+    {
+        "question": "What is the remainder when 231 is divided by 5 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "4"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 231= 2 × 230= 2 × (22 )15= 2 × 415 When n is odd, (xn + an) is divisible by (x + a) ∴ (415 + 115) is divisible by (4 + 1) ⇒ (415 + 1) is divisible by 5 ⇒ (230 + 1) is divisible by 5 ⇒ On dividing 230 by 5, we get (5 - 1) i.e., 4 as remainder. ∴ Remainder obtained on dividing 231 by 5 = Remainder obtained in dividing (2 × 4) i.e., 8 by 5 = 3"
+    },
+    {
+        "question": "(800 ÷ 64) × (1296 ÷ 36) = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "420"
+            },
+            {
+                "option": "B.",
+                "text": "460"
+            },
+            {
+                "option": "C.",
+                "text": "500"
+            },
+            {
+                "option": "D.",
+                "text": "540"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer & Solution Answer: Option E Solution: $$\\eqalign{ & \\left( {800 \\div 64} \\right) \\times \\left( {1296 \\div 36} \\right) \\cr & = \\frac{{800}}{{64}} \\times \\frac{{1296}}{{36}} \\cr & = 450 \\cr} $$"
+    },
+    {
+        "question": "The number of times 99 is subtracted from 1111 so that the remainder is less then 99 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10"
+            },
+            {
+                "option": "B.",
+                "text": "11"
+            },
+            {
+                "option": "C.",
+                "text": "12"
+            },
+            {
+                "option": "D.",
+                "text": "13"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: On dividing 1111 by 99, the quotient is 11 and the remainder is 22. Hence, the required number is 11"
+    },
+    {
+        "question": "If p is a positive fraction less than 1, then",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{1}{p}$$ is less than 1"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{1}{p}$$ is a positive integers"
+            },
+            {
+                "option": "C.",
+                "text": "p2  is less than p"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{2}{p}$$ - p is a positive number"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: p < 1 ⇒ $$\\frac{1}{p}$$ > 1 ⇒ $$\\frac{2}{p}$$ > 2 ⇒ $$\\frac{2}{p}$$ - p > 2 - p > 0 [∵ p < 1] Hence, $$\\left( {\\frac{2}{p} - p} \\right)$$ is a positive number"
+    },
+    {
+        "question": "Given that (12 + 22  + 32 + ..... + 202) = 2870, the value of (22 + 42  + 62 + ... + 402 ) is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2870"
+            },
+            {
+                "option": "B.",
+                "text": "5740"
+            },
+            {
+                "option": "C.",
+                "text": "11480"
+            },
+            {
+                "option": "D.",
+                "text": "28700"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: = (22 +42 +62 + ..... + 402) = (1 × 2)2 +(2 × 2)2 +(2 × 3)2 + ..... + (2 × 20)2 = 22 × (12 + 22 + 32 + ..... + 202) = (4 × 2870) = 11480"
+    },
+    {
+        "question": "If the number 357*25* is divisible by both 3 and 5, then the missing digits in the unit's place and the thousandth's place respectively are :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0, 6"
+            },
+            {
+                "option": "B.",
+                "text": "5, 1"
+            },
+            {
+                "option": "C.",
+                "text": "5, 4"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let the unit's place be x and the thousand's place be y. Then, 357y25x is divisible by 5 only when x = 0 or x = 5 Also, this number is divisible by 3 only when sum of its digits is divisible by 3 So, (22 + x + y) must be divisible by 3 ∴ x + y = 2 Taking x = 0, we get y = 2 So, the unit place = 0 and thousand's place = 2"
+    },
+    {
+        "question": "In the relation x > y + z, x + y > p and z < p, which of the following is necessarily true ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "y > p"
+            },
+            {
+                "option": "B.",
+                "text": "x + y > z"
+            },
+            {
+                "option": "C.",
+                "text": "y + p > x"
+            },
+            {
+                "option": "D.",
+                "text": "Insufficient data"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: x + y > p and p > z ⇒ x + y > z"
+    },
+    {
+        "question": "(xn - an) is divisible by (x - a)",
+        "options": [
+            {
+                "option": "A.",
+                "text": "for all values of n"
+            },
+            {
+                "option": "B.",
+                "text": "only for even values of n"
+            },
+            {
+                "option": "C.",
+                "text": "only for odd values of n"
+            },
+            {
+                "option": "D.",
+                "text": "only for prime values of n"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: We know that (xn - an ) is always divisible by (x - a) for all values of n."
+    },
+    {
+        "question": "8 + 88 + 888 + 8888 + 88888 + 888888 = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "897648"
+            },
+            {
+                "option": "B.",
+                "text": "896748"
+            },
+            {
+                "option": "C.",
+                "text": "986748"
+            },
+            {
+                "option": "D.",
+                "text": "987648"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 +             8 9 8 7 6 4 8"
+    },
+    {
+        "question": "If a + b + c = 0, (a + b) (b + c) (c + a) equals",
+        "options": [
+            {
+                "option": "A.",
+                "text": "ab (a + b)"
+            },
+            {
+                "option": "B.",
+                "text": "(a + b + c)2"
+            },
+            {
+                "option": "C.",
+                "text": "- abc"
+            },
+            {
+                "option": "D.",
+                "text": "a2 + b2 + c2"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: a + b + c = 0⇒ (a + b) = - c (b + c) = - a and (c + a) = - b ⇒ (a + b) (b + c) (c + a) = (- c) × (- a) × (- b) = - (abc)"
+    },
+    {
+        "question": "If x is a rational number and y is an irrational number, then-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Both x + y and xy are necessarily rational"
+            },
+            {
+                "option": "B.",
+                "text": "Both x + y and xy are necessarily irrational"
+            },
+            {
+                "option": "C.",
+                "text": "xy is necessarily irrational, but x + y can be either rational or irrational"
+            },
+            {
+                "option": "D.",
+                "text": "x + y is necessarily irrational, but xy can be either rational or irrational"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: (a) Let x = 0 and y = $$\\sqrt 2 $$ Then, x is rational and y is irrational. ∴ x + y = 0 + $$\\sqrt 2 $$  = $$\\sqrt 2 $$ , which is irrational Thus, x + y is not rational (b) Let x = 0 and y = $$\\sqrt 2 $$ Then, x is rational and y is irrational ∴ xy = 0 × $$\\sqrt 2 $$  = 0, which is rational Hence, xy is not irrational (c) As shown in (B), xy is not necessarily irrational (d) x + y is necessary irrational. But xy can be either rational or irrational. Hence, (D) is true."
+    },
+    {
+        "question": "The digit in the unit's place of [(251)98 + (21)29 - (106)100 + (705)35 - 164 + 259] is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "5"
+            },
+            {
+                "option": "D.",
+                "text": "6"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Unit digit in [(251)98 + (21)29 - (106)100 + (705)35 - 164 + 259] = unit digit in (1 + 1 - 6 + 5 - 6 + 9) = 4"
+    },
+    {
+        "question": "The digits indicated by * in 3422213** so that this number is divisible by 99 are :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1, 9"
+            },
+            {
+                "option": "B.",
+                "text": "3, 7"
+            },
+            {
+                "option": "C.",
+                "text": "4, 6"
+            },
+            {
+                "option": "D.",
+                "text": "5, 5"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the unit's digit be x and ten's digit be y Then, the number is 3422213yx Also, 99 = (11 × 9), where 11 and 9 are co-primes Since the given number is divisible by 9, it follows that (3 + 4 + 2 + 2 + 2 + 1 + 3 + y + x) = (17 + y + x) must be divisible by 9 So, y + x = 1 or y + x = 10 Again, the given number is divisible by 11 So, (x + 3 + 2 + 2 + 3) - (y + 1 + 2 + 4) = x - y + 3 is either 0 or 11 ∴ (x - y + 3 = 0 or x - y + 3 = 11) ⇒ (y - x = 3 or x - y = 8) Now, (y + x = 1 and y - x = 3) ⇒ y = 2 and x = - 1 (y + x = 1 and x - y = 8) ⇒ x = $$\\frac{9}{2}$$ (y + x = 10 and y - x = 3) ⇒ y = $$\\frac{13}{2}$$ (y + x = 10 and x - y = 8) ⇒ x = 9 and y = 1 Thus, x = 9, y = 1 So, required number is 342221319"
+    },
+    {
+        "question": "Two numbers when divided by a certain divisor leave the remainders 4375 and 2986 respectively but when the sum of two numbers is divided by the same divisor, the remainder is 2361. The divisor in question is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4675"
+            },
+            {
+                "option": "B.",
+                "text": "4900"
+            },
+            {
+                "option": "C.",
+                "text": "5000"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: As proved in the above question, Divisor = 4375 + 2986 - 2361              = 5000"
+    },
+    {
+        "question": "The numbers from 1 to 29 are written side by side as follows :\n1234567891011121314.....2829\nIf this number is divided by 9, then what is the remainder ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "1"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum of digits of numbers from 1 to 10 = 46 Sum of digits of numbers from 11 to 20 = 56 Sum of digits of numbers from 21 to 29 = 63 Sum of digits of the given number = 46 + 56 + 63 = 165 So, the required remainder is the remainder obtained on dividing 165 by 9, which is 3"
+    },
+    {
+        "question": "If m = - 4, n = - 2, then the value of m3 - 3m2 + 3m + 3n + 3n2  + n3 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "- 120"
+            },
+            {
+                "option": "B.",
+                "text": "- 124"
+            },
+            {
+                "option": "C.",
+                "text": "- 126"
+            },
+            {
+                "option": "D.",
+                "text": "- 128"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: m3- 3m2 + 3m + 3n + 3n2 + n3 = - 64 - 48 - 12 - 6 + 12 - 8 = -126"
+    },
+    {
+        "question": "Which of the following numbers is exactly divisible by 24 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "35718"
+            },
+            {
+                "option": "B.",
+                "text": "63810"
+            },
+            {
+                "option": "C.",
+                "text": "537804"
+            },
+            {
+                "option": "D.",
+                "text": "3125736"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: We have 24 = 3 × 8, where 3 and 8 are co-primes Clearly, 718 is not divisible by 8. So, 35718 is not divisible by 8 810 is not divisible by 8. So, 63810 is not divisible by 8 804 is not divisible by 8. So, 537804 is not divisible by 8 736 is divisible by 8. So, 3125736 is divisible by 8 Also, sum of its digits = (3 + 1 + 2 + 5 + 7 + 3 + 6) = 27, which is divisible by 3 So, 3125736 is divisible by 3 also. Hence, it is divisible by 24."
+    },
+    {
+        "question": "(46351 - 36418 - 4505) ÷ ? = 1357",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2"
+            },
+            {
+                "option": "B.",
+                "text": "3"
+            },
+            {
+                "option": "C.",
+                "text": "4"
+            },
+            {
+                "option": "D.",
+                "text": "6"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let $$\\frac{46351 - 36418 - 4505}{x}$$     = 1357 Then, x = $$\\frac{46351 - (36418 - 4505)}{1357}$$ x = $$\\frac{(46351 - 40923)}{1357}$$ x = $$\\frac{5428}{1357}$$ x = 4"
+    },
+    {
+        "question": "If a and b are positive integers and $$\\frac{(a - b)}{3.5}$$  = $$\\frac{4}{7}$$, then:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "b > a"
+            },
+            {
+                "option": "B.",
+                "text": "b < a"
+            },
+            {
+                "option": "C.",
+                "text": "b = a"
+            },
+            {
+                "option": "D.",
+                "text": "b $$ \\geqslant $$ a"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\frac{(a - b)}{3.5}$$ = $$\\frac{4}{7}$$ ⇒ (a - b) = $$\\frac{4}{7}$$ × $$\\frac{7}{2}$$ = 2 ⇒ b < a"
+    },
+    {
+        "question": "2525 is divided by 26, the remainder is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "24"
+            },
+            {
+                "option": "D.",
+                "text": "25"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: (xn + an) is divisible by (x + a) when n is odd ∴ (2525 + 125) is divisible by (25 + 1) ⇒ (2525 + 1) is divisible by 26 ⇒ On dividing 2525 by 26, we get (26 - 1) = 25 as remainder"
+    },
+    {
+        "question": "How many prime numbers are there between 100 to 200 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "21"
+            },
+            {
+                "option": "B.",
+                "text": "20"
+            },
+            {
+                "option": "C.",
+                "text": "16"
+            },
+            {
+                "option": "D.",
+                "text": "11"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: The number of prime numbers from 100 to 200 is 21. 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199."
+    },
+    {
+        "question": "The smallest three-digit prime number is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "101"
+            },
+            {
+                "option": "B.",
+                "text": "103"
+            },
+            {
+                "option": "C.",
+                "text": "107"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Clearly, 100 is divisible by 2. So, 100 is not prime. (101) < (11)2 and prime numbers less than 11 are 2, 3, 5, 7 Clearly, 101 is not divisible by any of 2, 3, 5 and 7 Hence, 101 is the smallest 3-digit prime number."
+    },
+    {
+        "question": "The digit in the unit's place of the product (2464)1793 × (615)317 × (131)491 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "5"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Unit digit in the given product = Unit digit in (41793 × 5317 × 1491) Unit digit in 42 is 6 and so the unit digit in (42)896 is 6 ∴ Unit digit in 41793 = Unit digit in (6 × 4)= unit digit in 24, which is 4 Unit digit in 5317 is 5 and the unit digit in 1491 is 1 ∴ Unit digit in the given product = Unit digit in (4 × 5 × 1), which is 0"
+    },
+    {
+        "question": "1234 + 2345 - 3456 + 4567 = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4590"
+            },
+            {
+                "option": "B.",
+                "text": "4670"
+            },
+            {
+                "option": "C.",
+                "text": "4680"
+            },
+            {
+                "option": "D.",
+                "text": "4690"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Given expression : = (1234 + 2345 + 4567) - 3456 = (8146 - 3456) = 4690"
+    },
+    {
+        "question": "(461 + 462 + 463 + 464) is divisible by :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3"
+            },
+            {
+                "option": "B.",
+                "text": "11"
+            },
+            {
+                "option": "C.",
+                "text": "13"
+            },
+            {
+                "option": "D.",
+                "text": "17"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: (461 + 462 + 463 + 464) = 461(1 + 4 + 42 + 43) = 461 × 85, Which is divisible by 17"
+    },
+    {
+        "question": "Find the product of all odd natural numbers less than 5000.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{{5000!}}{{{2500} \\times 2501}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{{5000!}}{{{2^{2500}} \\times 2500!}}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{{5000!}}{{{2^{5000}}}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Product of all odd natural numbers less than 5000 $$\\eqalign{ & = 1 \\times 3 \\times 5 \\times 7 \\times ..... \\times 4999 \\cr & = \\frac{{1 \\times 2 \\times 3 \\times 4 \\times 5 \\times 6 \\times ... \\times 5000}}{{2 \\times 4 \\times 6 \\times 8 \\times ... \\times 5000}} \\cr & = \\frac{{5000!}}{{{2^{2500}}\\left( {1 \\times 2 \\times 3 \\times 4 \\times ... \\times 2500} \\right)}} \\cr & = \\frac{{5000!}}{{{2^{2500}} \\times 2500!}} \\cr} $$"
+    },
+    {
+        "question": "38649 - 1624 - 4483 = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "32425"
+            },
+            {
+                "option": "B.",
+                "text": "32452"
+            },
+            {
+                "option": "C.",
+                "text": "34522"
+            },
+            {
+                "option": "D.",
+                "text": "35422"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer & Solution Answer: Option E Solution: Given expression: = 38649 - (1624 + 4483) = (38649 - 6107) = 32542"
+    },
+    {
+        "question": "The largest natural number, which exactly divides the product of any four consecutive natural numbers, is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "6"
+            },
+            {
+                "option": "B.",
+                "text": "12"
+            },
+            {
+                "option": "C.",
+                "text": "24"
+            },
+            {
+                "option": "D.",
+                "text": "120"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let P = n (n + 1) (n + 2) (n + 3)Then, n = 1 gives P = (1 × 2 × 3 × 4) = 24 Hence, the required number is 24"
+    },
+    {
+        "question": "If B > A, then which expression will have the highest value (given that A and B are positive integers)",
+        "options": [
+            {
+                "option": "A.",
+                "text": "A - B"
+            },
+            {
+                "option": "B.",
+                "text": "AB"
+            },
+            {
+                "option": "C.",
+                "text": "A + B"
+            },
+            {
+                "option": "D.",
+                "text": "Can't say"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: B > A ⇒ A < B ⇒ (A - B) < 0 Since A and B are both positive integers, we have (A + B) > 0 and AB > 0 If (A = 1 and B = 2), we have AB < (A + B) If (A = 2 and B = 3), we have (A + B) < AB Thus, we cannot say which one of A + B and AB has the highest value."
+    },
+    {
+        "question": "Consider the following statements for the sequence of numbers given below :\n11, 111, 1111, 11111, .....\n1. Each number can be expressed in the form (4m + 3), where m is a natural number.\n2. Some numbers are squares.\nWhich of the above statements is\/are correct ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1 only"
+            },
+            {
+                "option": "B.",
+                "text": "2 only"
+            },
+            {
+                "option": "C.",
+                "text": "Both 1 and 2"
+            },
+            {
+                "option": "D.",
+                "text": "Neither 1 nor 2"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 11, 111, 1111, 11111,..... Let m = 2 ⇒ 4 × 2 + 3 = 11 m = 27 ⇒ 4 × 27 + 3 = 111 Each number can be expressed in the form (4m + 3) where m is a natural number. Hence, statement 1 is only correct."
+    },
+    {
+        "question": "74844 ÷ ? = 54 × 63",
+        "options": [
+            {
+                "option": "A.",
+                "text": "22"
+            },
+            {
+                "option": "B.",
+                "text": "34"
+            },
+            {
+                "option": "C.",
+                "text": "42"
+            },
+            {
+                "option": "D.",
+                "text": "54"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let 74844 ÷ x = 54 × 63 Then, $$\\frac{74844}{x}$$ = 54 × 63 ⇒ x = $$\\frac{74844}{54 × 63}$$ ⇒ x = $$\\frac{8316}{6 × 63}$$ ⇒ x = $$\\frac{1386}{63}$$   = $$\\frac{198}{9}$$ ⇒ x = 22"
+    },
+    {
+        "question": "In the following sum, '?' stands for which digit :\n? + 1? + 2? + ?3 + ?1 = 21?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4"
+            },
+            {
+                "option": "B.",
+                "text": "6"
+            },
+            {
+                "option": "C.",
+                "text": "8"
+            },
+            {
+                "option": "D.",
+                "text": "9"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the required digit be x Then, ⇒ x + 1x + 2x + x3 + x1 = 21x ⇒ x + 10 + x + 20 + x + 10x + 3 + 10x + 1 = 200 + 10 + x ⇒ 22x = 210 - 34 = 176 ⇒ x = 8 Hence, the required digit is 8"
+    },
+    {
+        "question": "10531 + 4813 - 728 = ? × 87",
+        "options": [
+            {
+                "option": "A.",
+                "text": "168"
+            },
+            {
+                "option": "B.",
+                "text": "172"
+            },
+            {
+                "option": "C.",
+                "text": "186"
+            },
+            {
+                "option": "D.",
+                "text": "212"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let 10531 + 4813 - 728 = x × 87 Then, (15344 - 728) = 87 × x x = $$\\frac{14616}{87}$$ = 168"
+    },
+    {
+        "question": "n being any odd number greater than 1, n65 - n is always divisible by :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "5"
+            },
+            {
+                "option": "B.",
+                "text": "13"
+            },
+            {
+                "option": "C.",
+                "text": "24"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & \\Leftrightarrow {n^{65}} - n \\cr & = n\\left( {{n^{64}} - 1} \\right) \\cr & = n\\left( {{n^{32}} - 1} \\right)\\left( {{n^{32}} + 1} \\right) \\cr & = n\\left( {{n^{16}} - 1} \\right)\\left( {{n^{16}} + 1} \\right)\\left( {{n^{32}} + 1} \\right) \\cr} $$   $$ = n\\left( {{n^8} - 1} \\right)\\left( {{n^8} + 1} \\right)\\left( {{n^{16}} + 1} \\right)$$     $$\\left( {{n^{32}} + 1} \\right)$$   $$ = n\\left( {{n^4} - 1} \\right)\\left( {{n^4} + 1} \\right)\\left( {{n^8} + 1} \\right)$$     $$\\left( {{n^{16}} + 1} \\right)$$  $$\\left( {{n^{32}} + 1} \\right)$$   $$ = n\\left( {{n^2} - 1} \\right)\\left( {{n^2} + 1} \\right)\\left( {{n^4} + 1} \\right)$$     $$\\left( {{n^8} + 1} \\right)$$  $$\\left( {{n^{16}} + 1} \\right)$$  $$\\left( {{n^{32}} + 1} \\right)$$   $$ = \\left( {n - 1} \\right)n\\left( {n + 1} \\right)\\left( {{n^2} + 1} \\right)\\left( {{n^4} + 1} \\right)$$       $$\\left( {{n^8} + 1} \\right)$$  $$\\left( {{n^{16}} + 1} \\right)$$  $$\\left( {{n^{64}} + 1} \\right)$$  $$\\left( {{n^{32}} + 1} \\right)$$ Clearly, (n - 1), n and (n + 1) are three consecutive numbers and they have to be multiples of 2, 3 and 4 as n is odd. Thus, the given number is definitely a multiple of 24"
+    },
+    {
+        "question": "414 × ? × 7 = 127512",
+        "options": [
+            {
+                "option": "A.",
+                "text": "36"
+            },
+            {
+                "option": "B.",
+                "text": "40"
+            },
+            {
+                "option": "C.",
+                "text": "44"
+            },
+            {
+                "option": "D.",
+                "text": "48"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let 414 × x × 7 = 127512 Then, $$\\eqalign{ & x = \\frac{{127512}}{{414 \\times 7}} \\cr & \\,\\,\\,\\,\\,\\, = \\frac{{18216}}{{414}} \\cr & \\,\\,\\,\\,\\,\\, = \\frac{{2024}}{{46}} \\cr & \\,\\,\\,\\,\\,\\, = \\frac{{1012}}{{23}} \\cr & \\,\\,\\,\\,\\,\\, = 44 \\cr} $$"
+    },
+    {
+        "question": "Find the multiple of 11 in the following numbers.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "112144"
+            },
+            {
+                "option": "B.",
+                "text": "447355"
+            },
+            {
+                "option": "C.",
+                "text": "869756"
+            },
+            {
+                "option": "D.",
+                "text": "978626"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: In 978626, we have (6 + 6 + 7) - (2 + 8 + 9) = 0 Hence, 978626 is completely divisible by 11"
+    },
+    {
+        "question": "884697 - 773697 - 102479 = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "8251"
+            },
+            {
+                "option": "B.",
+                "text": "8512"
+            },
+            {
+                "option": "C.",
+                "text": "8521"
+            },
+            {
+                "option": "D.",
+                "text": "8531"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Given expression : = 884697 - (773697 +102479) = 884697 - 876176 = 8521"
+    },
+    {
+        "question": "In a division sum, the remainder was 71. With the same divisor but twice the dividend, the remainder is 43. Which one of the following is the divisor ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "86"
+            },
+            {
+                "option": "B.",
+                "text": "93"
+            },
+            {
+                "option": "C.",
+                "text": "99"
+            },
+            {
+                "option": "D.",
+                "text": "104"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the dividend be (x + 71) and the divisor be y. Then, [2(x + 71) - 43] is divisible by y ⇒ (2x + 142 - 43) is divisible by y⇒ (2x + 99) is divisible by y ∴ Divisor = 99 Shortcut method Divisor = (2 × 71 - 43) = (142 - 43) = 99"
+    },
+    {
+        "question": "What is the number of prime factors contained in the product 307 × 225 × 3411 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "49"
+            },
+            {
+                "option": "B.",
+                "text": "51"
+            },
+            {
+                "option": "C.",
+                "text": "52"
+            },
+            {
+                "option": "D.",
+                "text": "53"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 307 × 225 × 3411 = (2 × 3 × 5)7 × (2 × 11)5 × (2 × 7)11 = 2(7 + 5 + 11) × 37 × 57 × 115 × 1711 = (223 × 37 × 57 × 115 × 1711) Number of prime factors = (23 + 7 + 7 + 5 + 11) = 53"
+    },
+    {
+        "question": "217 × 217 + 183 × 183 = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "79698"
+            },
+            {
+                "option": "B.",
+                "text": "80578"
+            },
+            {
+                "option": "C.",
+                "text": "80698"
+            },
+            {
+                "option": "D.",
+                "text": "81268"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: = (217 × 217) + (183 × 183) = (217)2 + (183)2 = (200 + 17)2 + (200 - 17)2 = (a + b)2 + (a - b)2 = 2(a2 + b2), where a = 200, b = 17 = 2 [(200)2 + (17)2 ] = 2 [40000 + 289] = (2 × 40289) = 80578"
+    },
+    {
+        "question": "1260 ÷ 14 ÷ 9 = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "9"
+            },
+            {
+                "option": "B.",
+                "text": "10"
+            },
+            {
+                "option": "C.",
+                "text": "91"
+            },
+            {
+                "option": "D.",
+                "text": "810"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\eqalign{ & = 1260 \\div 14 \\div 9 \\cr & = \\left( {1260 \\times \\frac{1}{{14}} \\times \\frac{1}{9}} \\right) \\cr & = 10 \\cr} $$"
+    },
+    {
+        "question": "Consider the following statements :\n1. If x and y are composite numbers, then x + y is always composite.\n2. There does not exist a natural number which is neither prime nor composite.\nWhich of the above statements is\/are correct ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1 only"
+            },
+            {
+                "option": "B.",
+                "text": "2 only"
+            },
+            {
+                "option": "C.",
+                "text": "Both 1 and 2"
+            },
+            {
+                "option": "D.",
+                "text": "Neither 1 nor 2"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Statement 1. Let x = 4 and y = 15. Then, each one of x and y is a composite number. But, x + y = 19, which is not composite. ∴ Statement 1 is not true. Statement 2. We know that 1 is neither prime nor composite. ∴ Statement 2 is not true. Thus, neither 1 nor 2 is correct."
+    },
+    {
+        "question": "If 0 < x < 1, which of the following is greatest ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "x"
+            },
+            {
+                "option": "B.",
+                "text": "x2"
+            },
+            {
+                "option": "C.",
+                "text": "2"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{1}{{{x^2}}}$$"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 0 < x < 1 ⇒ x2 < x < 1 ..... (i) ⇒ $$\\frac{1}{{{x^2}}}$$ > $$\\frac{1}{x}$$ > 1 > x > x2 [using ...(i)] Hence, $$\\frac{1}{{{x^2}}}$$ is the greatest."
+    },
+    {
+        "question": "If the sum of two numbers is 14 and their difference is 10. Find the product of these two numbers.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "24"
+            },
+            {
+                "option": "B.",
+                "text": "22"
+            },
+            {
+                "option": "C.",
+                "text": "20"
+            },
+            {
+                "option": "D.",
+                "text": "18"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the numbers be a and b ∴ a + b = 14.....(i) a - b = 10..... (ii) From equation (i) and (ii) 2a = 24 a = 12 and b = 2 Product = 12 × 2 = 24 ⇒ ab = 24"
+    },
+    {
+        "question": "7 is added to a certain number; the sum is multiplied by 5 ; the product is divided by 9 and 3 is subtracted from the quotient. Thus, if the remainder left is 12, what was the original number ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "20"
+            },
+            {
+                "option": "B.",
+                "text": "30"
+            },
+            {
+                "option": "C.",
+                "text": "40"
+            },
+            {
+                "option": "D.",
+                "text": "60"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the original number be x. Then, $$\\frac{(x + 7) × 5}{9}$$   - 3 = 12 ⇒ $$\\frac{5x + 35}{9}$$  = 15 ⇒ 5x + 35 = 135 ⇒ 5x = 100 ⇒ x = 20"
+    },
+    {
+        "question": "If n is an integer, how many values of n will give an integral value of $$\\left( {\\frac{{16{n^2} + 7n + 6}}{n}} \\right)$$   ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2"
+            },
+            {
+                "option": "B.",
+                "text": "3"
+            },
+            {
+                "option": "C.",
+                "text": "4"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & = \\left( {\\frac{{16{n^2} + 7n + 6}}{n}} \\right) \\cr & = \\left( {\\frac{{16{n^2}}}{n} + \\frac{{7n}}{n} + \\frac{6}{n}} \\right) \\cr & = \\left( {16n + 7 + \\frac{6}{n}} \\right) \\cr} $$ For $$\\left( {16n + 7 + \\frac{6}{n}} \\right)$$   to be an integer, we may have n = 1 or n = 2 or n = 3 or n = 6 Hence, 4 value of n will give the desired result."
+    },
+    {
+        "question": "What is 786 times 964 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "757704"
+            },
+            {
+                "option": "B.",
+                "text": "754164"
+            },
+            {
+                "option": "C.",
+                "text": "759276"
+            },
+            {
+                "option": "D.",
+                "text": "749844"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 786 × 964 = (800 − 14) × 964 = (800 × 964) − (14 × 964) = (771200 − 13496) = 757704"
+    },
+    {
+        "question": "Let x be the product of two numbers 3, 659, 893, 456, 789, 325, 678 and 342, 973, 489, 379, 256. The number of digits in x is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "32"
+            },
+            {
+                "option": "B.",
+                "text": "34"
+            },
+            {
+                "option": "C.",
+                "text": "35"
+            },
+            {
+                "option": "D.",
+                "text": "36"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Sum of digits in the two numbers = 19 + 15 = 34 So, the product will have 33 or 34 digits Since 36 × 34 = 1224 (i.e., product has 2 + 2 = 4 digits) So, the number of digits in x is 34"
+    },
+    {
+        "question": "8899 - 6644 - 3322 = ? - 1122",
+        "options": [
+            {
+                "option": "A.",
+                "text": "55"
+            },
+            {
+                "option": "B.",
+                "text": "65"
+            },
+            {
+                "option": "C.",
+                "text": "75"
+            },
+            {
+                "option": "D.",
+                "text": "85"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 8899 - 6644 - 3322 = x - 1122 ⇒ 2255 - 3322 + 1122 = x ⇒ x = 3377 - 3322 ⇒ x = 55"
+    },
+    {
+        "question": "76n - 66n, where n is an integer > 0, is divisible by :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "13"
+            },
+            {
+                "option": "B.",
+                "text": "127"
+            },
+            {
+                "option": "C.",
+                "text": "559"
+            },
+            {
+                "option": "D.",
+                "text": "All the above"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: When n is even, (xn - an) is divisible by both (x - a) as well as (x + a). Now, (76n - 66n) = [(73)2n - (63)2n] = [(343)2n - (216)2n] ∴ (76n - 66n) is divisible by both (7 - 6) and (7 + 6) (76n - 66n) is divisible by 13 And, [(343)2n - (216)2n] is divisible by both (343 - 216) and (343 + 216) ⇒ (76n - 66n) is divisible by both 127 and 559"
+    },
+    {
+        "question": "What minimum value should be assigned to *, so that 2361*48 is exactly divisible by 9 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2"
+            },
+            {
+                "option": "B.",
+                "text": "3"
+            },
+            {
+                "option": "C.",
+                "text": "9"
+            },
+            {
+                "option": "D.",
+                "text": "4"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 2361*48 will be divisible by 9 if the sum of the digits of the given number is divisible by 9 2 + 3 + 6 + 1 + * + 4 + 8 i.e., (24 + *) is divisible by 9 Clearly, * = 3 because 27 is divisible by 9"
+    },
+    {
+        "question": "The number of prime numbers between 301 and 320 are :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "5"
+            },
+            {
+                "option": "D.",
+                "text": "6"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Each of the numbers 302, 303, 304, 305, 306, 308, 309, 310, 312, 314, 315, 316, 318 and 319 is clearly a composite number. Out of 307, 311, 313 and 317 clearly every one is prime. Hence, there are 4 prime numbers between 301 and 320."
+    },
+    {
+        "question": "6 × 66 × 666 = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "263376"
+            },
+            {
+                "option": "B.",
+                "text": "263763"
+            },
+            {
+                "option": "C.",
+                "text": "263736"
+            },
+            {
+                "option": "D.",
+                "text": "267336"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: = 6 × 66 × 666 = 6 × (6 × 11) × (6 × 111) = (6 × 6 × 6) × (11 × 111) = (216 × 1221) = (1221 × 216) = 1221 × (200 + 10 + 6) = (1221 × 200) + (1221 × 10) + (1221 × 6) = 244200 + 12210 + 7326 = 263736"
+    },
+    {
+        "question": "What is 394 times 113 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "44402"
+            },
+            {
+                "option": "B.",
+                "text": "44522"
+            },
+            {
+                "option": "C.",
+                "text": "44632"
+            },
+            {
+                "option": "D.",
+                "text": "44802"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: = 394 × 113 = 394 × (100 + 10 + 3) = (394 × 100) + (394 × 10) + (394 × 3) = 39400 + 3940 + 1182 = 44522"
+    },
+    {
+        "question": "12345679 × 72 is equal to :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "88888888"
+            },
+            {
+                "option": "B.",
+                "text": "888888888"
+            },
+            {
+                "option": "C.",
+                "text": "898989898"
+            },
+            {
+                "option": "D.",
+                "text": "999999998"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: = 12345679 × 72 = 12345679 × (70 + 2) = (12345679 × 70) + (12345679 × 2) = 864197530 + 24691358) = 888888888"
+    },
+    {
+        "question": "(71 × 29 + 27 × 15 + 8 × 4) equals :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2496"
+            },
+            {
+                "option": "B.",
+                "text": "3450"
+            },
+            {
+                "option": "C.",
+                "text": "3458"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: = (71 × 29 + 27 × 15 + 8 × 4) = (80 - 9) × 29 + 405 + 32 = (80 × 29) - (9 × 29) + 437 = 2320 - 261 + 437 = 2757 - 261 = 2496"
+    },
+    {
+        "question": "$$\\frac{{{{\\left( {489 + 375} \\right)}^2} - {{\\left( {489 - 375} \\right)}^2}}}{{\\left( {489 \\times 375} \\right)}} = ?$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "144"
+            },
+            {
+                "option": "B.",
+                "text": "864"
+            },
+            {
+                "option": "C.",
+                "text": "2"
+            },
+            {
+                "option": "D.",
+                "text": "4"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Given expression : $$ = \\frac{{{{\\left( {a + b} \\right)}^2} - {{\\left( {a - b} \\right)}^2}}}{{ab}}$$     (where a = 489, b = 375) $$\\eqalign{ & = \\frac{{4ab}}{{ab}} \\cr & = 4 \\cr} $$"
+    },
+    {
+        "question": "If all the numbers from 501 to 700 are written, what is the total number of times the digit 6 appears ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "138"
+            },
+            {
+                "option": "B.",
+                "text": "139"
+            },
+            {
+                "option": "C.",
+                "text": "140"
+            },
+            {
+                "option": "D.",
+                "text": "141"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Numbers from 501 to 599 which have 6 as digit are 506, 516, 526, 536, 546, 556, 560, 561, 562, 563, 564, 565, 566, 567. 568, 569, 576, 586 and 596, i.e., 6 occurs 20 times. Number of times 6 occurs from 600 to 699 = 100 + 20 = 120 ∴ Total number of times 6 occurs = 20 + 120 = 140"
+    },
+    {
+        "question": "The number (248 - 1) is exactly divisible by two numbers between 60 and 70. The numbers are :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "63 and 65"
+            },
+            {
+                "option": "B.",
+                "text": "63 and 67"
+            },
+            {
+                "option": "C.",
+                "text": "61 and 65"
+            },
+            {
+                "option": "D.",
+                "text": "65 and 67"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: (248 - 1) = [(26)8 - 1] = (64)8 - 1 When n is even , (xn - an) is completely divisible by both (x - a) and (x + a) ∴ (648 - 18) is divisible by both (64 - 1) and (64 + 1) ⇒ (248 - 1) is divisible by both 63 and 65"
+    },
+    {
+        "question": "When the square of any odd number, greater than 1, is divided by 8, it always leaves remainder :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "6"
+            },
+            {
+                "option": "C.",
+                "text": "8"
+            },
+            {
+                "option": "D.",
+                "text": "Cannot be determined"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the number be N = 2x + 1 N2 = (2x + 1)2     = 4x2 + 1 + 4x     = 4x (x + 1) + 1 Clearly, 4x (x + 1) is always divisible by 8 since one of x and (x + 1) is even which when multiplied by 4 is always divisible by 8. Hence, required remainder = 1"
+    },
+    {
+        "question": "If x = a (b - c), y = b (c - a), z = c (a - b), then the value of $${\\left( {\\frac{x}{a}} \\right)^3}$$ $$ + {\\left( {\\frac{y}{b}} \\right)^3}$$ $$ + {\\left( {\\frac{z}{c}} \\right)^3}$$ is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{2xyz}{abc}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{xyz}{abc}$$"
+            },
+            {
+                "option": "C.",
+                "text": "0"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{3xyz}{abc}$$"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Given x = a (b - c), y = b (c - a), z = c (a - b) x = a (b - c) ⇒ $$\\frac{x}{a}$$ = b - c ..... (i) Similarly, y = b (c - a) ⇒ $$\\frac{y}{b}$$ = c - a ..... (ii) And similarly z = c (a - b) ⇒ $$\\frac{z}{c}$$ = c - a ..... (iii) Adding (i), (ii) and (iii) we get ∵ $$\\frac{x}{a}$$ + $$\\frac{y}{b}$$ + $$\\frac{z}{c}$$ = b - c + c - a + a - b ⇒ $$\\frac{x}{a}$$ + $$\\frac{y}{b}$$ + $$\\frac{z}{c}$$ = 0 $$\\eqalign{ & \\therefore {\\left( {\\frac{x}{a}} \\right)^3} + {\\left( {\\frac{y}{b}} \\right)^3} + {\\left( {\\frac{z}{c}} \\right)^3} \\cr & = 3 \\times \\frac{x}{a} \\times \\frac{y}{b} \\times \\frac{z}{c} \\cr & = \\frac{{3xyz}}{{abc}} \\cr} $$ [If a + b + c = 0, a3 + b3 + c3 = 3abc]"
+    },
+    {
+        "question": "The largest number that exactly divides each number of the sequence 15 - 1, 25 - 2, 35 - 3, ....., n5 - n, ..... is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "15"
+            },
+            {
+                "option": "C.",
+                "text": "30"
+            },
+            {
+                "option": "D.",
+                "text": "120"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Required number = (25 - 2) = (32 - 2) = 30"
+    },
+    {
+        "question": "$$\\frac{{{{\\left( {963 + 476} \\right)}^2} + {{\\left( {963 - 476} \\right)}^2}}}{{\\left( {963 \\times 963 + 476 \\times 476} \\right)}} = ?$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "497"
+            },
+            {
+                "option": "D.",
+                "text": "1449"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Given expression, $$ = \\frac{{{{\\left( {a + b} \\right)}^2} + {{\\left( {a - b} \\right)}^2}}}{{\\left( {{a^2} + {b^2}} \\right)}}$$     (where a = 963 and b = 476) $$\\eqalign{ & = \\frac{{2\\left( {{a^2} + {b^2}} \\right)}}{{\\left( {{a^2} + {b^2}} \\right)}} \\cr & = 2 \\cr} $$"
+    },
+    {
+        "question": "Which one of the following numbers is divisible by 3 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4006020"
+            },
+            {
+                "option": "B.",
+                "text": "2345678"
+            },
+            {
+                "option": "C.",
+                "text": "2876423"
+            },
+            {
+                "option": "D.",
+                "text": "9566003"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Sum of the digits in 4006020 is 12, which is divisible by 3 Hence, 4006020 is divisible by 3"
+    },
+    {
+        "question": "(96 + 1) when divided by 8, would leave a remainder of :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "1"
+            },
+            {
+                "option": "C.",
+                "text": "2"
+            },
+            {
+                "option": "D.",
+                "text": "3"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: (xn - an) is divisible by (x - a) for all values of n∴ (96 - 16) is divisible by (9 - 1) ⇒ (96 - 1) is divisible by 8 ⇒ on dividing (96 + 1) by 8, we get 2 as remainder."
+    },
+    {
+        "question": "A 3-digit number 4a3 is added to another 3-digit number 984 to give the four-digit number 13b7, which is divisible by 11. Then, (a + b) is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10"
+            },
+            {
+                "option": "B.",
+                "text": "11"
+            },
+            {
+                "option": "C.",
+                "text": "12"
+            },
+            {
+                "option": "D.",
+                "text": "15"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Since 13b7 is divisible by 11, we have, (7 + 3) - (b + 1) = 0 ⇒ 9 - b = 0 ⇒ b = 9 Putting b = 9, a + 8 = 9 we get a = 1 Hence, (a + b) = (1 + 9) = 10"
+    },
+    {
+        "question": "$$\\frac{{768 \\times 768 \\times 768 + 232 \\times 232 \\times 232}}{{768 \\times 768 - 768 \\times 232 + 232 \\times 232}} = ?$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1000"
+            },
+            {
+                "option": "B.",
+                "text": "536"
+            },
+            {
+                "option": "C.",
+                "text": "500"
+            },
+            {
+                "option": "D.",
+                "text": "268"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Given expression, $$ = \\frac{{\\left( {{a^3} + {b^3}} \\right)}}{{\\left( {{a^2} - ab + {b^2}} \\right)}}$$     (where a = 768 and b = 232) $$\\eqalign{ & = \\left( {a + b} \\right) \\cr & = \\left( {768 + 232} \\right) \\cr & = 1000 \\cr} $$"
+    },
+    {
+        "question": "If 6*43 - 46@9 = 1904, which of the following should come in place of * ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4"
+            },
+            {
+                "option": "B.",
+                "text": "6"
+            },
+            {
+                "option": "C.",
+                "text": "9"
+            },
+            {
+                "option": "D.",
+                "text": "Cannot be determined"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer & Solution Answer: Option E Solution: Let 6x43 - 46y9 = 1904 Clearly, y = 3 and x = 5 Hence * must be replaced by 5"
+    },
+    {
+        "question": "The numbers 2, 4, 6, 8 ..... 98, 100 are multiplied together. The number of zeros at the end of the product must be :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10"
+            },
+            {
+                "option": "B.",
+                "text": "11"
+            },
+            {
+                "option": "C.",
+                "text": "12"
+            },
+            {
+                "option": "D.",
+                "text": "13"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: N = 2 × 4 × 6 × 8 × ..... × 98 × 100     = 250 (1 × 2 × 3 × ..... × 49 × 50)     = 250 × 50! Clearly, the highest power of 2 in N is much higher than that of 5 ∴ Number of zeros in N = Highest power of 5 in N = $$\\left[ {\\frac{{50}}{5}} \\right] + \\left[ {\\frac{{50}}{{{5^2}}}} \\right]$$ = 10 + 2 = 12"
+    },
+    {
+        "question": "A number divided by 68 gives the quotient 260 and remainder zero. If the same number is divided by 65, the remainder is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "1"
+            },
+            {
+                "option": "C.",
+                "text": "2"
+            },
+            {
+                "option": "D.",
+                "text": "3"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Number = (68 × 260) = 17680 On dividing this number by 65, we get zero as remainder"
+    }
+]

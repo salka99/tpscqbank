@@ -1,0 +1,2302 @@
+[
+    {
+        "question": "Sum of three consecutive even integers is 54. Find the least integer among them.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "18"
+            },
+            {
+                "option": "B.",
+                "text": "15"
+            },
+            {
+                "option": "C.",
+                "text": "14"
+            },
+            {
+                "option": "D.",
+                "text": "16"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\eqalign{ & x + \\left( {x + 2} \\right) + \\left( {x + 4} \\right) = 54 \\cr & 3x + 6 = 54 \\cr & 3x = 48 \\cr & x = 16 \\cr & \\cr & {\\bf{Alternate: }} \\cr & {\\text{Middle number = }}\\frac{{54}}{3} = 18 \\cr & {\\text{then number is 16,18,20}} \\cr & {\\text{Smallest number is 16}} \\cr} $$"
+    },
+    {
+        "question": "On multiplying a number by 7 all the digit in the product appear as 3's , the smallest such numbers is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "47649"
+            },
+            {
+                "option": "B.",
+                "text": "47719"
+            },
+            {
+                "option": "C.",
+                "text": "47619"
+            },
+            {
+                "option": "D.",
+                "text": "48619"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & {\\text{According to question,}} \\cr & x \\times 7 = 333333 \\cr} $$ (In answer 5 digit number are given, so we take 6 digit 333333) $$\\eqalign{ & x = \\frac{{333333}}{7} \\cr & x = 47619 \\cr} $$"
+    },
+    {
+        "question": "Find the largest number, which exactly divides every number of the form  (n3 - n) (n - 2) where n is a natural number greater than 2.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "6"
+            },
+            {
+                "option": "B.",
+                "text": "12"
+            },
+            {
+                "option": "C.",
+                "text": "24"
+            },
+            {
+                "option": "D.",
+                "text": "48"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & \\Rightarrow \\left( {{n^3} - n} \\right)\\left( {n - 2} \\right){\\text{put n = 3}} \\cr & \\Rightarrow \\left( {{3^3} - 3} \\right)\\left( {3 - 2} \\right) \\cr & \\Rightarrow \\left( {27 - 3} \\right) \\times 1 \\cr & \\Rightarrow 24 \\cr & {\\text{It is divisible by }}24 \\cr} $$"
+    },
+    {
+        "question": "Two number when divided by 17, leaves remainder 13 and 11 respectively. If the sum of those two numbers is divided by 17, the remainder will be ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "13"
+            },
+            {
+                "option": "B.",
+                "text": "11"
+            },
+            {
+                "option": "C.",
+                "text": "7"
+            },
+            {
+                "option": "D.",
+                "text": "4"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Dividend = divisor × quotient + remainder $$\\eqalign{ & {\\text{First number }} \\cr & \\Rightarrow {\\text{ }}\\left( {17 \\times {\\text{n}}} \\right) + 13 \\cr & {\\text{Let n = 1}} \\cr & \\Rightarrow (17 \\times 1) + 13 \\cr & \\Rightarrow 30 \\cr & {\\text{second number }} \\cr & \\Rightarrow {\\text{ }}\\left( {17 \\times {\\text{n}}} \\right) + 11 \\cr & \\Rightarrow (17 \\times 1) + 11 \\cr & \\Rightarrow 28 \\cr & {\\text{According to question}} \\cr & = \\frac{{30 + 28}}{{17}} \\cr & = \\frac{{58}}{{17}} \\cr & \\Rightarrow {\\text{remainder = 7}} \\cr} $$ Alternate : Divisor = 1st remainder + 2nd remainder - 3rd remainder $$\\eqalign{ & 17 = {\\text{ }}13 + 11 - {\\text{3rd remainder}} \\cr & {\\text{3rd remainder}} = 24 - 17 = 7 \\cr} $$"
+    },
+    {
+        "question": "Unit digit in  $${\\left( {264} \\right)^{102}} + {\\left( {264} \\right)^{103}}$$     is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "8"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $${\\left( {264} \\right)^{102}} + {\\left( {264} \\right)^{103}}$$ unit digit $$\\eqalign{ & {{\\text{4}}^1} \\to 4 \\to 4 \\cr & {4^2} \\to 16 \\to 6 \\cr & {4^3} \\to 64 \\to 4 \\cr} $$ Rule: When 4 has odd power, then unit digit is 4 When 4 has even power, then unit digit is 6 $$\\eqalign{ & {\\left( {264} \\right)^{102}} + {\\left( {264} \\right)^{103}} \\cr & \\,\\,\\,\\,\\,\\, \\downarrow \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\downarrow \\cr & \\,\\,\\,\\,{4^{102}}\\,\\,\\,\\,\\,\\,\\, + \\,\\,\\,\\,\\,\\,{4^{103}} \\cr} $$ $${\\text{unit digit}} = 6 + 4 = 10 \\to 0$$     (even power)   (odd power) $$\\eqalign{ & {\\bf{Alternate}} \\cr & \\Rightarrow {\\left( {264} \\right)^{102}} + {\\left( {264} \\right)^{103}} \\cr & \\Rightarrow {\\left( {264} \\right)^{102}} + \\left( {1 + 264} \\right) \\cr & \\Rightarrow {\\left( {264} \\right)^{102}} + 265 \\cr & {\\text{Multiple of }}5\\,\\,{\\text{and }}2 \\cr & {\\text{So}},{\\text{unit digit is }}0 \\cr} $$"
+    },
+    {
+        "question": "How many number between 1000 and 5000 are exactly divisible by 225 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "16"
+            },
+            {
+                "option": "B.",
+                "text": "18"
+            },
+            {
+                "option": "C.",
+                "text": "19"
+            },
+            {
+                "option": "D.",
+                "text": "12"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\eqalign{ & {\\text{First number = 1125}} \\cr & {\\text{Last number = 4950}} \\cr & {\\text{Number of term }} \\cr & {\\text{ = }}\\frac{{4950 - 1125}}{{225}} + 1 \\cr & = \\frac{{3825}}{{225}} + 1 \\cr & = 17 + 1 \\cr & = 18 \\cr} $$"
+    },
+    {
+        "question": "The greatest value among the fractions :$$\\frac{2}{7},$$ $$\\frac{1}{3},$$ $$\\frac{5}{6},$$ $$\\frac{3}{4}$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{3}{4}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{5}{6}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{1}{3}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{2}{7}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\frac{{2}}{{7}}$$ $$\\frac{{1}}{{3}}$$ $$\\frac{{5}}{{6}}$$ $$\\frac{{3}}{{4}}$$ ↓ ↓ ↓ ↓ 0.2857   0.333   0.83   0.75 $$\\frac{5}{6}\\,{\\text{is the greatest value}}$$"
+    },
+    {
+        "question": "The sum of three consecutive odd natural numbers each divisible by 3 is 63. What is the largest among them ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "21"
+            },
+            {
+                "option": "B.",
+                "text": "24"
+            },
+            {
+                "option": "C.",
+                "text": "27"
+            },
+            {
+                "option": "D.",
+                "text": "36"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & \\left( x \\right) + \\left( {x + 6} \\right) + \\left( {x + 12} \\right) = 63 \\cr & 3x + 18 = 63 \\cr & 3x = 45 \\cr & x = 15 \\cr & {\\text{So,the largest number is}} \\cr & {\\text{ = }}15 + 12 \\cr & = 27 \\cr} $$"
+    },
+    {
+        "question": "If the some of a number and its reciprocal be 2 then number is = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "1"
+            },
+            {
+                "option": "C.",
+                "text": "-1"
+            },
+            {
+                "option": "D.",
+                "text": "2"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\eqalign{ & x + \\frac{1}{x} = 2 \\cr & {x^2} + 1 = 2x \\cr & {x^2} - 2x + 1 = 0 \\cr & {\\left( {x - 1} \\right)^2} = 0 \\cr & {\\text{Then, }}x{\\text{ = 1}} \\cr} $$"
+    },
+    {
+        "question": "If two numbers are each divided by the same divisor, the remainder are respectively 3 and 4. If the sum of two numbers be divided by the same divisor, the remainder is 2. The divisor is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "9"
+            },
+            {
+                "option": "B.",
+                "text": "7"
+            },
+            {
+                "option": "C.",
+                "text": "5"
+            },
+            {
+                "option": "D.",
+                "text": "3"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Shortcut Method : Divisor = 1st remainder + 2nd remainder - 3rd remainder $$\\eqalign{ & = 3 + 4 - 2{\\text{ }} \\cr & = 7 - 2 \\cr & = 5 \\cr} $$"
+    },
+    {
+        "question": "The sum of three numbers is 2, the 1st number is $$\\frac{1}{2}$$ times the 2nd and the 3rd number is $$\\frac{1}{4}$$ times the 2nd number. The 2nd number is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{7}{6}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{8}{7}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{9}{8}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{10}{9}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the number is a, b, c a + b + c = 2 a = $$\\frac{1}{2}$$ b.....(i) c = $$\\frac{1}{4}$$ b.....(ii) $$\\frac{a}{b}$$ = $$\\frac{1}{2}$$ $$\\frac{b}{c}$$ = $$\\frac{4}{1}$$ a   :   b   :   c 1 : 2 ↘ ↘ 4 : 1 4 : 8 : 2 a : b : c = 2 : 4 : 1 (2 + 4 + 1) = 7 7 units → 2 1 unit → $$\\frac{2}{7}$$ 4 units → $$\\frac{2}{7}$$ × 4 = $$\\frac{8}{7}$$ So, 2nd number is $$\\frac{8}{7}$$"
+    },
+    {
+        "question": "If the product of two positive numbers be 1575 and their ration is 7 : 9, then the greatest number is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "45"
+            },
+            {
+                "option": "B.",
+                "text": "135"
+            },
+            {
+                "option": "C.",
+                "text": "35"
+            },
+            {
+                "option": "D.",
+                "text": "63"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the numbers are 7x and 9x According to the question, $$\\eqalign{ & \\Rightarrow 7x \\times 9x = 1575 \\cr & \\Rightarrow 63{x^2} = 1575 \\cr & \\Rightarrow {x^2} = 25 \\cr & \\Rightarrow x = 5 \\cr} $$ Then greater number = 9x= 9 × 5= 45"
+    },
+    {
+        "question": "A number when divided by 729 given a remainder of 56. What will we get as remainder if the same number is divided by 27 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "0"
+            },
+            {
+                "option": "D.",
+                "text": "1"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: If first number (729) is completely divide by second number (27) then we divide remainder from second number then remaining remainder will be answer. $$\\frac{729}{27}$$ = 27 times Now, $$\\frac{56}{27}$$ = 2 × 27 + 2 → Remainder"
+    },
+    {
+        "question": "Sum of two numbers is thrice their difference. Their ratio is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1 : 2"
+            },
+            {
+                "option": "B.",
+                "text": "2 : 1"
+            },
+            {
+                "option": "C.",
+                "text": "3 : 1"
+            },
+            {
+                "option": "D.",
+                "text": "1 : 3"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the numbers = a, b According to the question, a + b = 3 (a - b) $$\\frac{a + b}{a - b}$$   = $$\\frac{3}{1}$$ By componendo and dividendo $$\\frac{2a}{2b}$$   = $$\\frac{4}{2}$$ $$\\frac{a}{b}$$   = $$\\frac{2}{1}$$ a : b = 2 : 1"
+    },
+    {
+        "question": "A number when divided by the sum of 555 and 445 gives two times their difference as quotient and 30 as the remainder. The number is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "220030"
+            },
+            {
+                "option": "B.",
+                "text": "22030"
+            },
+            {
+                "option": "C.",
+                "text": "1220"
+            },
+            {
+                "option": "D.",
+                "text": "1250"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let number is N N is divided by the sum of 555 and 445, the quotient is 2 times difference Quotient = 2 (555 - 445) = 220 Remainder = 30 (given) N = 1000 × 220 + 30     = 220030"
+    },
+    {
+        "question": "When simplified the product : $$\\left( {2 - \\frac{1}{3}} \\right)$$ $$\\left( {2 - \\frac{3}{5}} \\right)$$ $$\\left( {2 - \\frac{5}{7}} \\right)$$  .....$$\\left( {2 - \\frac{{997}}{{999}}} \\right)$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{1001}{3}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{5}{3}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{5}{999}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{1001}{999}$$"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: According to the question, $$ \\Rightarrow \\left( {2 - \\frac{1}{3}} \\right)\\left( {2 - \\frac{3}{5}} \\right)\\left( {2 - \\frac{5}{7}} \\right).....$$       $$\\left( {2 - \\frac{{997}}{{999}}} \\right)$$ $$\\eqalign{ & \\Rightarrow \\frac{5}{3} \\times \\frac{7}{5} \\times \\frac{9}{7}.....\\frac{{1001}}{{999}} \\cr & \\Rightarrow \\frac{1}{3} \\times 1001 \\cr & \\Rightarrow \\frac{{1001}}{3} \\cr} $$"
+    },
+    {
+        "question": "The smallest possible three placed decimal is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0.012"
+            },
+            {
+                "option": "B.",
+                "text": "0.123"
+            },
+            {
+                "option": "C.",
+                "text": "0.111"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Smallest number in case of decimal = 0.001"
+    },
+    {
+        "question": "The divisor is 25 times of the quotient and 5 times the remainder. If the quotient is 16, the dividend is-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "6400"
+            },
+            {
+                "option": "B.",
+                "text": "6480"
+            },
+            {
+                "option": "C.",
+                "text": "400"
+            },
+            {
+                "option": "D.",
+                "text": "480"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Dividend = (divisor × quotient) + remainder According to the question $$\\eqalign{ & {\\text{Divisor :}} \\cr & \\Rightarrow {\\text{16}} \\times {\\text{25 = 5}} \\times {\\text{remainder}} \\cr & \\Rightarrow {\\text{R = }}\\frac{1}{5} \\times 16 \\times 25 \\cr & {\\text{Dividend :}} \\cr & {\\text{ = }}\\left[ {\\left( {{\\text{16}} \\times {\\text{25}}} \\right) \\times 16} \\right] + \\frac{1}{5} \\times 16 \\times 25 \\cr & = \\left[ {16 \\times 25 \\times 16} \\right] + 80 \\cr & = 6480 \\cr} $$"
+    },
+    {
+        "question": "A runner runs $$1\\frac{1}{4}$$  laps of a 5 laps race. What laps of the race remains to be run ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{15}{4}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{4}{5}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{5}{6}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{2}{3}$$"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Remaining distance to be run $$\\eqalign{ & = 5 - \\frac{5}{4} \\cr & = \\frac{{20 - 5}}{4} \\cr & = \\frac{{15}}{4}\\,{\\text{laps}} \\cr} $$"
+    },
+    {
+        "question": "$$\\frac{1}{{10}}$$ of a rod is coloured red, $$\\frac{1}{{20}}$$  orange, $$\\frac{1}{{30}}$$ yellow, $$\\frac{1}{{40}}$$ green, $$\\frac{1}{{50}}$$ blue, $$\\frac{1}{{60}}$$ black and the rest is violet. If the length of the violet part of the rod is 12.08 mtr, then the length of the rod is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "16 m"
+            },
+            {
+                "option": "B.",
+                "text": "18 m"
+            },
+            {
+                "option": "C.",
+                "text": "20 m"
+            },
+            {
+                "option": "D.",
+                "text": "30 m"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the total length of rod is 1 unit According to question, $$ \\Rightarrow 1 - \\frac{1}{{10}} - \\frac{1}{{20}} - \\frac{1}{{30}} - \\frac{1}{{40}} - \\frac{1}{{50}}$$       $$ - \\frac{1}{{60}}$$ $$ \\Rightarrow \\frac{{600 - 60 - 30 - 20 - 15 - 12 - 10}}{{600}}$$ $$\\eqalign{ & \\Rightarrow \\frac{{453 \\leftarrow {\\text{ Violet part}}}}{{600 \\leftarrow {\\text{ Total part}}}} \\cr & 453{\\text{ part }} \\to {\\text{ 12}}{\\text{.08 mtr}} \\cr & {\\text{1 part }} \\to \\,\\,\\,\\,\\,\\,\\,\\,\\frac{{12.08}}{{453}} \\cr & 600{\\text{ part }} \\to \\frac{{12.08}}{{453}} \\times 600 \\cr & \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 16{\\text{mtr}} \\cr} $$ So total length of rod is 16 metres."
+    },
+    {
+        "question": "0.1 and  $$\\frac{5}{8}$$ of a bamboo are in mud and water respectively and the rest length 2.75 m is above water. What is the length of the bamboo ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10 m"
+            },
+            {
+                "option": "B.",
+                "text": "30 m"
+            },
+            {
+                "option": "C.",
+                "text": "27.5 m"
+            },
+            {
+                "option": "D.",
+                "text": "20 m"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $${\\text{0}}{\\text{.1 = }}\\frac{1}{{10}}\\left( {{\\text{mud}}} \\right),\\,\\,\\,\\,\\frac{5}{8}\\left( {{\\text{water}}} \\right)$$ Let total length of bamboo = 40x ( LCM of 8, 10 ) $$\\eqalign{ & {\\text{Mud part :}} \\cr & {\\text{ = }}\\frac{1}{{10}} \\times 40x = 4x \\cr & {\\text{Water part :}} \\cr & {\\text{ = }}\\frac{5}{8} \\times 40x = 25x \\cr & {\\text{Remaining part :}} \\cr & = (40x - 25x - 4x) \\cr & = 11x \\cr & 11x{\\text{ }} \\to {\\text{ }}2.75m \\cr & {\\text{ }}x{\\text{ }} \\to {\\text{ }}0.25m \\cr & 40x{\\text{ }} \\to {\\text{ }}10m \\cr} $$"
+    },
+    {
+        "question": "The last digit of (1001)2008 + (1002) = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "3"
+            },
+            {
+                "option": "C.",
+                "text": "4"
+            },
+            {
+                "option": "D.",
+                "text": "6"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\eqalign{ & \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,{(1001)^{2008}} + (1002) \\cr & \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, \\downarrow \\cr & {\\text{unit digit}} \\to {\\text{ }}{{\\text{1}}^{2008}} + 1002 \\cr} $$ Unit digit will be 1 in case of 1 respective of power ⇒ 1 + 1002 = 1003 ⇒ 3 unit digit (last digit)"
+    },
+    {
+        "question": "The number 0.121212 . . . . . in the form $$\\frac{p}{q}$$ is equal to -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{4}{11}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{2}{11}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{4}{33}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{2}{33}$$"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & {\\text{0}}{\\text{.121212}}........ \\cr & \\Rightarrow 0.\\overline {12} = \\frac{{12}}{{99}} = \\frac{4}{{33}} \\cr} $$"
+    },
+    {
+        "question": "By how much does $$\\frac{6}{{\\frac{7}{8}}}$$  exceed $$\\frac{{\\frac{6}{7}}}{8}$$  ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$6\\frac{1}{8}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$6\\frac{3}{4}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$7\\frac{3}{4}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$7\\frac{5}{6}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\eqalign{ & \\frac{6}{{\\frac{7}{8}}} = \\frac{{6 \\times 8}}{7} = \\frac{{48}}{7} \\cr & \\frac{{\\frac{6}{7}}}{8} = \\frac{6}{{7 \\times 8}} = \\frac{6}{{56}} = \\frac{3}{{28}} \\cr & {\\text{Difference - }} \\cr & = \\frac{{48}}{7} - \\frac{3}{{28}} \\cr & = \\frac{{192 - 3}}{{28}} \\cr & = \\frac{{189}}{{28}} \\cr & = \\frac{{27}}{4} \\cr & = 6\\frac{3}{4} \\cr} $$"
+    },
+    {
+        "question": "The simplified value of $$\\left( {1 - \\frac{1}{3}} \\right)$$  $$\\left( {1 - \\frac{1}{4}} \\right)$$  $$\\left( {1 - \\frac{1}{5}} \\right)$$ . . . . .$$\\left( {1 - \\frac{1}{99}} \\right)$$  $$\\left( {1 - \\frac{1}{100}} \\right)$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{2}{{99}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{1}{{25}}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{1}{{50}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{1}{{100}}$$"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\left( {1 - \\frac{1}{3}} \\right)\\left( {1 - \\frac{1}{4}} \\right)\\left( {1 - \\frac{1}{5}} \\right)$$     . . . . .$$\\left( {1 - \\frac{1}{{99}}} \\right)$$ $$\\left( {1 - \\frac{1}{{100}}} \\right)$$ $$\\eqalign{ & = \\frac{2}{3} \\times \\frac{3}{4} \\times \\frac{4}{5} \\times ..... \\times \\frac{{98}}{{99}} \\times \\frac{{99}}{{100}} \\cr & = \\frac{2}{{100}} \\cr & = \\frac{1}{{50}} \\cr} $$"
+    },
+    {
+        "question": "A six digit number is formed by repeating a three digit number :  For example, 256, 256 or 678, 678 etc. Any number of this form is always exactly divisible by -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "7 only"
+            },
+            {
+                "option": "B.",
+                "text": "11 only"
+            },
+            {
+                "option": "C.",
+                "text": "13 only"
+            },
+            {
+                "option": "D.",
+                "text": "1001 only"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: (xyz , xyz) is number ⇒ 100000x + 10000y + 1000z + 100x + 10y + z ⇒ 1001 (100x + 10y + z) Since 1001 has factors i.e., 7, 11 and 13 So, the answer is 1001"
+    },
+    {
+        "question": "If the difference between the reciprocal of a positive proper fraction and fraction itself be $$\\frac{{17}}{{72}}$$  , then the fraction is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{9}{8}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{8}{9}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{5}{8}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{7}{9}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\eqalign{ & {\\text{By option }}\\frac{8}{9},{\\text{ }} \\cr & {\\text{Proper fraction = }}\\frac{8}{9} \\cr & {\\text{Its reciprocal = }}\\frac{9}{8} \\cr & {\\text{According to question}} \\cr & = \\frac{9}{8} - \\frac{8}{9} \\cr & = \\frac{{81 - 64}}{{72}} \\cr & = \\frac{{17}}{{72}}{\\text{ satisfied}} \\cr} $$"
+    },
+    {
+        "question": "The sum of the squares of 3 consecutive positive numbers is 365. The sum of the numbers is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "30"
+            },
+            {
+                "option": "B.",
+                "text": "33"
+            },
+            {
+                "option": "C.",
+                "text": "36"
+            },
+            {
+                "option": "D.",
+                "text": "45"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the 3 consecutive number is x, x + 1, x + 2 According to question, $$ \\Rightarrow {x^2} + {\\left( {x + 1} \\right)^2} + {\\left( {x + 2} \\right)^2}$$     = 365 $$ \\Rightarrow {x^2} + {x^2} + 1 + 2x + {x^2} + 4 + 4x$$       = 365 $$\\eqalign{ & \\Rightarrow 3{x^2} + 6x = 360 \\cr & \\Rightarrow {x^2} + 2x - 120 = 0 \\cr & \\Rightarrow \\left( {x - 10} \\right)\\left( {x + 12} \\right) = 0 \\cr & \\Rightarrow x = 10 \\cr & {\\text{Sum of numbers :}} \\cr & = 10 + 11 + 12 \\cr & = 33 \\cr} $$"
+    },
+    {
+        "question": "The number 1422  - 1 is divisible by :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "19"
+            },
+            {
+                "option": "B.",
+                "text": "7"
+            },
+            {
+                "option": "C.",
+                "text": "9"
+            },
+            {
+                "option": "D.",
+                "text": "13"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: = 1422 - 1 = (142 - 1) (142 + 1) [a2 - b2 = (a - b) (a + b)] = 141 × 143 = 141 × 11 × 13"
+    },
+    {
+        "question": "The sum of three numbers is 252. If the first number is thrice the second and third number is two-third of the first, then the second number is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "41"
+            },
+            {
+                "option": "B.",
+                "text": "21"
+            },
+            {
+                "option": "C.",
+                "text": "42"
+            },
+            {
+                "option": "D.",
+                "text": "84"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the number is a, b, c a = 3b       $$\\frac{a}{b}$$ = $$\\frac{3}{1}$$ c = $$\\frac{2}{3}$$a       $$\\frac{c}{a}$$ = $$\\frac{2}{3}$$     c         a         b     2 3     3 1 c : a : b = 2 : 3 : 1 So, (2 + 3 + 1) = 252 units 6 units → 252 1 unit → 42 3 units → 42 × 3 So, second number is = 42"
+    },
+    {
+        "question": "The real number to be added to 13851 to get a number which is divisible by 87 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "18"
+            },
+            {
+                "option": "B.",
+                "text": "43"
+            },
+            {
+                "option": "C.",
+                "text": "54"
+            },
+            {
+                "option": "D.",
+                "text": "69"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: By hit and trial method = 13851 + 69 = 13920 Which is divisible by 87"
+    },
+    {
+        "question": "Among the following statements, the statement which is 'not correct' is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Every natural number is a real number"
+            },
+            {
+                "option": "B.",
+                "text": "Every real number is a rational number"
+            },
+            {
+                "option": "C.",
+                "text": "Every integer is a rational number"
+            },
+            {
+                "option": "D.",
+                "text": "Every natural number is an integer"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Every real number is a rational number"
+    },
+    {
+        "question": "Sum of three consecutive integers is 51. The middle one is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "14"
+            },
+            {
+                "option": "B.",
+                "text": "15"
+            },
+            {
+                "option": "C.",
+                "text": "16"
+            },
+            {
+                "option": "D.",
+                "text": "17"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let numbers are a, a + 1, a + 2 Then, a + a + 1 + a + 2 = 51 3a + 3 = 51 3a = 48 a = 16 Middle number : = a + 1 = 16 + 1 = 17"
+    },
+    {
+        "question": "The sum of 10 terms of the arithmetic series is 390. If the third term of the series is 19. Find the first term :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3"
+            },
+            {
+                "option": "B.",
+                "text": "5"
+            },
+            {
+                "option": "C.",
+                "text": "7"
+            },
+            {
+                "option": "D.",
+                "text": "8"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Sum of A.P. = $$\\frac{n}{2}\\left[ {2a + (n - 1)d} \\right]$$ nth term = a + (n - 1)d 3rd term : ⇒ a + (3 - 1)d = 19 ⇒ a + 2d = 19.....(i) Sum of 10 term : $$\\eqalign{ & \\Rightarrow \\frac{{10}}{2}\\left[ {2a + 9d} \\right] = 390 \\cr & \\Rightarrow 2a + 9d = 78..... (ii) \\cr & \\Rightarrow a + 2d = 19 \\cr} $$ From equation (i) and (ii) a = 3 d = 8"
+    },
+    {
+        "question": "If p = - 0.12, q = - 0.01 and r = - 0.015, then the correct relationship among the three is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "p < r < q"
+            },
+            {
+                "option": "B.",
+                "text": "p > r > q"
+            },
+            {
+                "option": "C.",
+                "text": "p < q < r"
+            },
+            {
+                "option": "D.",
+                "text": "q > p > r"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: ∵ p = - 0.12 q = - 0.01 r = - 0.015 If all values would be positive 0.12 > 0.015 > 0.01 p > r > q But these are negative so their order will be q > r > p"
+    },
+    {
+        "question": "The sum of squares of three positive integers is 323. If the sum of squares of two numbers is twice the third, their product is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "255"
+            },
+            {
+                "option": "B.",
+                "text": "260"
+            },
+            {
+                "option": "C.",
+                "text": "265"
+            },
+            {
+                "option": "D.",
+                "text": "270"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the integers in a, b, c a2 + b 2 + c2 = 323.....(i) a2 + b2 + = 2c.....(ii) Break the 323 in to their squares a = 5 b = 3 c = 17 So, a2 + b2 + c2 = 323 and a2 + b2 = 2c 252 + 32 = 2 × 17 34 = 34 So, Satisfied a : b : c = 17 × 5 × 3 = 255"
+    },
+    {
+        "question": "Each member of a club contributes as much rupees and as much paise  as the number of members of the club. If the total contribution is Rs. 2525, then the number of members of the club is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "60"
+            },
+            {
+                "option": "B.",
+                "text": "45"
+            },
+            {
+                "option": "C.",
+                "text": "55"
+            },
+            {
+                "option": "D.",
+                "text": "50"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let the total member be x x members contribution is Rs. x And each member also contributes x paise So, total rupees is x member Rs. x = Rs. x2 x member Rs. x paise = $$\\frac{x.x}{100}$$ Total rupees is $${x^2} + \\frac{{{x^2}}}{{100}} = 2525$$ 101x2 = 2525 × 100 101x2 = 101 × 25 × 100 x = 50"
+    },
+    {
+        "question": "The sum of the cubes of two numbers in the ratio 3 : 4 is 5824. The sum of the numbers is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$${\\left( {5824} \\right)^{\\frac{1}{3}}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "28"
+            },
+            {
+                "option": "C.",
+                "text": "24"
+            },
+            {
+                "option": "D.",
+                "text": "14"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let numbers are = 3x, 4x (3x)3 + (4x)3 = 5824 27x3 + 64x3 = 5824 91x3 = 5824 x3 = $$\\frac{5824}{91}$$ x3 = 64 x = 4 So, numbers are 3x = 3 × 4 = 12 4x = 4 × 4 = 16 Sum = 12 + 16 = 28"
+    },
+    {
+        "question": "The value of $$\\left( {0.34\\overline {67}  + 0.13\\overline {33} } \\right)$$    is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0.48"
+            },
+            {
+                "option": "B.",
+                "text": "$$0.48\\overline {01} $$"
+            },
+            {
+                "option": "C.",
+                "text": "$$0.\\overline {48} $$"
+            },
+            {
+                "option": "D.",
+                "text": "$$0.4\\overline {8} $$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 0.34676767 ..... + 0.13333333 ..... = 0.480101 ..... = $$0.48\\overline {01} $$"
+    },
+    {
+        "question": "Arrange the following fraction in decreasing order : $$\\frac{3}{5},$$ $$\\frac{7}{9}$$ $$,\\frac{{11}}{{13}}$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{3}{5},\\frac{7}{9},\\frac{{11}}{{13}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{7}{9},\\frac{3}{5},\\frac{{11}}{{13}}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{{11}}{{13}},\\frac{7}{9},\\frac{3}{5}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{{11}}{{13}},\\frac{3}{5},\\frac{7}{9}$$"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\frac{3}{5},\\frac{7}{9},\\frac{{11}}{{13}}$$ $$\\eqalign{ & \\frac{3}{5} = 0.60, \\cr & \\frac{7}{9} = 0.7, \\cr & \\frac{{11}}{{13}} = 0.8 \\cr & \\frac{{11}}{{13}}{\\text{ > }}\\frac{7}{9} > \\frac{3}{5} \\cr} $$"
+    },
+    {
+        "question": "12345679 × 72  is equal to -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "88888888"
+            },
+            {
+                "option": "B.",
+                "text": "999999998"
+            },
+            {
+                "option": "C.",
+                "text": "888888888"
+            },
+            {
+                "option": "D.",
+                "text": "898989898"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 12345679 × 72 Shortcut method : Since 72 is factor of 9, So the answer should be divisible by 9. Now check with option by adding the digits of option and check which one is divisible by 9. Here option (c) 888888888 is divisible by 9, so this is the multiple of 12345679 × 72 Alternate 12345679 x 72 = 12345679 x (70 +2) = 12345679 x 70 + 12345679 x 2 = 864197530 + 24691358 = 888888888"
+    },
+    {
+        "question": "Which of the following fraction is greater than $$\\frac{3}{4}$$ but less than $$\\frac{5}{6}$$ ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{2}{3}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{1}{2}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{4}{5}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{9}{10}$$"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & \\frac{3}{4} = 75\\% ,\\frac{5}{6} = 83.33\\% , \\cr & (1)\\frac{2}{3} = 66.66\\% , \\cr & (2)\\frac{1}{2} = 50\\% , \\cr & (3)\\frac{4}{5} = 80\\% , \\cr & (4)\\frac{9}{{10}} = 90\\% \\cr & {\\text{Hence , }}\\frac{4}{5}{\\text{ is between the fraction}}{\\text{.}} \\cr} $$"
+    },
+    {
+        "question": "The digit in unit's place of the product 81 × 82 × 83 × ..... × 89 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "8"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 81 × 82 × 83 ×..... × 89 take unit digit multiply 1 × 2 × 3 × 4 × 5 × 6 × 7 × 8 × 9 = 0 Since there is 5 and 2 are present So we get 5 × 2 = 10 and the last digit of 10 is 0, so the last digit of the above number is also 0"
+    },
+    {
+        "question": "$$\\left( {999\\frac{{999}}{{1000}} \\times 7} \\right)$$ \n  is equal to -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$${\\text{6993}}\\frac{7}{{1000}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$${\\text{7000}}\\frac{7}{{1000}}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$${\\text{6633}}\\frac{7}{{1000}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$${\\text{6999}}\\frac{{993}}{{1000}}$$"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\eqalign{ & = \\left( {999\\frac{{999}}{{1000}} \\times 7} \\right) \\cr & = \\left( {999\\frac{{999}}{{1000}}} \\right) \\times 7 \\cr & = 6993 + \\frac{{6993}}{{1000}} \\cr & = 6993 + 6\\frac{{993}}{{1000}} \\cr & = 6993 + 6 + \\frac{{993}}{{1000}} \\cr & = 6999\\frac{{993}}{{1000}} \\cr} $$"
+    },
+    {
+        "question": "Number 2, 4, 6, 8, 10.....196, 198, 200 are multiplied together. The number of zeros at the end of the product on the right will be equal to -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "21"
+            },
+            {
+                "option": "B.",
+                "text": "22"
+            },
+            {
+                "option": "C.",
+                "text": "24"
+            },
+            {
+                "option": "D.",
+                "text": "25"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & {\\text{2, 4, 6, 8, 10}}......{\\text{198, 200 }} \\cr & {2^{100}}(1 \\times 2 \\times 3 \\times ..... \\times 99 \\times 100) \\cr} $$ $$\\eqalign{ & \\underline {5\\,\\,\\,|\\,\\,100} \\cr & \\underline {5\\,\\,\\,|\\,\\,\\,20} \\,\\,\\,\\,\\, = 24{\\text{ zero's (20 + 4)}} \\cr & \\,\\,\\,\\,\\,|\\,\\,\\,4 \\cr} $$ When we multiply the series of 1 × 2 × 3 ×..... × 100 then we find 24 zero at the end of the product"
+    },
+    {
+        "question": "The product of two positive integers is 2048 and one of them is twice the other. Then the small of the number is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "32"
+            },
+            {
+                "option": "B.",
+                "text": "64"
+            },
+            {
+                "option": "C.",
+                "text": "16"
+            },
+            {
+                "option": "D.",
+                "text": "1024"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let first number is x and second number is 2x. Then, according to the question x × 2x = 2048 x2 = 1024 x = 32 Smaller number = 32"
+    },
+    {
+        "question": "If $$\\frac{{51.84}}{{4.32}} = 12$$  , then the value of $$\\frac{{0.005184}}{{0.432}}$$   is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0.12"
+            },
+            {
+                "option": "B.",
+                "text": "0.012"
+            },
+            {
+                "option": "C.",
+                "text": "0.0012"
+            },
+            {
+                "option": "D.",
+                "text": "1.2"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Given : $$\\eqalign{ & \\Leftrightarrow \\frac{{51.84}}{{4.32}} = 12 \\cr & \\Leftrightarrow \\frac{{5184}}{{432}} = 12 \\cr & \\therefore \\frac{{0.005184}}{{0.432}} \\cr & = \\frac{{5.184}}{{432}} \\cr & = \\frac{{5184}}{{432}} \\times \\frac{1}{{1000}} \\cr & = 12 \\times \\frac{1}{{1000}} \\cr & = 0.012 \\cr} $$"
+    },
+    {
+        "question": "How many $$\\frac{1}{6}$$ of together make $${\\text{41}}\\frac{2}{3}$$ ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "125"
+            },
+            {
+                "option": "B.",
+                "text": "150"
+            },
+            {
+                "option": "C.",
+                "text": "250"
+            },
+            {
+                "option": "D.",
+                "text": "350"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\frac{{41\\frac{2}{3}}}{{\\frac{1}{6}}} = \\frac{{125}}{3} \\times \\frac{6}{1} = 250{\\text{ times}}$$"
+    },
+    {
+        "question": "A girl was asked to multiply a number by $$\\frac{7}{8}$$, instead she divided the number by $$\\frac{7}{8}$$ and got the result 15 more than the correct result. The sum of the digits of the number was -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4"
+            },
+            {
+                "option": "B.",
+                "text": "8"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "11"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\eqalign{ & {\\text{Let the number be x}} \\cr & {\\text{According to question}} \\cr & \\frac{x}{{7\/8}} - \\frac{7}{8}x = 15 \\cr & \\frac{8}{7}x - \\frac{7}{8}x = 15 \\cr & \\frac{{64x - 49x}}{{56}} = 15 \\cr & 15x = 15 \\times 56 \\cr & x = 56 \\cr & {\\text{Sum of digits }} \\cr & = 5{\\text{ }} + {\\text{ }}6 \\cr & = 11 \\cr} $$"
+    },
+    {
+        "question": "The sum of three consecutive natural numbers each divisible by 5,  is 225. The largest among them is ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "85"
+            },
+            {
+                "option": "B.",
+                "text": "75"
+            },
+            {
+                "option": "C.",
+                "text": "70"
+            },
+            {
+                "option": "D.",
+                "text": "80"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\eqalign{ & {\\text{Let number are }}x,{\\text{ }}x + 5,{\\text{ }}x + 10 \\cr & {\\text{So, }}x{\\text{ + }}x + 5 + x + 10 = 225 \\cr & 3x + 15 = 225 \\cr & 3x = 210 \\cr & x = 70 \\cr & {\\text{largest number is }}70 + 10 = 80 \\cr} $$"
+    },
+    {
+        "question": "If n is an integer, then (n3 - n) is always divisible by :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4"
+            },
+            {
+                "option": "B.",
+                "text": "5"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "7"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & \\left( {{n^3} - n} \\right){\\text{ and n is any integer}} \\cr & {\\text{put n = 2 so, }}{{\\text{2}}^3} - 2 = 6 \\cr & {\\text{It will be always divisible by 6}} \\cr & {\\text{(put n = 2, 3, 4}}....{\\text{)}} \\cr & {\\text{(n = 2, 3, 4}}.....{\\text{)}} \\cr} $$"
+    },
+    {
+        "question": "How many numbers less than 1000 are multiples of both 10 and 13 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "9"
+            },
+            {
+                "option": "B.",
+                "text": "8"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "7"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Take LCM of 10 and 13 = 130 Any number divisible by 130 will be divisible by 13 and 10 i.e., 130, 260, 390, 520, 650, 780 & 910 ⇒ total numbers are 7"
+    },
+    {
+        "question": "Which of the following is the smallest fraction ? $$\\frac{8}{{25}},$$ $$\\frac{7}{{23}},$$ $$\\frac{{11}}{{23}},$$ $$\\frac{{14}}{{53}}$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{{8}}{{25}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{{7}}{{23}}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{{11}}{{23}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{{14}}{{53}}$$"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\frac{8}{{25}},\\frac{7}{{23}},\\frac{{11}}{{23}},\\frac{{14}}{{53}}$$ (184) , (175)   ↑   ↑   $$\\frac{{8}}{{25}}$$  ⤩  $$\\frac{{7}}{{23}}$$  = $$\\frac{{8}}{{25}}$$ > $$\\frac{{7}}{{23}}$$         (371) , (322)   ↑   ↑   $$\\frac{{7}}{{23}}$$  ⤩  $$\\frac{{14}}{{53}}$$  = $$\\frac{{7}}{{23}}$$ > $$\\frac{{14}}{{53}}$$ $${\\text{So}}\\frac{{14}}{{53}}\\,{\\text{is smallest}}$$"
+    },
+    {
+        "question": "How many digit required to write numbers from 1 to 50 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "100"
+            },
+            {
+                "option": "B.",
+                "text": "92"
+            },
+            {
+                "option": "C.",
+                "text": "91"
+            },
+            {
+                "option": "D.",
+                "text": "50"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & {\\text{No}}{\\text{. of digits}} \\cr & {\\text{0 - 9 }} \\to {\\text{ 1}} \\times {\\text{9 = 9}} \\cr & {\\text{10 - 19 }} \\to {\\text{ 2}} \\times {\\text{10 = 20}} \\cr & {\\text{20 - 29 }} \\to {\\text{ 2}} \\times {\\text{10 = 20}} \\cr & {\\text{30 - 39 }} \\to {\\text{ 2}} \\times {\\text{10 = 20}} \\cr & 40{\\text{ - 49 }} \\to {\\text{ 2}} \\times {\\text{10 = 20}} \\cr & 50\\, \\to \\,2 \\times {\\text{1 = 2 = 91}} \\cr} $$"
+    },
+    {
+        "question": "$$\\left( {{2^{71}} + {2^{72}} + {2^{73}} + {2^{74}}} \\right)$$     is divided by :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "9"
+            },
+            {
+                "option": "B.",
+                "text": "10"
+            },
+            {
+                "option": "C.",
+                "text": "11"
+            },
+            {
+                "option": "D.",
+                "text": "13"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\eqalign{ & \\Leftrightarrow \\left( {{2^{71}} + {2^{72}} + {2^{73}} + {2^{74}}} \\right)\\, \\cr & = {2^{71}}\\left( {{2^0} + {2^1} + {2^2} + {2^3}} \\right)\\, \\cr & = {2^{71}}(1 + 2 + 4 + 8) \\cr & = {2^{71}} \\times 15 \\cr & = {2^{70}} \\times 30 \\cr & {\\text{It is divisible by 10}} \\cr} $$"
+    },
+    {
+        "question": "$$999\\frac{{98}}{{99}} \\times 99$$   is equal to :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "98999"
+            },
+            {
+                "option": "B.",
+                "text": "99899"
+            },
+            {
+                "option": "C.",
+                "text": "99989"
+            },
+            {
+                "option": "D.",
+                "text": "99998"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $$\\eqalign{ & = 999\\frac{{98}}{{99}} \\times 99 \\cr & = (1000 - 1)\\frac{{98}}{{99}} \\times 99 \\cr & = \\left[ {\\left( {1000 - 1} \\right) + \\frac{{98}}{{99}}} \\right] \\times 99 \\cr & = 99000 - 99 + 98 \\cr & = 99000 - 1 \\cr & = 98999 \\cr} $$"
+    },
+    {
+        "question": "The sum of four consecutive even numbers is 748, The smallest among them is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "188"
+            },
+            {
+                "option": "B.",
+                "text": "186"
+            },
+            {
+                "option": "C.",
+                "text": "184"
+            },
+            {
+                "option": "D.",
+                "text": "174"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let 'a' be the smallest even numberAccording to question $$\\eqalign{ & (a) + (a + 2) + (a + 4) + (a + 6) = 748 \\cr & 4a + 12 = 748 \\cr & 4a = 736 \\cr & a = 184 \\cr & \\cr & {\\bf{Alternate :}} \\cr & {\\text{Middle term }} = \\frac{{748}}{4} = 187 \\cr & \\underline {184} \\,\\,\\,\\,\\underline {186} \\,\\,\\,\\underline {188} \\,\\,\\,\\underline {190} \\cr & \\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\mathop {187}\\limits^ \\downarrow \\cr & {\\text{Smallest number = 184}} \\cr} $$"
+    },
+    {
+        "question": "$$1.\\overline {27} $$   in the form $$\\frac{{\\text{p}}}{{\\text{q}}}$$ is equal to :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{127}{100}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{73}{100}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{14}{11}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{11}{14}$$"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & 1.\\overline {27} \\, = \\frac{{127 - 1}}{{99}}{\\text{ = }}\\frac{{126}}{{99}}{\\text{ = }}\\frac{{14}}{{11}} \\cr & {\\text{ }}\\therefore {\\text{ }}\\frac{{\\text{p}}}{{\\text{q}}} = \\frac{{14}}{{11}} \\cr} $$"
+    },
+    {
+        "question": "Of the three numbers, the sum of the first two is 55, sum of the second and third is 65, and sum of third with thrice of the first is 110. The third number is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "25"
+            },
+            {
+                "option": "B.",
+                "text": "30"
+            },
+            {
+                "option": "C.",
+                "text": "35"
+            },
+            {
+                "option": "D.",
+                "text": "28"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & {\\text{Let the 3 numbers be }}x,y,\\& \\,\\,z \\cr & {\\text{According to question}} \\cr & x + y = 55 \\to y = 55 - x \\cr & y + z = 65 \\to 55 - x + z = 65 \\cr & z - x = 10.....(i) \\cr & z + 3x = 110.....(ii) \\cr & {\\text{Solve (i)}}\\,{\\text{and (ii)}} \\cr & {\\bf{z = 35,}} \\cr & x = 25, \\cr & y = 30 \\cr} $$"
+    },
+    {
+        "question": "If the digit in the unit and the ten's places of a two digit number are interchanged, a new number is formed, which is grater then the original number by 63. Suppose the digit in the unit place of the original number the x. Then all the possible value of x are -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "7, 8, 9"
+            },
+            {
+                "option": "B.",
+                "text": "2, 7, 9"
+            },
+            {
+                "option": "C.",
+                "text": "0, 1, 2"
+            },
+            {
+                "option": "D.",
+                "text": "1, 2, 8"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $$\\eqalign{ & {\\text{Let the two digit number be }} \\cr & 10y + x\\,\\,\\,\\,\\,{\\text{where}}\\,\\,\\,y > x \\cr & 10x + y - 10y - x = 63 \\cr & 9x - 9y = 63 \\cr & x - y = 7 \\cr & {\\bf{x = 7,8,9}}{\\text{ and}} \\cr & y = 0,1,2 \\cr} $$"
+    },
+    {
+        "question": "Arrangement of the fractions  into ascending order : $$\\frac{4}{3},$$ $$ - \\frac{2}{9},$$ $$ - \\frac{7}{8},$$ $$\\frac{5}{{12}}$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$ - \\frac{2}{9}, - \\frac{7}{8},\\frac{4}{3},\\frac{5}{{12}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$ - \\frac{7}{8}, - \\frac{2}{9},\\frac{5}{{12}}\\frac{4}{3}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$ - \\frac{7}{8}, - \\frac{2}{9},\\frac{4}{3},\\frac{5}{{12}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$ - \\frac{2}{9}, - \\frac{7}{8},\\frac{5}{{12}}\\frac{4}{3}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\frac{4}{3}, - \\frac{2}{9}, - \\frac{7}{8},\\frac{5}{{12}}$$ $$\\eqalign{ & \\frac{4}{3} = 1.33, \\cr & - \\frac{2}{9} = - 0.22, \\cr & - \\frac{7}{8} = - 0.875, \\cr & \\frac{5}{{12}} = 0.416 \\cr} $$ So, $$ - \\frac{7}{8}, - \\frac{2}{9},\\frac{5}{{12}},\\frac{4}{3}$$"
+    },
+    {
+        "question": "If 13 + 23 + .....+ 103 = 3025, then the value of 23 + 43 +.....+ 203 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "7590"
+            },
+            {
+                "option": "B.",
+                "text": "5060"
+            },
+            {
+                "option": "C.",
+                "text": "24200"
+            },
+            {
+                "option": "D.",
+                "text": "12100"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: ∵ 13 + 23 + .....+ 103 = 3025 To find = 23 + 43 + 63 +.....+ 203 = ? ⇒ 23 (13 + 23 + .....+ 103) ⇒ 8 × 3025 ⇒ 24200"
+    },
+    {
+        "question": "There are 50 boxes and 50 persons. Person 1 keeps 1 marble in every box, person 2  keeps 2 marbles in every 2nd box, person 3 keeps 3 marbles in every third box. The process goes on till person 50 keeps 50 marbles in the 50th box. Find the total number of marbles kept in the 50th box.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "43"
+            },
+            {
+                "option": "B.",
+                "text": "78"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "93"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Marbles in the 50th box will be kept by 1st, 2nd, 5th, 10th, 25th and 50th person is a factor of 50. Number of marbles =1 + 2 + 5 + 10 + 25 + 50= 93"
+    },
+    {
+        "question": "The difference between the greatest and the least four digit numbers that begins with 3 and ends with 5 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "900"
+            },
+            {
+                "option": "B.",
+                "text": "999"
+            },
+            {
+                "option": "C.",
+                "text": "909"
+            },
+            {
+                "option": "D.",
+                "text": "990"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: According to the question, ⇒ The least number = 3005 ⇒ The greatest number = 3995 ⇒ Difference will be = 3995 - 3005 = 990"
+    },
+    {
+        "question": "If in a three digits number the last two digits places are interchanged a new number is formed which is greater than the original number by 45. What is the difference between the last two digits of that number ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "9"
+            },
+            {
+                "option": "B.",
+                "text": "8"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "5"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Three digit number = 100x + 10y + z To make number after changing last two digit = 100x + 10z + y Now, 100x + 10y + z = 100x + 10z + y - 45 9z - 9y = 45 z - y = 5"
+    },
+    {
+        "question": "Which of the following is a perfect square ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3497497"
+            },
+            {
+                "option": "B.",
+                "text": "4587632"
+            },
+            {
+                "option": "C.",
+                "text": "1046529"
+            },
+            {
+                "option": "D.",
+                "text": "1034758"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: By checking last 3 digits Then, last '3' digits of 1046529 529 is a square of 23 Hence, this is correct option"
+    },
+    {
+        "question": "While solving a problem, by mistake, Anita squared a number and then subtracted 25 from it rather than first subtracting 25 from the number and then squaring it. But she got the right answer. What was the given number ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "48"
+            },
+            {
+                "option": "B.",
+                "text": "Cannot be determined"
+            },
+            {
+                "option": "C.",
+                "text": "13"
+            },
+            {
+                "option": "D.",
+                "text": "38"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Let the given number be x According to the question, x2 - 25 = (x - 25)2 x2 - 25 = x2 + (25)2 - 50x x = 13"
+    },
+    {
+        "question": "The decimal fraction $$2.3\\overline {49} $$    is equal to :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{{2326}}{{999}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{{2326}}{{990}}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{{2347}}{{999}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{{2347}}{{990}}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$2.3\\overline {49} = \\frac{{2349 - 23}}{{990}} = \\frac{{2326}}{{990}}$$"
+    },
+    {
+        "question": "A number x when divided by 289 leave 18 as the remainder. The same number when divided by 17 leaves y as a remainder. the value of y is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "5"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "1"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: $$\\eqalign{ & \\frac{{{\\text{Remainder of number}}}}{{17}} = \\frac{{18}}{{17}} \\cr & \\Rightarrow {\\text{Remainder = 1}} \\cr} $$"
+    },
+    {
+        "question": "The digit at Hundred's place value of 17! is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "0"
+            },
+            {
+                "option": "C.",
+                "text": "2"
+            },
+            {
+                "option": "D.",
+                "text": "3"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: We know that after 5! we get one zero at the end of the numberAnd after 10! → two zeros And after 15! → three zeros We can say that in 17! we get minimum three zeros The Hundred's place value of 17! = 0"
+    },
+    {
+        "question": "The sum of two numbers is 75 and their difference is 25. The product of the two numbers is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1350"
+            },
+            {
+                "option": "B.",
+                "text": "1250"
+            },
+            {
+                "option": "C.",
+                "text": "125"
+            },
+            {
+                "option": "D.",
+                "text": "1000"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the numbers are a, b ⇒ a + b = 75.....(i) ⇒ a - b = 25.....(ii) ⇒ After solving (i) and (ii) ⇒ a = 50,     b = 25 ⇒ ab = 50 × 25 = 1250 So, their product is 1250"
+    },
+    {
+        "question": "The reciprocals of the squares of the number $$1\\frac{1}{2}$$ and $$1\\frac{1}{3}$$ are in the ratio :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "64 : 81"
+            },
+            {
+                "option": "B.",
+                "text": "8 : 9"
+            },
+            {
+                "option": "C.",
+                "text": "81 : 64"
+            },
+            {
+                "option": "D.",
+                "text": "9 : 8"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $$1\\frac{1}{2}$$ = $$\\frac{3}{2}$$ $$1\\frac{1}{3}$$ = $$\\frac{4}{3}$$ Square = $$\\frac{9}{4}$$   $$\\frac{16}{9}$$ Reciprocal ratio $$\\frac{4}{9}$$ : $$\\frac{9}{16}$$ 64 : 81"
+    },
+    {
+        "question": "Which is the largest among the numbers : $$\\root 3 \\of 7 ,\\root 4 \\of {13} ,\\sqrt 5 $$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\sqrt 5 $$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\root 3 \\of 7 $$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\root 4 \\of {13} $$"
+            },
+            {
+                "option": "D.",
+                "text": "All are equal"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $$\\root 3 \\of 7 ,\\root 4 \\of {13} ,\\sqrt 5 $$ Taking L.C.M. of 3, 4 and 2. $${7^{\\frac{1}{3} \\times 12}}$$ $${13^{\\frac{1}{4} \\times 12}}$$ $${5^{\\frac{1}{2} \\times 12}}$$ 74 133 56 ↓ ↓ ↓     2401         2197         15625    "
+    },
+    {
+        "question": "When a number is divided by 5, the remainder is 3. What will be the remainder when sum of cube of that number and square of that number is divided by 5 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "4"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let us assume any such number which when divided by 5 leaves remainder as 3. Let it be 8So, now $$\\eqalign{ & = \\frac{{{{\\left( 8 \\right)}^2} + {{\\left( 8 \\right)}^3}}}{5} \\cr & = \\frac{{64 + 512}}{5} \\cr & = \\frac{{576}}{5} = 1\\,\\,\\left[ {{\\text{Remainder}}} \\right] \\cr} $$"
+    },
+    {
+        "question": "The simplified value of $$\\frac{{\\left( {0.0539 - 0.002} \\right) \\times 0.4 + 0.56 \\times 0.07}}{{0.04 \\times 0.25}}$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "599.6"
+            },
+            {
+                "option": "B.",
+                "text": "0.5996"
+            },
+            {
+                "option": "C.",
+                "text": "5.996"
+            },
+            {
+                "option": "D.",
+                "text": "59.96"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & = \\frac{{\\left( {0.0539 - 0.002} \\right) \\times 0.4 + 0.56 \\times 0.07}}{{0.04 \\times 0.25}} \\cr & = \\frac{{\\left( {0.0519} \\right) \\times 0.4 + 0.56 \\times 0.07}}{{0.04 \\times 0.25}} \\cr & = \\frac{{0.02076 + 0.0392}}{{0.04 \\times 0.25}} \\cr & = \\frac{{0.05996}}{{0.01}} \\cr & = 5.996 \\cr} $$"
+    },
+    {
+        "question": "A and B have together three times what B and C have, while A, B, C together have thirty rupees more than that of A. If B has 5 times that of C, then A has :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rs. 60"
+            },
+            {
+                "option": "B.",
+                "text": "Rs. 65"
+            },
+            {
+                "option": "C.",
+                "text": "Rs. 75"
+            },
+            {
+                "option": "D.",
+                "text": "Rs. 45"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: A + B = 3(B + C) A + B = 3B + 3C A = 2B + 3C.....(i) A + B + C = A + 30 B + C = 30.....(ii) B = 5C (given) 5C + C = 30 C = Rs. 5 B = 30 - 5 = Rs. 25 A + 25 = 3(25 + 5) A = 90 - 25 A = Rs. 65"
+    },
+    {
+        "question": "The number which can be written in the form of n (n + 1) (n + 2), where n is a natural number, is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "7"
+            },
+            {
+                "option": "B.",
+                "text": "5"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "6"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let the natural number (n) be 1 ∴ n (n + 1) (n + 2) = 1 (1 + 1) (1 + 2) = 6"
+    },
+    {
+        "question": "The difference of a number consisting of two digits from the number formed by interchanging the digits is always divisible by :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10"
+            },
+            {
+                "option": "B.",
+                "text": "9"
+            },
+            {
+                "option": "C.",
+                "text": "11"
+            },
+            {
+                "option": "D.",
+                "text": "6"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the number = 10x + y Interchange number = 10y + x Difference = 10x + y - 10y - x = 9 (x - y) The difference is always divisible by 9"
+    },
+    {
+        "question": "The unit digit in the product of 3 × 38 × 537 × 1256 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "8"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Unit's digit in 3 x 38 x 537 x 1256 = Unit's digit in 3 x 8 x 7 x 6 = 4 x 2 = 8 Note : Always multiply only unit digit of first number, to second and product's unit digits number with 3rd number. Again product of last's unit digit to fourth and so on."
+    },
+    {
+        "question": "Find the square root of  $$\\frac{{\\left( {0.064 - 0.008} \\right)\\left( {0.16 - 0.04} \\right)}}{{\\left( {0.016 + 0.08 + 0.04} \\right){{\\left( {0.4 + 0.2} \\right)}^3}}}$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$$\\frac{2}{3}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{1}{3}$$"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{3}{2}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Square root $$ \\Rightarrow \\sqrt {\\frac{{\\left( {0.064 - 0.008} \\right)\\left( {0.16 - 0.04} \\right)}}{{\\left( {0.016 + 0.08 + 0.04} \\right){{\\left( {0.4 + 0.2} \\right)}^3}}}} $$ $$ \\Rightarrow \\sqrt {\\frac{{\\left[ {{{\\left( {0.4} \\right)}^3} - {{\\left( {0.2} \\right)}^3}} \\right]\\left[ {{{\\left( {0.4} \\right)}^2} - {{\\left( {0.2} \\right)}^2}} \\right]}}{{\\left[ {{{\\left( {0.4} \\right)}^2} + {{\\left( {0.2} \\right)}^2} + \\left( {0.2 \\times 0.4} \\right)} \\right]{{\\left[ {\\left( {0.4} \\right) + 0.2} \\right]}^3}}}} $$ $$ \\Rightarrow {\\text{Let }}0.4{\\text{ }} = {\\text{ }}a,{\\text{ }}0.2{\\text{ }} = {\\text{ }}b$$ $$ \\Rightarrow \\sqrt {\\frac{{\\left( {{a^3} - {b^3}} \\right)\\left( {{a^2} - {b^2}} \\right)}}{{\\left( {{a^2} + {b^2} + ab} \\right){{\\left( {a + b} \\right)}^3}}}} $$ $$ \\Rightarrow \\sqrt {\\frac{{\\left( {a - b} \\right)\\left( {{a^2} + {b^2} + ab} \\right)\\left( {a + b} \\right)\\left( {a - b} \\right)}}{{{{\\left( {a + b} \\right)}^3}\\left( {{a^2} + {b^2} + ab} \\right)}}} $$ $$\\eqalign{ & \\Rightarrow \\sqrt {\\frac{{{{\\left( {a - b} \\right)}^2}}}{{{{\\left( {a + b} \\right)}^2}}}} \\cr & \\Rightarrow \\frac{{a - b}}{{a + b}} \\cr & \\Rightarrow \\frac{{0.4 - 0.2}}{{0.4 + 0.2}} \\cr & \\Rightarrow \\frac{{0.2}}{{0.6}} \\cr & \\Rightarrow \\frac{1}{3} \\cr} $$"
+    },
+    {
+        "question": "A rational number between $${\\text{ }}\\frac{3}{4}$$ and $${\\text{ }}\\frac{3}{8}$$ is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$${\\text{ }}\\frac{7}{9}$$"
+            },
+            {
+                "option": "B.",
+                "text": "$${\\text{ }}\\frac{7}{3}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$${\\text{ }}\\frac{5}{9}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$${1\\text{ }}\\frac{9}{16}$$"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: given $${\\text{ }}\\frac{3}{4}$$ = 0.75     $${\\text{ }}\\frac{3}{8}$$ = 0.375 (a) $${\\text{ }}\\frac{7}{9}$$ → 0.77 (b) $${\\text{ }}\\frac{7}{3}$$ → 2.3 (c) $${\\text{ }}\\frac{5}{9}$$ → 0.55 (d) $${1\\text{ }}\\frac{9}{16}$$ = $${\\text{ }}\\frac{25}{16}$$ → 1.5$${\\text{ }}\\frac{5}{9}$$ = 0.55"
+    },
+    {
+        "question": "If the operation '*' is defined by a * b = a + b - ab, then 5 * 7 equals :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "12"
+            },
+            {
+                "option": "B.",
+                "text": "- 47"
+            },
+            {
+                "option": "C.",
+                "text": "- 23"
+            },
+            {
+                "option": "D.",
+                "text": "35"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 5 * 7 = 5 + 7 - 5 × 7 = 12 - 35 = - 23"
+    },
+    {
+        "question": "The smallest five digit number which is divisible by 12, 18 and 21 is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10080"
+            },
+            {
+                "option": "B.",
+                "text": "30256"
+            },
+            {
+                "option": "C.",
+                "text": "10224"
+            },
+            {
+                "option": "D.",
+                "text": "50321"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: We know, Smallest five digit number is = 10000 L.C.M. of 12, 18, 21 = 252 10000 is divided by 252 then the remainder is 172 Difference = 252 - 172 = 80 Then number is = 10000 + 80 = 10080"
+    },
+    {
+        "question": "$$1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{7} + \\frac{1}{{14}} + \\frac{1}{{28}}$$      is equal to :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2"
+            },
+            {
+                "option": "B.",
+                "text": "2.5"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "3.5"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $$\\eqalign{ & = 1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{7} + \\frac{1}{{14}} + \\frac{1}{{28}} \\cr & = \\frac{{28 + 14 + 7 + 4 + 2 + 1}}{{28}} \\cr & = \\frac{{56}}{{28}} \\cr & = 2 \\cr} $$"
+    },
+    {
+        "question": "In a two digit number, the digit at the unit's place is 1 less than twice the digit at the ten's place. If the digits at unit's and ten's place are interchanged, the difference between the new and the original number is less than the original number by 20. The original number is :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "59"
+            },
+            {
+                "option": "B.",
+                "text": "23"
+            },
+            {
+                "option": "C.",
+                "text": "35"
+            },
+            {
+                "option": "D.",
+                "text": "47"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Let the ten's digits be x Unit digit be 2x - 1 Original number : = 10x + 2x - 1 = 12x - 1 New number := 10(2x - 1) + x= 20x - 10 + x= 21x - 10According to the question, (21x - 10) - (12x - 1) = (12x - 1) - 20 9x - 9 = 12x - 21 3x = 12 x = 4 Original number : = 12x - 1= 12 × 4 - 1= 47"
+    },
+    {
+        "question": "Find the sum of all positive multiples of 3 less than 50 :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "400"
+            },
+            {
+                "option": "B.",
+                "text": "404"
+            },
+            {
+                "option": "C.",
+                "text": "408"
+            },
+            {
+                "option": "D.",
+                "text": "412"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: First multiple = 3 Last multiple (less than 50) = 48 Number of multiples of 3 = $$\\frac{48 - 3}{3}$$ + 1 = 16 Sum := $$\\frac{16}{2}$$ [2 × 3 + (16 - 1)3] = 8 × 51 = 408"
+    },
+    {
+        "question": "The value of $$\\left( {0.\\overline {63}  + 0.\\overline {37} } \\right)$$    is  :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "$$\\frac{{100}}{{99}}$$"
+            },
+            {
+                "option": "C.",
+                "text": "$$\\frac{{99}}{{100}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$$\\frac{{100}}{{33}}$$"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: $$\\eqalign{ & \\Rightarrow \\left( {0.\\overline {63} + 0.\\overline {37} } \\right) \\cr & = \\frac{{63}}{{99}} + \\frac{{37}}{{99}} \\cr & = \\frac{{63 + 37}}{{99}} \\cr & = \\frac{{100}}{{99}} \\cr} $$"
+    },
+    {
+        "question": "If 1 is added to the both the numerator and the denominator of a fraction, it becomes $$\\frac{1}{4}$$ . If 2 is added to both the numerator and the denominator of that fraction it becomes $$\\frac{1}{3}$$ . The sum of the numerator and the denominator and the denominator of the fraction is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "8"
+            },
+            {
+                "option": "B.",
+                "text": "13"
+            },
+            {
+                "option": "C.",
+                "text": "22"
+            },
+            {
+                "option": "D.",
+                "text": "27"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Let the numerator and denominator x and y According to question, $$\\eqalign{ & \\frac{{x + 1}}{{y + 1}} = \\frac{1}{4} \\cr & 4x + 4 = y + 1 \\cr & 4x - y = - 3.....(i) \\cr & \\frac{{x + 2}}{{y + 2}} = \\frac{1}{3} \\cr & 3x + 6 = y + 2 \\cr & 3x - y = - 4.....(ii) \\cr & {\\text{Solve (i) and (ii) }} \\cr & x = 1\\,\\,\\,\\& \\,\\,\\,y = 7 \\cr} $$ Sum of numerator and denominator of fraction : = x + y = 1 + 7 = 8"
+    },
+    {
+        "question": "A man ate 100 grapes in 5 days. Each day he ate 6 more grapes then those he ate on the earlier day. How many grapes did he eat on the first day ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "8"
+            },
+            {
+                "option": "B.",
+                "text": "12"
+            },
+            {
+                "option": "C.",
+                "text": "54"
+            },
+            {
+                "option": "D.",
+                "text": "76"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Man eats G grapes on 1st day According to question G + (G + 6) + (G + 12) + (G + 18) + (G + 24) = 100 5G + 60 = 100 5G = 40 G = 8"
+    },
+    {
+        "question": "The least number of five digits which is divisible by 123 ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10037"
+            },
+            {
+                "option": "B.",
+                "text": "10086"
+            },
+            {
+                "option": "C.",
+                "text": "10081"
+            },
+            {
+                "option": "D.",
+                "text": "10063"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Least number of 5 digit is 10000 10000 is divided by 123 then the remainder is 37 Least number that divisible by 123 =10000 − 37 + 123 =10086"
+    },
+    {
+        "question": "The digit in unit's place of the product -\n$${\\left( {2464} \\right)^{1793}}$$   $$ \\times {\\left( {615} \\right)^{317}}$$   $$ \\times {\\left( {131} \\right)^{491}}$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "0"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "5"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $$\\eqalign{ & {\\left( {2464} \\right)^{1793}} \\times {\\left( {615} \\right)^{317}} \\times {\\left( {131} \\right)^{491}} \\cr & {4^1} \\to 4 \\to 4 \\cr & {4^2} \\to 16 \\to 6 \\cr & {4^3} \\to 64 \\to 4 \\cr} $$ So, odd power of 4 will have 4 as unit digit and even power of 4 will have 6 as unit digit 5 and 1 have same unit digits respectively. (2464)1793 have the odd power therefore unit digit is 4 (615)317 have unit digit 5 and (131)491 have unit digit 1. i.e Unit digit of the product will be 4 × 5 × 1 = 20. ∴ 0 is the unit digit"
+    },
+    {
+        "question": "Thrice the square of a natural number decreased by four times the number is equal to 50 more than the number, the number is -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3"
+            },
+            {
+                "option": "B.",
+                "text": "5"
+            },
+            {
+                "option": "C.",
+                "text": "10"
+            },
+            {
+                "option": "D.",
+                "text": "6"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Let the number be x According to question $$\\eqalign{ & \\left( {3 \\times {x^2}} \\right){\\text{ - }}\\left( {4 \\times x} \\right) = 50 + x.....(i) \\cr & \\Rightarrow 3{x^2} - 4x = 50 + x \\cr & \\Rightarrow 3{x^2} - 5x - 50 = 0 \\cr & \\Rightarrow 3{x^2} - 15x + 10x - 50 = 0 \\cr & \\Rightarrow 3{x^{}}(x - 5) + 10(x - 5) = 0 \\cr & \\Rightarrow (x - 5)(3x + 10) = 0 \\cr & x = 5\\,\\,or\\,\\, - \\frac{{10}}{3} \\cr} $$ Since the natural number is x = 5 Shortcut method : $$ \\Rightarrow 3{x^2} - 4x = 50 + x.....(i)$$ Now put the value of x from option (b) $$\\eqalign{ & x = 5 \\cr & 3 \\times {(5)^2} - 4 \\times 5 = 50 + 5 \\cr & 75 - 20 = 55 \\cr & 55 = 55 \\cr} $$ LHS = RHS (it satisfies the conditions) $${\\text{so, x = 5}}$$"
+    },
+    {
+        "question": "$$999\\,\\frac{1}{7} + 999\\frac{2}{7} + 999\\frac{3}{7} + $$     $$999\\frac{4}{7} + $$   $$999\\frac{5}{7} + $$   $$999\\frac{6}{7}$$   is simplified to-",
+        "options": [
+            {
+                "option": "A.",
+                "text": "5997"
+            },
+            {
+                "option": "B.",
+                "text": "5979"
+            },
+            {
+                "option": "C.",
+                "text": "5994"
+            },
+            {
+                "option": "D.",
+                "text": "2997"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: $$999\\,\\frac{1}{7} + 999\\frac{2}{7} + 999\\frac{3}{7} + $$     $$999\\frac{4}{7} + $$   $$999\\frac{5}{7} + $$   $$999\\frac{6}{7}$$ $$ \\Rightarrow \\left( {999 \\times 6} \\right) + $$   $$\\left( {\\frac{1}{7} + \\frac{2}{7} + \\frac{3}{7} + \\frac{4}{7} + \\frac{5}{7} + \\frac{6}{7}} \\right)$$ $$\\eqalign{ & \\Rightarrow 5994 + \\left( {\\frac{{21}}{7}} \\right) \\cr & \\Rightarrow 5994 + 3 \\cr & \\Rightarrow 5997 \\cr} $$"
+    },
+    {
+        "question": "The unit digit in $${\\left( {122} \\right)^{173}}$$  is ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2"
+            },
+            {
+                "option": "B.",
+                "text": "4"
+            },
+            {
+                "option": "C.",
+                "text": "6"
+            },
+            {
+                "option": "D.",
+                "text": "8"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: In this case: 122 (powers of the last digit 2 ) 21 = 2 22 = 4 23 = 8 24 = 16 25 = 32 26 = 64 27 = 128 28 = 256 29 = 512 …… As you can see, the pattern repeats every 4th power (2, 4, 8, 6). We have to find 122173 Hence, remainder when 173 is divided by 4 = 1 (which corresponds to the 1st number of the pattern) Thus, unit digit of 122173 = 2"
+    },
+    {
+        "question": "$$\\,{2^{16}} - 1$$   is divisible by -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "11"
+            },
+            {
+                "option": "B.",
+                "text": "13"
+            },
+            {
+                "option": "C.",
+                "text": "17"
+            },
+            {
+                "option": "D.",
+                "text": "19"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: $$\\eqalign{ & \\Rightarrow {2^{16}} - 1\\,\\, \\cr & = \\left( {{2^8} - {1^8}\\,\\,} \\right)\\left( {{2^8} + {1^8}\\,} \\right) \\cr & = \\left( {{2^4} - 1\\,\\,} \\right)\\left( {{2^4} + 1\\,\\,} \\right)\\left( {{2^8} + 1\\,\\,} \\right) \\cr & = \\left( {16 - 1} \\right)\\left( {16 + 1} \\right)\\left( {{2^8} + 1\\,\\,} \\right) \\cr & = 15 \\times 17\\left( {{2^8} + 1\\,\\,} \\right) \\cr & \\therefore {2^{16}} - 1\\,\\,{\\text{is divisible by 17}} \\cr} $$"
+    },
+    {
+        "question": "If a = 4011 and b = 3989, then value of ab = ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "15999879"
+            },
+            {
+                "option": "B.",
+                "text": "15899879"
+            },
+            {
+                "option": "C.",
+                "text": "15989979"
+            },
+            {
+                "option": "D.",
+                "text": "15998879"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: a = 4011 b = 3989 a × b = 4011 × 3989          = 15999879 Shortcut method : a = 4011 ⇒ (4000 + 11) b = 3989 ⇒ (4000 - 11) [(a - b) (a + b) = a2 - b2] According to the question, a × b = (4000 + 11) (4000 - 11)         = 40002 -112         = 16000000 - 121         = 15999879"
+    },
+    {
+        "question": "5349 is added to 3957. Then 7062 is subtracted from the sum. The result is not divisible by :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4"
+            },
+            {
+                "option": "B.",
+                "text": "3"
+            },
+            {
+                "option": "C.",
+                "text": "7"
+            },
+            {
+                "option": "D.",
+                "text": "11"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 5349 + 3957 - 7062 = 2244 This is not divisible by 7."
+    },
+    {
+        "question": "Find the sum of all positive multiples of 5 less than 100.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "925"
+            },
+            {
+                "option": "B.",
+                "text": "960"
+            },
+            {
+                "option": "C.",
+                "text": "950"
+            },
+            {
+                "option": "D.",
+                "text": "990"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Sum = 5 + 10 + 15 + 20 + .....+ 95 , It is an arithmetic progression Number of terms (n)= $$\\frac{{{\\text{Last term }} - {\\text{ First term}}}}{{{\\text{Differnce}}}}$$     + 1 ⇒ n = $$\\frac{95 - 5}{5}$$ + 1 = 19 So, sum = $$\\frac{n}{2}$$ [2a + (n - 1)d] Here, a = 5, n = 19, d = 5 Sum = $$\\frac{19}{2}$$ [10 + (19 - 1)5]         = 950"
+    },
+    {
+        "question": "A number divided by 52 gives remainder 45. If the number divided by 13 , the remainder will be :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "5"
+            },
+            {
+                "option": "B.",
+                "text": "6"
+            },
+            {
+                "option": "C.",
+                "text": "12"
+            },
+            {
+                "option": "D.",
+                "text": "7"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Since 13 is factor of 52. So divide its remainder directly by 13. $$\\eqalign{ & \\Rightarrow \\frac{{{\\text{remainder}}}}{{13}} = \\frac{{45}}{{13}} \\cr & \\Rightarrow {\\text{remainder }} = 6 \\cr} $$"
+    },
+    {
+        "question": "The greatest among following numbers is : $${\\left( 3 \\right)^{\\frac{1}{3}}},$$ $${\\left( 2 \\right)^{\\frac{1}{2}}}$$ , 1, $${\\left( 6 \\right)^{\\frac{1}{6}}}$$",
+        "options": [
+            {
+                "option": "A.",
+                "text": "$${\\left( 2 \\right)^{\\frac{1}{2}}}$$"
+            },
+            {
+                "option": "B.",
+                "text": "1"
+            },
+            {
+                "option": "C.",
+                "text": "$${\\left( 6 \\right)^{\\frac{1}{6}}}$$"
+            },
+            {
+                "option": "D.",
+                "text": "$${\\left( 3 \\right)^{\\frac{1}{3}}}$$"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: L.C.M. of powers (3, 2, 1 and 6) = 6 $$\\eqalign{ & {\\left( 3 \\right)^{\\frac{1}{3}}} \\Rightarrow {\\left( {{3^2}} \\right)^{\\frac{1}{6}}} = {{\\bf{9}}^{\\frac{{\\bf{1}}}{{\\bf{6}}}}} \\cr & {\\left( 2 \\right)^{\\frac{1}{2}}} \\Rightarrow {\\left( {{2^3}} \\right)^{\\frac{1}{6}}} = {8^{\\frac{1}{6}}} \\cr & (1) \\Rightarrow {\\left( {{1^6}} \\right)^{\\frac{1}{6}}} = {1^{\\frac{1}{6}}} \\cr & {\\left( 6 \\right)^{\\frac{1}{6}}} \\Rightarrow {\\left( {{6^1}} \\right)^{\\frac{1}{6}}} = {6^{\\frac{1}{6}}} \\cr} $$"
+    }
+]

@@ -1,0 +1,1382 @@
+[
+    {
+        "question": "What is the rank of Sikkim on Per Capita alcohol consumption amongst all Indian states?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Third"
+            },
+            {
+                "option": "B.",
+                "text": "Fifth"
+            },
+            {
+                "option": "C.",
+                "text": "Second"
+            },
+            {
+                "option": "D.",
+                "text": "Sixth"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which monthly magazine was the first news outlet for the masses in Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Prajashakti"
+            },
+            {
+                "option": "B.",
+                "text": "Kanchenjunga"
+            },
+            {
+                "option": "C.",
+                "text": "Samay Dainik"
+            },
+            {
+                "option": "D.",
+                "text": "Himalayan Mirror"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Where is the National Institute of Technology, Sikkim located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Pelling"
+            },
+            {
+                "option": "B.",
+                "text": "Yuksom"
+            },
+            {
+                "option": "C.",
+                "text": "Gangtok"
+            },
+            {
+                "option": "D.",
+                "text": "Ravangla"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "When was the National Institute of Technology, Sikkim established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2010"
+            },
+            {
+                "option": "B.",
+                "text": "2012"
+            },
+            {
+                "option": "C.",
+                "text": "2014"
+            },
+            {
+                "option": "D.",
+                "text": "2016"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "In which year was the Sikkim University established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2003"
+            },
+            {
+                "option": "B.",
+                "text": "2007"
+            },
+            {
+                "option": "C.",
+                "text": "2009"
+            },
+            {
+                "option": "D.",
+                "text": "2011"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which district is the Sikkim University located in?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "North Sikkim"
+            },
+            {
+                "option": "B.",
+                "text": "South Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "West Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "East Sikkim"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the first Vice-Chancellor of Sikkim University?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "M. S. Swaminathan"
+            },
+            {
+                "option": "B.",
+                "text": "Avinash Khare"
+            },
+            {
+                "option": "C.",
+                "text": "D. B. Shekatkar"
+            },
+            {
+                "option": "D.",
+                "text": "Mahendra P. Lama"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which supercomputer does NIT Sikkim hold at their campus?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "PARAM ISHAN"
+            },
+            {
+                "option": "B.",
+                "text": "PARAM Yuva"
+            },
+            {
+                "option": "C.",
+                "text": "PARAM Kanchenjunga"
+            },
+            {
+                "option": "D.",
+                "text": "PARAM Brahma"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which is the oldest University in Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sikkim University"
+            },
+            {
+                "option": "B.",
+                "text": "SRM University, Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "ICFAI University, Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "Sikkim Manipal University"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "How many private Universities are in Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Four"
+            },
+            {
+                "option": "B.",
+                "text": "Six"
+            },
+            {
+                "option": "C.",
+                "text": "Nine"
+            },
+            {
+                "option": "D.",
+                "text": "Three"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "How many languages are recognized by the Government of Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Four"
+            },
+            {
+                "option": "B.",
+                "text": "Seven"
+            },
+            {
+                "option": "C.",
+                "text": "Nine"
+            },
+            {
+                "option": "D.",
+                "text": "Twelve"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "When was the Indo-Sikkimese treaty signed?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1945"
+            },
+            {
+                "option": "B.",
+                "text": "1950"
+            },
+            {
+                "option": "C.",
+                "text": "1955"
+            },
+            {
+                "option": "D.",
+                "text": "1960"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "The Teesta River of Sikkim joins with which River in Bangladesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Hoogly River"
+            },
+            {
+                "option": "B.",
+                "text": "Ganga River"
+            },
+            {
+                "option": "C.",
+                "text": "Jamuna River"
+            },
+            {
+                "option": "D.",
+                "text": "Gomti River"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Where is Temi Tea Garden located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "North Sikkim"
+            },
+            {
+                "option": "B.",
+                "text": "South Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "West Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "East Sikkim"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "In which year did Pawan Kumar Chamling become the Chief Minister of Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1994"
+            },
+            {
+                "option": "B.",
+                "text": "1999"
+            },
+            {
+                "option": "C.",
+                "text": "2004"
+            },
+            {
+                "option": "D.",
+                "text": "2009"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "India is connected to which country through Nathu La Pass?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "China"
+            },
+            {
+                "option": "B.",
+                "text": "Bhutan"
+            },
+            {
+                "option": "C.",
+                "text": "Myanmar"
+            },
+            {
+                "option": "D.",
+                "text": "Nepal"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the largest Buddhist Monastery in Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Phodong Monastery"
+            },
+            {
+                "option": "B.",
+                "text": "Rinchenpong Monastery"
+            },
+            {
+                "option": "C.",
+                "text": "Sinon Monastery"
+            },
+            {
+                "option": "D.",
+                "text": "Rumtek Monastery"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the main tributary of the Teesta River?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lachung River"
+            },
+            {
+                "option": "B.",
+                "text": "Rangeet River"
+            },
+            {
+                "option": "C.",
+                "text": "Rangpo River"
+            },
+            {
+                "option": "D.",
+                "text": "Ringyong Chhu"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the Left Tributary of Teesta River?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ranghap Chhu"
+            },
+            {
+                "option": "B.",
+                "text": "Rangeet River"
+            },
+            {
+                "option": "C.",
+                "text": "Ringyong Chhu"
+            },
+            {
+                "option": "D.",
+                "text": "Rangpo River"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the Right Tributary of Teesta River?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Dik Chhu"
+            },
+            {
+                "option": "B.",
+                "text": "Lang Chu"
+            },
+            {
+                "option": "C.",
+                "text": "Ringyong Chhu"
+            },
+            {
+                "option": "D.",
+                "text": "Rani Khola"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "By which Amendment did Sikkim become a full Indian State?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "35th Amendment"
+            },
+            {
+                "option": "B.",
+                "text": "36th Amendment"
+            },
+            {
+                "option": "C.",
+                "text": "37th Amendment"
+            },
+            {
+                "option": "D.",
+                "text": "38th Amendment"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was Sikkim declared as an Organic State?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "December 2014"
+            },
+            {
+                "option": "B.",
+                "text": "December 2015"
+            },
+            {
+                "option": "C.",
+                "text": "December 2016"
+            },
+            {
+                "option": "D.",
+                "text": "December 2017"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which Folk Dance belongs to Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Giddha"
+            },
+            {
+                "option": "B.",
+                "text": "Maruni"
+            },
+            {
+                "option": "C.",
+                "text": "Jat-Jatin"
+            },
+            {
+                "option": "D.",
+                "text": "Garba"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Tamang Shailo and Rumtek Chaam are the Traditional Dances of which State?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Assam"
+            },
+            {
+                "option": "B.",
+                "text": "Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "D.",
+                "text": "Tripura"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which of the following is the Museum of Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ramgauri Sangralaya"
+            },
+            {
+                "option": "B.",
+                "text": "Namgyal Institute of Tibetology"
+            },
+            {
+                "option": "C.",
+                "text": "Sikkim Science Centre"
+            },
+            {
+                "option": "D.",
+                "text": "Ganju Lama"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which of the following is the source of the Teesta River?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rathong Glacier"
+            },
+            {
+                "option": "B.",
+                "text": "Cholamu Lake"
+            },
+            {
+                "option": "C.",
+                "text": "Himalayas"
+            },
+            {
+                "option": "D.",
+                "text": "Dzuko Valley"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the meaning of the term \"Lachen\"?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Big Pass"
+            },
+            {
+                "option": "B.",
+                "text": "Bypass"
+            },
+            {
+                "option": "C.",
+                "text": "Big Lake"
+            },
+            {
+                "option": "D.",
+                "text": "Big Valley"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "In which years was Teesta -V Dam completed?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2011"
+            },
+            {
+                "option": "B.",
+                "text": "2007"
+            },
+            {
+                "option": "C.",
+                "text": "2003"
+            },
+            {
+                "option": "D.",
+                "text": "2009"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the highest Dam in Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rangit III Dam"
+            },
+            {
+                "option": "B.",
+                "text": "Rangpo Dam"
+            },
+            {
+                "option": "C.",
+                "text": "Rongli Dam"
+            },
+            {
+                "option": "D.",
+                "text": "Teesta -V Dam"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "The festival \"Losar\" is celebrated as?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Flower Festival"
+            },
+            {
+                "option": "B.",
+                "text": "Farmer's New Year"
+            },
+            {
+                "option": "C.",
+                "text": "Tibetan New Year"
+            },
+            {
+                "option": "D.",
+                "text": "Birth of Gautama Buddha"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Paljor Stadium in Sikkim is associated with which Sport?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Football"
+            },
+            {
+                "option": "B.",
+                "text": "Hockey"
+            },
+            {
+                "option": "C.",
+                "text": "Cricket"
+            },
+            {
+                "option": "D.",
+                "text": "Basket Ball"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which Dynasty ruled Nepal from 1642 to 1975?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Pradyota Dynasty"
+            },
+            {
+                "option": "B.",
+                "text": "Nanda Dynasty"
+            },
+            {
+                "option": "C.",
+                "text": "Lepcha Dynasty"
+            },
+            {
+                "option": "D.",
+                "text": "Namgyal Dynasty"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "When is Sikkim State Day celebrated?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "16th November"
+            },
+            {
+                "option": "B.",
+                "text": "16th March"
+            },
+            {
+                "option": "C.",
+                "text": "16th April"
+            },
+            {
+                "option": "D.",
+                "text": "16th May"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Where is India's highest ATM located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Yumthang Valley"
+            },
+            {
+                "option": "B.",
+                "text": "Nathu La Pass"
+            },
+            {
+                "option": "C.",
+                "text": "Tsomgo Lake"
+            },
+            {
+                "option": "D.",
+                "text": "Lachung"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the first Greenfield Airport constructed in the Northeastern Region of India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Bir Tikendrajit International Airport"
+            },
+            {
+                "option": "B.",
+                "text": "Pakyong Airport"
+            },
+            {
+                "option": "C.",
+                "text": "Maharaja Bir Bikram Airport"
+            },
+            {
+                "option": "D.",
+                "text": "Lokpriya Gopinath Bordoloi International Airport"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the second capital of the former Kingdom of Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Gangtok"
+            },
+            {
+                "option": "B.",
+                "text": "Phuntsog"
+            },
+            {
+                "option": "C.",
+                "text": "Rabdentse"
+            },
+            {
+                "option": "D.",
+                "text": "Yuksam"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which district is Pelling Hill Station located in?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "North Sikkim"
+            },
+            {
+                "option": "B.",
+                "text": "South Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "West Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "East Sikkim"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the meaning of \"Saga Dawa\"?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lights"
+            },
+            {
+                "option": "B.",
+                "text": "Sacred Pot"
+            },
+            {
+                "option": "C.",
+                "text": "New Year"
+            },
+            {
+                "option": "D.",
+                "text": "Fourth Month"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which party does Pawan Kumar Chamling belong to?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Indian National Congress"
+            },
+            {
+                "option": "B.",
+                "text": "Bharatiya Janata Party"
+            },
+            {
+                "option": "C.",
+                "text": "Sikkim Democratic Front"
+            },
+            {
+                "option": "D.",
+                "text": "Sikkim Janata Parishad"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which party did Kazi Lhendup Dorjee, the first Chief Minister of Sikkim join after leaving Sikkim Congress?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Indian National Congress"
+            },
+            {
+                "option": "B.",
+                "text": "Sikkim Janata Parishad"
+            },
+            {
+                "option": "C.",
+                "text": "Sikkim Sangram Parishad"
+            },
+            {
+                "option": "D.",
+                "text": "Sikkim Democratic Front"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "In which year did Prem Singh Tamang become the Chief Minister of Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2016"
+            },
+            {
+                "option": "B.",
+                "text": "2017"
+            },
+            {
+                "option": "C.",
+                "text": "2018"
+            },
+            {
+                "option": "D.",
+                "text": "2019"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "When was \"Fambong Lho Wildlife Sanctuary\" established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1974"
+            },
+            {
+                "option": "B.",
+                "text": "1977"
+            },
+            {
+                "option": "C.",
+                "text": "1987"
+            },
+            {
+                "option": "D.",
+                "text": "1984"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which district is Fambong Lho Wildlife Sanctuary located in?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "North Sikkim"
+            },
+            {
+                "option": "B.",
+                "text": "South Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "West Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "East Sikkim"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Who were said to be the original inhabitants of Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lepchas"
+            },
+            {
+                "option": "B.",
+                "text": "Bhutias"
+            },
+            {
+                "option": "C.",
+                "text": "Nepalese"
+            },
+            {
+                "option": "D.",
+                "text": "Limbus"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the first 100% sustainable region in the world?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "Uttarakhand"
+            },
+            {
+                "option": "D.",
+                "text": "Kerala"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Name the Folk Wind Instrument made of Bamboo found in Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Khomok"
+            },
+            {
+                "option": "B.",
+                "text": "Panthong Palit"
+            },
+            {
+                "option": "C.",
+                "text": "Sarenda"
+            },
+            {
+                "option": "D.",
+                "text": "Ektara"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which Famous Personality belongs to Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Somdev Devvarman"
+            },
+            {
+                "option": "B.",
+                "text": "Mary Kom"
+            },
+            {
+                "option": "C.",
+                "text": "Baichung Bhutia"
+            },
+            {
+                "option": "D.",
+                "text": "Dipa Karmakar"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the elevation of Lachung?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "4,700 m"
+            },
+            {
+                "option": "B.",
+                "text": "5,700 m"
+            },
+            {
+                "option": "C.",
+                "text": "2,700 m"
+            },
+            {
+                "option": "D.",
+                "text": "1,700 m"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Where is the headquarters of the district of South Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ravangla"
+            },
+            {
+                "option": "B.",
+                "text": "Namchi"
+            },
+            {
+                "option": "C.",
+                "text": "Sikip"
+            },
+            {
+                "option": "D.",
+                "text": "Jorethang"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is found in Yumthang Valley?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Flower Sanctuary"
+            },
+            {
+                "option": "B.",
+                "text": "Animal Sanctuary"
+            },
+            {
+                "option": "C.",
+                "text": "River"
+            },
+            {
+                "option": "D.",
+                "text": "Mosque"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which district is Dzuluk located in?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "North Sikkim"
+            },
+            {
+                "option": "B.",
+                "text": "South Sikkim"
+            },
+            {
+                "option": "C.",
+                "text": "West Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "East Sikkim"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Where is Zero Point located in Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Thangu Valley"
+            },
+            {
+                "option": "B.",
+                "text": "Nathang Valley"
+            },
+            {
+                "option": "C.",
+                "text": "Yumthang Valley"
+            },
+            {
+                "option": "D.",
+                "text": "Chopta Valley"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the distance between Gangtok to Lachung?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "310 Km"
+            },
+            {
+                "option": "B.",
+                "text": "110 Km"
+            },
+            {
+                "option": "C.",
+                "text": "210 Km"
+            },
+            {
+                "option": "D.",
+                "text": "250 Km"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the approximate distance between Delhi to Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1600 Km"
+            },
+            {
+                "option": "B.",
+                "text": "2600 Km"
+            },
+            {
+                "option": "C.",
+                "text": "2000 Km"
+            },
+            {
+                "option": "D.",
+                "text": "1000 Km"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Who is the first Chairperson of Lokayukta of Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Justice Anand Prakash Subba"
+            },
+            {
+                "option": "B.",
+                "text": "Justice Pratap Krishna Lohara"
+            },
+            {
+                "option": "C.",
+                "text": "Justice Vinod Kumar Sharma"
+            },
+            {
+                "option": "D.",
+                "text": "Justice Uma Nath Singh"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "When was Sikkim Lokayukta formed?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2011"
+            },
+            {
+                "option": "B.",
+                "text": "2012"
+            },
+            {
+                "option": "C.",
+                "text": "2013"
+            },
+            {
+                "option": "D.",
+                "text": "2014"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the recipient of the Padma Shri Award 2022 from Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rinzing Bhutia"
+            },
+            {
+                "option": "B.",
+                "text": "Khandu Wangchuk Bhutia"
+            },
+            {
+                "option": "C.",
+                "text": "Ugyen Tshering Gyatso Bhutia"
+            },
+            {
+                "option": "D.",
+                "text": "Bhaichung Bhutia"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the first recipient of the Padma Bhushan Award from Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nawang Gurung"
+            },
+            {
+                "option": "B.",
+                "text": "Sonam Gyatso"
+            },
+            {
+                "option": "C.",
+                "text": "Triguna Tshering"
+            },
+            {
+                "option": "D.",
+                "text": "Krishna Tshering Lepcha"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the first recipient of the Padma Shri Award from Sikkim?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sonam Wangyal"
+            },
+            {
+                "option": "B.",
+                "text": "Gadul Singh Lama"
+            },
+            {
+                "option": "C.",
+                "text": "Sonam Gyatso"
+            },
+            {
+                "option": "D.",
+                "text": "Phu Dorjee"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "In which year did Baichung Bhutia receive the Padma Shri Award?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2007"
+            },
+            {
+                "option": "B.",
+                "text": "2008"
+            },
+            {
+                "option": "C.",
+                "text": "2009"
+            },
+            {
+                "option": "D.",
+                "text": "2010"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "question": "Arrange the following states of India as per the descending order of their percentage forest cover as per ISFR 2019\n1. Mizoram\n2. Meghalaya\n3. Arunachal Pradesh\n4. Manipur\nChoose the correct option:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1, 4, 3, 2"
+            },
+            {
+                "option": "B.",
+                "text": "1, 3, 2, 4"
+            },
+            {
+                "option": "C.",
+                "text": "2, 1, 3, 4"
+            },
+            {
+                "option": "D.",
+                "text": "3, 2, 4, 1"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Arrange the following states in the descending order of literacy as per the census 2011\n1. Tamil Nadu\n2. Himachal Pradesh\n3. Kerala\n4. Manipur\nChoose the correct option :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1, 2, 3, 4"
+            },
+            {
+                "option": "B.",
+                "text": "3, 2, 1, 4"
+            },
+            {
+                "option": "C.",
+                "text": "3, 1, 2, 4"
+            },
+            {
+                "option": "D.",
+                "text": "1, 4, 2, 3"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Arrange the following states as per the descending order of the increase of urban growth percentage from 1960 to 2011\n1. Kerala\n2. Nagaland\n3. Manipur\nChoose the correct option :",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2, 3, 1"
+            },
+            {
+                "option": "B.",
+                "text": "2, 1, 3"
+            },
+            {
+                "option": "C.",
+                "text": "3, 1, 2"
+            },
+            {
+                "option": "D.",
+                "text": "3, 2, 1"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "An Indian citizen needs Inner Line Permit to visit parts of which of the below states?\n1. Arunachal Pradesh\n2. Mizoram\n3. Tripura\n4. Manipur\nSelect the correct option:",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1 and 2 only"
+            },
+            {
+                "option": "B.",
+                "text": "1, 2 and 4 only"
+            },
+            {
+                "option": "C.",
+                "text": "2, 3 and 4 only"
+            },
+            {
+                "option": "D.",
+                "text": "1, 2, 3 and 4"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "According to the 2011 census, the tribal population in Manipur is comprised of",
+        "options": [
+            {
+                "option": "A.",
+                "text": "35%"
+            },
+            {
+                "option": "B.",
+                "text": "38%"
+            },
+            {
+                "option": "C.",
+                "text": "41%"
+            },
+            {
+                "option": "D.",
+                "text": "45%"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "'Lai Haraoba' is the folk dance of which state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Manipur"
+            },
+            {
+                "option": "B.",
+                "text": "Haryana"
+            },
+            {
+                "option": "C.",
+                "text": "Punjab"
+            },
+            {
+                "option": "D.",
+                "text": "Arunachal Pradesh"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    }
+]

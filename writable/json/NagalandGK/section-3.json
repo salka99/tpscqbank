@@ -1,0 +1,1911 @@
+[
+    {
+        "question": "Where is the Headquarters of Nagaland Baptist Church Council?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Kohima"
+            },
+            {
+                "option": "B.",
+                "text": "Dimapur"
+            },
+            {
+                "option": "C.",
+                "text": "Mokokchung"
+            },
+            {
+                "option": "D.",
+                "text": "Wokha"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which religion is a majority in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Hinduism"
+            },
+            {
+                "option": "B.",
+                "text": "Buddhism"
+            },
+            {
+                "option": "C.",
+                "text": "Christianity"
+            },
+            {
+                "option": "D.",
+                "text": "Islam"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which Indian state is known as the only predominantly Baptist state in the world?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Nagaland"
+            },
+            {
+                "option": "C.",
+                "text": "Mizoram"
+            },
+            {
+                "option": "D.",
+                "text": "Manipur"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the Speaker of the Nagaland Legislative Assembly (2022)?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Kiyanilie Peseyie"
+            },
+            {
+                "option": "B.",
+                "text": "Chotisuh Sazo"
+            },
+            {
+                "option": "C.",
+                "text": "T. N. Angami"
+            },
+            {
+                "option": "D.",
+                "text": "Sharingain Longkumer"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Who is the present Deputy Leader of the Nagaland Legislative Assembly (2022)?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Yanthungo Patton"
+            },
+            {
+                "option": "B.",
+                "text": "Imtikumzuk Longkumer"
+            },
+            {
+                "option": "C.",
+                "text": "Neiphiu Rio"
+            },
+            {
+                "option": "D.",
+                "text": "Zhaleo Rio"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Where is the High Court of Kohima Bench located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tripura High Court"
+            },
+            {
+                "option": "B.",
+                "text": "Manipur High Court"
+            },
+            {
+                "option": "C.",
+                "text": "Gauhati High Court"
+            },
+            {
+                "option": "D.",
+                "text": "Andhra Pradesh High Court"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who is the Chief Justice of Gauhati High Court?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ajai Lamba"
+            },
+            {
+                "option": "B.",
+                "text": "Sudhanshu Dhulia"
+            },
+            {
+                "option": "C.",
+                "text": "Sharad Arvind Bobde"
+            },
+            {
+                "option": "D.",
+                "text": "K. G. Balakrishnan"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was the last Nagaland Legislative Assembly election held in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "27 February 2016"
+            },
+            {
+                "option": "B.",
+                "text": "27 February 2017"
+            },
+            {
+                "option": "C.",
+                "text": "27 February 2018"
+            },
+            {
+                "option": "D.",
+                "text": "27 February 2019"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "C. M. Chang, former Cabinet Minister of Nagaland held which Department before his death in October 2020?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Agriculture"
+            },
+            {
+                "option": "B.",
+                "text": "Forest"
+            },
+            {
+                "option": "C.",
+                "text": "Transport"
+            },
+            {
+                "option": "D.",
+                "text": "Land revenue"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the first Chairman of Kohima Municipal Council?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Yusuf Ali"
+            },
+            {
+                "option": "B.",
+                "text": "John Bosco Jasokie"
+            },
+            {
+                "option": "C.",
+                "text": "Kovi Meyase"
+            },
+            {
+                "option": "D.",
+                "text": "Neilhouzhu Kire"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When did Kohima Town Committee become Kohima Municipal Council?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2004"
+            },
+            {
+                "option": "B.",
+                "text": "2005"
+            },
+            {
+                "option": "C.",
+                "text": "2006"
+            },
+            {
+                "option": "D.",
+                "text": "2007"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When did the Kohima Town Council (KTC) come into existence?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1955"
+            },
+            {
+                "option": "B.",
+                "text": "1957"
+            },
+            {
+                "option": "C.",
+                "text": "1959"
+            },
+            {
+                "option": "D.",
+                "text": "1961"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which political party of Nagaland introduced the first Chief Minister of Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Indian National Congress"
+            },
+            {
+                "option": "B.",
+                "text": "Nagaland Nationalist Organisation"
+            },
+            {
+                "option": "C.",
+                "text": "United Democratic Front"
+            },
+            {
+                "option": "D.",
+                "text": "Naga National Democratic Party"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the total area of Kohima?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "15 Km2"
+            },
+            {
+                "option": "B.",
+                "text": "20 Km2"
+            },
+            {
+                "option": "C.",
+                "text": "25 Km2"
+            },
+            {
+                "option": "D.",
+                "text": "30 Km2"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was the town of Kohima founded?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1678"
+            },
+            {
+                "option": "B.",
+                "text": "1778"
+            },
+            {
+                "option": "C.",
+                "text": "1878"
+            },
+            {
+                "option": "D.",
+                "text": "1978"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "In which year was Kohima officially declared to become the capital of Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1960"
+            },
+            {
+                "option": "B.",
+                "text": "1963"
+            },
+            {
+                "option": "C.",
+                "text": "1967"
+            },
+            {
+                "option": "D.",
+                "text": "1969"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Where is the Hornbill Festival held every year in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Hukhai"
+            },
+            {
+                "option": "B.",
+                "text": "Kisama"
+            },
+            {
+                "option": "C.",
+                "text": "Khehuto"
+            },
+            {
+                "option": "D.",
+                "text": "Khuhoi"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which National Highway passes through Kohima?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "NH 2"
+            },
+            {
+                "option": "B.",
+                "text": "NH 4"
+            },
+            {
+                "option": "C.",
+                "text": "NH 129"
+            },
+            {
+                "option": "D.",
+                "text": "NH 202"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which National Highway passes through Dimapur?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "NH 27"
+            },
+            {
+                "option": "B.",
+                "text": "NH 29"
+            },
+            {
+                "option": "C.",
+                "text": "NH 602"
+            },
+            {
+                "option": "D.",
+                "text": "Nh 702"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the total length of State Highways in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1295 Km"
+            },
+            {
+                "option": "B.",
+                "text": "1095 Km"
+            },
+            {
+                "option": "C.",
+                "text": "995 Km"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the IATA of Dimapur Airport?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "IXA"
+            },
+            {
+                "option": "B.",
+                "text": "DMU"
+            },
+            {
+                "option": "C.",
+                "text": "DIM"
+            },
+            {
+                "option": "D.",
+                "text": "DM"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was Nagaland first connected to the railway line?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1900"
+            },
+            {
+                "option": "B.",
+                "text": "1903"
+            },
+            {
+                "option": "C.",
+                "text": "1906"
+            },
+            {
+                "option": "D.",
+                "text": "1909"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "How many railway stations are in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "One"
+            },
+            {
+                "option": "B.",
+                "text": "Two"
+            },
+            {
+                "option": "C.",
+                "text": "Three"
+            },
+            {
+                "option": "D.",
+                "text": "Four"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Who laid the foundation stone of the 88-km rail line to bring Kohima (Dhansiri-Zubza line), the capital of Nagaland on the railway map of India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ashok Gajapathi Raju"
+            },
+            {
+                "option": "B.",
+                "text": "Suresh Prabhu"
+            },
+            {
+                "option": "C.",
+                "text": "Jyotiraditya Scindia"
+            },
+            {
+                "option": "D.",
+                "text": "Hardeep Singh Puri"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "In how many phases will the railway project in Nagaland be executed?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Two Phases"
+            },
+            {
+                "option": "B.",
+                "text": "Three Phases"
+            },
+            {
+                "option": "C.",
+                "text": "Four Phases"
+            },
+            {
+                "option": "D.",
+                "text": "Five Phases"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the motto of Nagaland University?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Labour Triumphs"
+            },
+            {
+                "option": "B.",
+                "text": "By Labour and Honour"
+            },
+            {
+                "option": "C.",
+                "text": "Work Maketh A Man"
+            },
+            {
+                "option": "D.",
+                "text": "Success Is Born Out Of Action"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "How many Autonomous Colleges are in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Two"
+            },
+            {
+                "option": "B.",
+                "text": "Three"
+            },
+            {
+                "option": "C.",
+                "text": "Four"
+            },
+            {
+                "option": "D.",
+                "text": "Five"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the motto of the National Institute of Technology Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Excellence In Action"
+            },
+            {
+                "option": "B.",
+                "text": "Education Is Power"
+            },
+            {
+                "option": "C.",
+                "text": "Truth Alone Triumphs"
+            },
+            {
+                "option": "D.",
+                "text": "Hard Work And Consistent Efforts"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was the National Institute of Technology Nagaland established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2006"
+            },
+            {
+                "option": "B.",
+                "text": "2008"
+            },
+            {
+                "option": "C.",
+                "text": "2010"
+            },
+            {
+                "option": "D.",
+                "text": "2012"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "When was Nagaland University established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1984"
+            },
+            {
+                "option": "B.",
+                "text": "1989"
+            },
+            {
+                "option": "C.",
+                "text": "1991"
+            },
+            {
+                "option": "D.",
+                "text": "1994"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Who is the present Vice-Chancellor of Nagaland Univeristy (2022)?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "D. N. Buragohain"
+            },
+            {
+                "option": "B.",
+                "text": "Pardeshi Lal"
+            },
+            {
+                "option": "C.",
+                "text": "K. R. S. Sambasiva Rao"
+            },
+            {
+                "option": "D.",
+                "text": "Pratap Jyoti Handique"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was Hari Prasad Gorkha Rai, a well-known Indian Nagaland-based Nepali language writer felicitated by Assom Sahitya Sabha?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1944"
+            },
+            {
+                "option": "B.",
+                "text": "1975"
+            },
+            {
+                "option": "C.",
+                "text": "1987"
+            },
+            {
+                "option": "D.",
+                "text": "1989"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which Indian state is the Aki Kiti, a semi-contact combat sport belongs to?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nagaland"
+            },
+            {
+                "option": "B.",
+                "text": "Manipur"
+            },
+            {
+                "option": "C.",
+                "text": "Madhya Pradesh"
+            },
+            {
+                "option": "D.",
+                "text": "Telangana"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "In which district is the Ntangki National Park of Nagaland located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Phek District"
+            },
+            {
+                "option": "B.",
+                "text": "Kohima District"
+            },
+            {
+                "option": "C.",
+                "text": "Tuensang District"
+            },
+            {
+                "option": "D.",
+                "text": "Peren District"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "When was Ntangki National Park established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1923"
+            },
+            {
+                "option": "B.",
+                "text": "1927"
+            },
+            {
+                "option": "C.",
+                "text": "1975"
+            },
+            {
+                "option": "D.",
+                "text": "1993"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Where is the headquarter of the National Research Centre on Mithun located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Dimapur"
+            },
+            {
+                "option": "B.",
+                "text": "Kohima"
+            },
+            {
+                "option": "C.",
+                "text": "Peren"
+            },
+            {
+                "option": "D.",
+                "text": "Mokokchung"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "When was National Research Centre on Mithun (NRCM) established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1966"
+            },
+            {
+                "option": "B.",
+                "text": "1977"
+            },
+            {
+                "option": "C.",
+                "text": "1988"
+            },
+            {
+                "option": "D.",
+                "text": "1998"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Tetseo Sisters are a group of how many members?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Two Members"
+            },
+            {
+                "option": "B.",
+                "text": "Three Members"
+            },
+            {
+                "option": "C.",
+                "text": "Four Members"
+            },
+            {
+                "option": "D.",
+                "text": "Five Members"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Tetseo Sisters belongs to which Naga Tribe?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Yimchunger Tribe"
+            },
+            {
+                "option": "B.",
+                "text": "Chakhesang Tribe"
+            },
+            {
+                "option": "C.",
+                "text": "Pochury Tribe"
+            },
+            {
+                "option": "D.",
+                "text": "Zeme-Liangmai Tribe"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the first Member of Parliament (M. P.) from Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "T. Aliba Imti"
+            },
+            {
+                "option": "B.",
+                "text": "Khyomo Lotha"
+            },
+            {
+                "option": "C.",
+                "text": "Melhupra Vero"
+            },
+            {
+                "option": "D.",
+                "text": "Hokishe Sema"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who is the present Member of Parliament from Nagaland (2022)?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "C. Apok Jamir"
+            },
+            {
+                "option": "B.",
+                "text": "K. G. Kenye"
+            },
+            {
+                "option": "C.",
+                "text": "H. Khekiho Zhimomi"
+            },
+            {
+                "option": "D.",
+                "text": "T. R. Zeliang"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Where is Rangapahar Reserve Forest located in Dimapur?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Kohima"
+            },
+            {
+                "option": "B.",
+                "text": "Dimapur"
+            },
+            {
+                "option": "C.",
+                "text": "Noklak"
+            },
+            {
+                "option": "D.",
+                "text": "Pangti"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which church is considered to be one of the largest church buildings in Asia?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Santhome Church"
+            },
+            {
+                "option": "B.",
+                "text": "Morning Star Church"
+            },
+            {
+                "option": "C.",
+                "text": "Sumi Baptist Church"
+            },
+            {
+                "option": "D.",
+                "text": "St. Joseph's Cathedral"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "In which district of Nagaland is the Sumi Baptist Church located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Peren District"
+            },
+            {
+                "option": "B.",
+                "text": "Longleng District"
+            },
+            {
+                "option": "C.",
+                "text": "Mokokchung District"
+            },
+            {
+                "option": "D.",
+                "text": "Zunheboto District"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the largest National Park\/Sanctuary of Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Fakim Wildlife Sanctuary"
+            },
+            {
+                "option": "B.",
+                "text": "Singphan Wildlife Sanctuary"
+            },
+            {
+                "option": "C.",
+                "text": "Ntangki National Park"
+            },
+            {
+                "option": "D.",
+                "text": "Puliebadze Wildlife Sanctuary"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is Mon District of Nagaland famous for?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Folk Music"
+            },
+            {
+                "option": "B.",
+                "text": "Handicrafts"
+            },
+            {
+                "option": "C.",
+                "text": "Bee Culture"
+            },
+            {
+                "option": "D.",
+                "text": "Bisons"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which Constitution Amendment Act provided reservation of seats in the Lok Sabha for the Scheduled Tribes in Nagaland, Meghalaya, Mizoram, and Arunachal Pradesh?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "53th"
+            },
+            {
+                "option": "B.",
+                "text": "55th"
+            },
+            {
+                "option": "C.",
+                "text": "57th"
+            },
+            {
+                "option": "D.",
+                "text": "59th"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "From which constituency Neiphiu Rio was elected as the Chief Minister?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Northern Angami-I"
+            },
+            {
+                "option": "B.",
+                "text": "Northern Angami-II"
+            },
+            {
+                "option": "C.",
+                "text": "Peren"
+            },
+            {
+                "option": "D.",
+                "text": "Dimapur-II"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Under which article of the Indian Constitution does Nagaland have special provisions?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "371 A"
+            },
+            {
+                "option": "B.",
+                "text": "371 B"
+            },
+            {
+                "option": "C.",
+                "text": "371 C"
+            },
+            {
+                "option": "D.",
+                "text": "371 D"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "\"The Development of Tribal Circuit: Peren-Kohima-Wokha Project\" falls under the ambit of which Central Government Ministry?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ministry of Tribal Affairs"
+            },
+            {
+                "option": "B.",
+                "text": "Ministry of Tourism"
+            },
+            {
+                "option": "C.",
+                "text": "Ministry of Cultural Affairs"
+            },
+            {
+                "option": "D.",
+                "text": "Ministry of Home Affairs"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the first Lokayukta of Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Justice Ajit Singh"
+            },
+            {
+                "option": "B.",
+                "text": "Justice Vinod Kumar Sharma"
+            },
+            {
+                "option": "C.",
+                "text": "Justice Subal Baidya"
+            },
+            {
+                "option": "D.",
+                "text": "Justice Uma Nath Singh"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which Indian state held the Hornbill Festival for the first time?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tripura"
+            },
+            {
+                "option": "B.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "C.",
+                "text": "Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "Mizoram"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Nagaland became the ____ state of India on 1st December 1963?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "16th"
+            },
+            {
+                "option": "B.",
+                "text": "18th"
+            },
+            {
+                "option": "C.",
+                "text": "19th"
+            },
+            {
+                "option": "D.",
+                "text": "22nd"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "What is the elevation of Mol Len mountain?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2,088 m"
+            },
+            {
+                "option": "B.",
+                "text": "3,088 m"
+            },
+            {
+                "option": "C.",
+                "text": "4,088 m"
+            },
+            {
+                "option": "D.",
+                "text": "5,088 m"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was Doyang Hydro Electric Project commissioned?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1998"
+            },
+            {
+                "option": "B.",
+                "text": "2000"
+            },
+            {
+                "option": "C.",
+                "text": "2003"
+            },
+            {
+                "option": "D.",
+                "text": "2007"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "How many Commonwealth burials of the Second World War at the Kohima War Cemetery?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1082"
+            },
+            {
+                "option": "B.",
+                "text": "1917"
+            },
+            {
+                "option": "C.",
+                "text": "1946"
+            },
+            {
+                "option": "D.",
+                "text": "1420"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Doyang Dam was built on which river?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Doyang River"
+            },
+            {
+                "option": "B.",
+                "text": "Dhansiri River"
+            },
+            {
+                "option": "C.",
+                "text": "Kushiyara River"
+            },
+            {
+                "option": "D.",
+                "text": "Barak River"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the longest river in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Kushiyara River"
+            },
+            {
+                "option": "B.",
+                "text": "Dhansiri River"
+            },
+            {
+                "option": "C.",
+                "text": "Barak River"
+            },
+            {
+                "option": "D.",
+                "text": "Doyang River"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "What is the length of the Dhansiri River?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "152 km"
+            },
+            {
+                "option": "B.",
+                "text": "252 km"
+            },
+            {
+                "option": "C.",
+                "text": "352  km"
+            },
+            {
+                "option": "D.",
+                "text": "452 km"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "How many National Parks are in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "One"
+            },
+            {
+                "option": "B.",
+                "text": "Two"
+            },
+            {
+                "option": "C.",
+                "text": "Three"
+            },
+            {
+                "option": "D.",
+                "text": "Six"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the largest Wildlife Sanctuary in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Fakim Wildlife Sanctuary"
+            },
+            {
+                "option": "B.",
+                "text": "Puliebadze Wildlife Sanctuary"
+            },
+            {
+                "option": "C.",
+                "text": "Rangapahar Wildlife Sanctuary"
+            },
+            {
+                "option": "D.",
+                "text": "Singphan Wildlife Sanctuary"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the smallest Wildlife Sanctuary in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Fakim Wildlife Sanctuary"
+            },
+            {
+                "option": "B.",
+                "text": "Puliebadze Wildlife Sanctuary"
+            },
+            {
+                "option": "C.",
+                "text": "Rangapahar Wildlife Sanctuary"
+            },
+            {
+                "option": "D.",
+                "text": "Singphan Wildlife Sanctuary"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "When was Singphan Wildlife Sanctuary established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2003"
+            },
+            {
+                "option": "B.",
+                "text": "2007"
+            },
+            {
+                "option": "C.",
+                "text": "2009"
+            },
+            {
+                "option": "D.",
+                "text": "2011"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who was the first Naga Martyr to be killed by the Indian army?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "S. C. Jamir"
+            },
+            {
+                "option": "B.",
+                "text": "P. Shilu Ao"
+            },
+            {
+                "option": "C.",
+                "text": "Zasibito Nagi"
+            },
+            {
+                "option": "D.",
+                "text": "Vizadel Sakhrie"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who established the Naga Hills District Tribal Council?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "J. H. Hutton"
+            },
+            {
+                "option": "B.",
+                "text": "C. R. Pawsney"
+            },
+            {
+                "option": "C.",
+                "text": "T. C. Hodson"
+            },
+            {
+                "option": "D.",
+                "text": "J. P. Mills"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "When was Naga Hills District Tribal Council established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1943"
+            },
+            {
+                "option": "B.",
+                "text": "1945"
+            },
+            {
+                "option": "C.",
+                "text": "1947"
+            },
+            {
+                "option": "D.",
+                "text": "1949"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who was the first speaker of the Nagaland Legislative Assembly?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Chotisuh Sazo"
+            },
+            {
+                "option": "B.",
+                "text": "T. N. Angami"
+            },
+            {
+                "option": "C.",
+                "text": "Vikho-o Yhoshu"
+            },
+            {
+                "option": "D.",
+                "text": "Kiyanilie Peseyie"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the Director-General of Police (DGP) of Nagaland (2022)?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "S. R. Saravanan"
+            },
+            {
+                "option": "B.",
+                "text": "T. John Longkumer"
+            },
+            {
+                "option": "C.",
+                "text": "Sandeep M. Tamgadge"
+            },
+            {
+                "option": "D.",
+                "text": "Renchamo P. Kikon"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Mokokchung is the cultural nerve center of the ____ people?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Angami"
+            },
+            {
+                "option": "B.",
+                "text": "Ao"
+            },
+            {
+                "option": "C.",
+                "text": "Chakhesang"
+            },
+            {
+                "option": "D.",
+                "text": "Chang"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which athlete from Nagaland represented India in archery in the 2012 Summer Olympics?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Talimeren Ao"
+            },
+            {
+                "option": "B.",
+                "text": "Hitova Ayemi"
+            },
+            {
+                "option": "C.",
+                "text": "Chekrovolu Swuro"
+            },
+            {
+                "option": "D.",
+                "text": "Khwetelhi Thopi"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who was the first Director-General of Police (DGP) of Nagaland Police?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Neiba Newmai"
+            },
+            {
+                "option": "B.",
+                "text": "Videlalie Zashumo"
+            },
+            {
+                "option": "C.",
+                "text": "K. K. Zutshi"
+            },
+            {
+                "option": "D.",
+                "text": "Soyimna Aier Koza"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "NL-01 is the vehicle registration code for which district in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Kohima"
+            },
+            {
+                "option": "B.",
+                "text": "Mokokchung"
+            },
+            {
+                "option": "C.",
+                "text": "Tuensang"
+            },
+            {
+                "option": "D.",
+                "text": "Wokha"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "What is the nickname of Zunheboto town?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Land Of Birds"
+            },
+            {
+                "option": "B.",
+                "text": "Land Of Churches"
+            },
+            {
+                "option": "C.",
+                "text": "Land Of Warriors"
+            },
+            {
+                "option": "D.",
+                "text": "Land Of Crafts"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which river of Nagaland is also known as the River of salt?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Zungki River"
+            },
+            {
+                "option": "B.",
+                "text": "Dhansiri River"
+            },
+            {
+                "option": "C.",
+                "text": "Miki River"
+            },
+            {
+                "option": "D.",
+                "text": "Tizu River"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the altitude of the Dzuko Valley?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1452 m"
+            },
+            {
+                "option": "B.",
+                "text": "2452 m"
+            },
+            {
+                "option": "C.",
+                "text": "3452 m"
+            },
+            {
+                "option": "D.",
+                "text": "4452 m"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "In which district is Dzuko Valley located in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Dimapur District"
+            },
+            {
+                "option": "B.",
+                "text": "Peren District"
+            },
+            {
+                "option": "C.",
+                "text": "Kohima District"
+            },
+            {
+                "option": "D.",
+                "text": "Phek District"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the border length of Nagaland with Myanmar?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "415 Km"
+            },
+            {
+                "option": "B.",
+                "text": "315 Km"
+            },
+            {
+                "option": "C.",
+                "text": "215 Km"
+            },
+            {
+                "option": "D.",
+                "text": "115 Km"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "How many new districts were created on 18 December 2021?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2 Districts"
+            },
+            {
+                "option": "B.",
+                "text": "3 Districts"
+            },
+            {
+                "option": "C.",
+                "text": "4 Districts"
+            },
+            {
+                "option": "D.",
+                "text": "5 Districts"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "After the creation of 3 new districts, what is the total number of districts in Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "12 Districts"
+            },
+            {
+                "option": "B.",
+                "text": "13 Districts"
+            },
+            {
+                "option": "C.",
+                "text": "14 Districts"
+            },
+            {
+                "option": "D.",
+                "text": "15 Districts"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which district was created on 19th January 2022?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Shamator District"
+            },
+            {
+                "option": "B.",
+                "text": "Niuland District"
+            },
+            {
+                "option": "C.",
+                "text": "Chumoukedima District"
+            },
+            {
+                "option": "D.",
+                "text": "Tseminyu District"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "After the creation of the Shamator District, what is the total number of Districts of Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "14 Districts"
+            },
+            {
+                "option": "B.",
+                "text": "15 Districts"
+            },
+            {
+                "option": "C.",
+                "text": "16 Districts"
+            },
+            {
+                "option": "D.",
+                "text": "17 Districts"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which Naga tribe was approved by the Cabinet on the day of creation of Shamator District?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sangtam"
+            },
+            {
+                "option": "B.",
+                "text": "Pochury"
+            },
+            {
+                "option": "C.",
+                "text": "Tikhir"
+            },
+            {
+                "option": "D.",
+                "text": "Poumai"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who is the recipient of the Padma Shri Award 2022 from Nagaland?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Lentina Ao Thakkar"
+            },
+            {
+                "option": "B.",
+                "text": "T. Senka Ao"
+            },
+            {
+                "option": "C.",
+                "text": "Piyong Temjen Jamir"
+            },
+            {
+                "option": "D.",
+                "text": "Tokheho Sema"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    }
+]

@@ -1,0 +1,2302 @@
+[
+    {
+        "question": "His son-in-law wants . . . . . . . . glass of . . . . . . . . milk.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, a"
+            },
+            {
+                "option": "B.",
+                "text": "a, the"
+            },
+            {
+                "option": "C.",
+                "text": "a, no article"
+            },
+            {
+                "option": "D.",
+                "text": "the, a"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, 'glass' is a general noun and indefinite article is used. 'A' article will be used because 'glass' begins with consonant sound. No article will be used in the second blank as there is a preposition 'of' before the blank."
+    },
+    {
+        "question": "The car was traveling at more than 90 miles . . . . . . . . hour when the accident happened.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Use 'an' before words such as \"hour\" which sound like they start with a vowel even if the first letter is a consonant. Also use 'an' before letters and numbers which sound like they begin with a vowel, such as \"F\" or \"8\"."
+    },
+    {
+        "question": "We had . . . . . . . . very nice meal. . . . . . . . . vegetables were especially good.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, a"
+            },
+            {
+                "option": "B.",
+                "text": "a, the"
+            },
+            {
+                "option": "C.",
+                "text": "the, a"
+            },
+            {
+                "option": "D.",
+                "text": "the, the"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The indefinite article 'a' is used before unspecific singular nouns used in a general sense and beginning with a consonant sound. Definite article 'the' is used before specific things. Here, 'meal' is mentioned in a general sense but 'vegetables' are mentioned specifically as those that were part of the meal."
+    },
+    {
+        "question": ". . . . . . . . little information he had was not quite reliable.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, specific 'little information' is talked about. Hence, definite article 'the' will be used."
+    },
+    {
+        "question": ". . . . . . . . summer of last year was very hot.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The blank will take 'the' article as it is specified 'summer of last year'."
+    },
+    {
+        "question": "Tom is studying . . . . . . . . English and . . . . . . . . Physics.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "the, the"
+            },
+            {
+                "option": "B.",
+                "text": "the, no article"
+            },
+            {
+                "option": "C.",
+                "text": "no article, no article"
+            },
+            {
+                "option": "D.",
+                "text": "no article, the"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Generally, articles are not used before proper nouns. 'English' and 'Physics' are the proper names of subjects. Hence, no articles will be used and option C is correct."
+    },
+    {
+        "question": ". . . . . . . . problem of fundamental importance for . . . . . . . . developing countries is that of slowing down . . . . . . . . population growth.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "no article, the, no article"
+            },
+            {
+                "option": "B.",
+                "text": "a, the, no article"
+            },
+            {
+                "option": "C.",
+                "text": "a, no article, no article"
+            },
+            {
+                "option": "D.",
+                "text": "the, the, the"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The first blank shall take 'a' as the sentence talks of only one 'problem'. The second blank shall take 'the' as it is followed by an adjective + a plural noun. The third blank won't take any article as 'population growth' is adjective + an abstract noun."
+    },
+    {
+        "question": "The heart pumps . . . . . . . . blood through the body.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is required."
+    },
+    {
+        "question": "English is considered as one of . . . . . . . . easiest subjects.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Option C is correct as 'The' is used with words with superlatives. 'Easiest' is superlative."
+    },
+    {
+        "question": "Did you get married after leaving . . . . . . . . University?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, the sentence talks about specific place 'University'. Since we are referring to specific things, we need to use the definite article 'the'."
+    },
+    {
+        "question": "He is . . . . . . . . best employee of the month.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Option C is correct as 'The' is used with words with superlatives. 'Best' is superlative."
+    },
+    {
+        "question": "When we read about . . . . . . . . lives of . . . . . . . . great, we can catch their courage as if by . . . . . . . . contagion.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "no article, the, no article"
+            },
+            {
+                "option": "B.",
+                "text": "the, no article, no article"
+            },
+            {
+                "option": "C.",
+                "text": "the, no article, a"
+            },
+            {
+                "option": "D.",
+                "text": "the, the, no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: The first and second blank shall take 'the' as the sentence talks about a class of people (great) and their lives. The third blank won't take an article as 'contagion' is an abstract noun."
+    },
+    {
+        "question": "Those are . . . . . . . . nice shoes. Where did you get them?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is used before plural countable nouns used in a general sense. 'Shoes' is a plural countable noun and is used in a general sense in this sentence."
+    },
+    {
+        "question": "They began to fall on the  ground in . . . . . . . . heaps.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is required."
+    },
+    {
+        "question": "He is . . . . . . . . European.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'European' starts with a vowel but while pronouncing, we say 'Yu-ro-pi-un.' Hence, it has a consonant sound and not a vowel sound. Thus we can say 'a European'."
+    },
+    {
+        "question": "Mahatma Gandhi lived for . . . . . . . . pure cause.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A No explanation is given for this question Let's Discuss on Board"
+    },
+    {
+        "question": "I'm sorry. I didn't mean to do that. It was . . . . . . . . mistake.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'A' is used before unspecific\/general, singular nouns which begin with a consonant sound. The sentence is referring to an unspecific 'mistake'. Therefore, the correct article is 'a'."
+    },
+    {
+        "question": "I don't like . . . . . . . . dogs, but I like my brother's dog.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is required."
+    },
+    {
+        "question": ". . . . . . . . Corsica is an island in . . . . . . . . Mediterranean sea.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "the, the"
+            },
+            {
+                "option": "B.",
+                "text": "no article, no article"
+            },
+            {
+                "option": "C.",
+                "text": "no article, the"
+            },
+            {
+                "option": "D.",
+                "text": "the, no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Corsica' is a proper noun and no article will be used before it. In the second blank 'the' article will be used because a specific location is mentioned i.e. 'Mediterranean sea'."
+    },
+    {
+        "question": "Has . . . . . . . . postman brought any letter for me today?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, the speaker is talking about specific 'postman'. Hence, article 'the' will be used."
+    },
+    {
+        "question": "It took us . . . . . . . . hour and . . . . . . . . half to do shopping and we got . . . . . . . . home at 4.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "an, a, no article"
+            },
+            {
+                "option": "B.",
+                "text": "the, an, the"
+            },
+            {
+                "option": "C.",
+                "text": "on, the, the"
+            },
+            {
+                "option": "D.",
+                "text": "an, the, a"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: In the first blank, article \"an\" will be used because 'hour' starts with a vowel sound. Similarly, in the second blank, article \"a\" will be used because article \"a\" is used when the speaker is making a general statement and the noun is having a consonant sound. In the third blank, \"no article\" or \"zero article\" because 'no article' is preceded when preposition like 'of' or 'at' is used."
+    },
+    {
+        "question": "What are . . . . . . . . largest animals in the sea?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Option C is correct as 'The' is used with words with superlatives. 'Largest' is superlative."
+    },
+    {
+        "question": ". . . . . . . . Russians drink Vodka.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is required."
+    },
+    {
+        "question": "I went to . . . . . . . . USA when I was 5 years old.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'The' is used before the plural forms of names of the countries\/states. For example, 'The Netherlands, The United States of America.' The USA is a combination of states and hence we use 'The' before 'USA'."
+    },
+    {
+        "question": "There is . . . . . . . . owl on the branch of the tree.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'A' and 'An' are indefinite articles and are used before singular countable nouns. 'A' is used before words which begin with a consonant sound. 'An' is used before words which begin with a vowel sound. In the given sentence, the word 'owl' begins with a vowel sound."
+    },
+    {
+        "question": ". . . . . . . . West End is . . . . . . . . richest part of . . . . . . . . capital.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, an, the"
+            },
+            {
+                "option": "B.",
+                "text": "the, a, a"
+            },
+            {
+                "option": "C.",
+                "text": "the, the, the"
+            },
+            {
+                "option": "D.",
+                "text": "the, no article, the"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: In the first blank, article \"the\" will be used because \"West End\" is a definite place. In the second blank, article \"the\" will be used because article \"the\" is used with 'superlatives'. In the third blank, article \"the\" will be used because 'capital' is a definite place."
+    },
+    {
+        "question": ". . . . . . . . bravery of Lakshmi Bai is praiseworthy.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The given sentence talks about 'bravery' of Lakshmi Bai being praiseworthy. When a particular noun is being used with an adjective, article 'the' is supposed to be used before the adjective to indicate specificity. So, here the adjective is 'bravery' and the noun is 'Lakshmi Bai'. So, the article to fill in the blank is 'the'."
+    },
+    {
+        "question": "India is one of . . . . . . . . most industrial countries in Asia.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Option C is correct as 'The' is used with words with superlatives. 'Most' is superlative."
+    },
+    {
+        "question": "Excuse me, can I ask you . . . . . . . . question?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: The noun here is nonspecific and singular, the 'question' could be any question, not a particular one. Hence we use indefinite article, particularly 'a', since the noun begins with a consonant."
+    },
+    {
+        "question": "Rohit is . . . . . . . . excellent dancer.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "none of the above"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Here, the sentence talks about the 'dancer' as general class of people like 'Rohit'. Since we are referring to general things, we need to use the indefinite article 'a\/an'. The word 'excellent' starts with a vowel sound and therefore 'an' will be used."
+    },
+    {
+        "question": "He is . . . . . . . . Eye specialist.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Here, the sentence talks about the 'eye specialist' as general class of people. Since we are referring to general things, we need to use the indefinite article 'a\/an'. The word 'eye' starts with a vowel sound and therefore 'an' will be used."
+    },
+    {
+        "question": "It is . . . . . . . . good practice to help . . . . . . . . poor and needy.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "the, the"
+            },
+            {
+                "option": "B.",
+                "text": "a, the"
+            },
+            {
+                "option": "C.",
+                "text": "the, a"
+            },
+            {
+                "option": "D.",
+                "text": "a, a"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The first blank will take 'a' because 'good practice' is used in a general statement. In the second blank, the words, 'poor' and 'needy' are adjectives. However, they are also sometimes used as nouns to refer to the entire class of people who are 'poor' and 'needy' respectively. Hence, the definite article, 'the' is used before both these nouns."
+    },
+    {
+        "question": "Swimming is . . . . . . . . good exercise.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "none of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: There are other good exercises as well. Swimming is one of them. Hence, indefinite article will be used. The word 'good' starts with consonant sound and 'a' article will be used."
+    },
+    {
+        "question": "I saw . . . . . . . . European in a temple.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'European' starts with a vowel but while pronouncing, we say 'Yu-ro-pi-un.' Hence, it has a consonant sound and not a vowel sound. Thus we can say 'a European'."
+    },
+    {
+        "question": "Sir C. V. Raman is . . . . . . . . Newton of India.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: As 'C. V. Raman' is compared with a specific person 'Newton', 'the' article will be used."
+    },
+    {
+        "question": "What was life like before . . . . . . . . computer?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, specific device 'computer' is mentioned. Hence, 'the' article will be used."
+    },
+    {
+        "question": "Los Angeles has . . . . . . . . ideal climate.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Climate' is something general and unspecific. Therefore indefinite article will be used. As 'ideal' begins with vowel sound 'an' article is the correct answer."
+    },
+    {
+        "question": "Sivakumar is . . . . . . . . engineer.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Here, 'Engineer' is a general class of people and therefore indefinite article will be used. 'Engineer' starts with vowel sound. 'An' article will be used."
+    },
+    {
+        "question": "We were very unfortunate. We had . . . . . . . . bad luck.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is used before uncountable\/abstract nouns used in a general sense. (Bad) Luck is an abstract noun."
+    },
+    {
+        "question": "In . . . . . . . . match against Australia both . . . . . . . . players scored centuries.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "the, the"
+            },
+            {
+                "option": "B.",
+                "text": "the, no article"
+            },
+            {
+                "option": "C.",
+                "text": "no article, the"
+            },
+            {
+                "option": "D.",
+                "text": "no article, no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: In the given sentence, a particular match is being spoken about: the match against Australia. Hence, we use the article 'the'. Also, since a particular match is mentioned, the players are also made known, hence 'the' is used for 'players' as well."
+    },
+    {
+        "question": "Do you know . . . . . . . . Professor Brown's phone number?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is used before proper nouns. Professor Brown is a proper noun."
+    },
+    {
+        "question": "All . . . . . . . . books on the top shelf belong to me.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The definite article 'the' is used before nouns that refer to something specific. Here, we are referring to the specific books that are on the top shelf."
+    },
+    {
+        "question": "Dickens is famous as . . . . . . . . novelist and . . . . . . . . essayist.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "the, the"
+            },
+            {
+                "option": "B.",
+                "text": "a, the"
+            },
+            {
+                "option": "C.",
+                "text": "no article, an"
+            },
+            {
+                "option": "D.",
+                "text": "a, no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: In the first blank, 'novelist' is general class of people and indefinite article be used. As 'novelist' begins with consonant sound, article 'a' will be used. In the second blank, no article will be used because 'novelist' and 'essayist' is the same person and article will be used only once."
+    },
+    {
+        "question": "Would you like to be . . . . . . . . actor?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'An' is an indefinite article which is used before a word that begins with a vowel sound and which refers to unspecific\/general things. Here, 'actor' begins with a vowel sound and it is unspecific."
+    },
+    {
+        "question": "She is . . . . . . . . honest person.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Here, the noun after the blank is common noun. Hence, indefinite article will be followed. 'An' is used because the word 'honest' sounds 'onest'."
+    },
+    {
+        "question": "The guide knows . . . . . . . . way.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, we want to focus on one particular thing i.e. \"way\" and nothing in general. So, 'the' is the right article here."
+    },
+    {
+        "question": "Rustom was . . . . . . . . young Parsee.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Here in the given question, young Parsee denotes a group or class of people, therefore use of the indefinite article is appropriate. The choice between 'an' and 'a' is determined by the sound of the noun. Before a noun beginning with a vowel sound 'an' is used. 'A' is used for nouns which begins with a consonant sound since here it is to be used before 'young' which begins with a consonant sound 'y', Option A is correct."
+    },
+    {
+        "question": "A JVC is . . . . . . . . Japanese camera.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: The blank will take 'a' because it comes before the noun complement 'Japanese camera' which is general."
+    },
+    {
+        "question": ". . . . . . . . moon goes round . . . . . . . . earth every 27 days.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, a"
+            },
+            {
+                "option": "B.",
+                "text": "the, the"
+            },
+            {
+                "option": "C.",
+                "text": "a, the"
+            },
+            {
+                "option": "D.",
+                "text": "the, a"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'The' is used before unique things (one of their kind). Moon and Earth are unique, that is, there is only one of each of them."
+    },
+    {
+        "question": "I bought . . . . . . . . chocolate.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "none of the above"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Indefinite article is used with singular unspecific noun. 'Chocolate' is singular and unspecific. 'a' article will be used because 'chocolate' begins with consonant sound."
+    },
+    {
+        "question": ". . . . . . . . Mt. Everest is the highest mountain in the world.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is required."
+    },
+    {
+        "question": "Our plane was delayed. We had to wait at . . . . . . . . airport for three hours.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The definite article 'the' is used before specific things\/places. Here, 'airport' refers to the specific one where they waited."
+    },
+    {
+        "question": "Sheela gave me a pen. I liked . . . . . . . . pen.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The identity of the pen is known to the readers after the first sentence. Hence, definite article 'the' will be used."
+    },
+    {
+        "question": "In his childhood, he lived with . . . . . . . . grandfather, . . . . . . . . poor tailor.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, the"
+            },
+            {
+                "option": "B.",
+                "text": "no article, the"
+            },
+            {
+                "option": "C.",
+                "text": "the, a"
+            },
+            {
+                "option": "D.",
+                "text": "a, a"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: In the first blank, article \"the\" will be used because 'grandfather' is specific person. In the second blank, 'poor tailor' is a general noun, therefore, article \"a\" will be used."
+    },
+    {
+        "question": "Mexico is . . . . . . . . large city.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Here, 'city' is a common noun and indefinite article will be used. 'Large' begins with a consonant sound and therefore article 'A' will be used."
+    },
+    {
+        "question": ". . . . . . . . Nature looks Beautiful in . . . . . . . . spring.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, the"
+            },
+            {
+                "option": "B.",
+                "text": "the, a"
+            },
+            {
+                "option": "C.",
+                "text": "no article, the"
+            },
+            {
+                "option": "D.",
+                "text": "the, the"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: In the first blank, 'Nature' is a proper noun and should not be preceded by any article. In the second blank, 'spring' is a specific season and time of the year. Hence, definite article 'the' will be used."
+    },
+    {
+        "question": "There is a CD attached to . . . . . . . . back of the book.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Article 'the' is used before a specific, definite noun. The sentence given clearly states that a specific book is spoken about. Since a book has only one back, option C is correct."
+    },
+    {
+        "question": "I was ill, so I went to see . . . . . . . . doctor who has a clinic beside my home.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: We use the definite article 'the' when the noun is followed by a clause or phrase which identifies it. In the given sentence, the 'doctor' is identified with the clause 'who has a clinic beside my home'. Option C is correct here since we are referring to a specific doctor."
+    },
+    {
+        "question": "I'd like to go to . . . . . . . . China and see . . . . . . . . Great Wall.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "the, the"
+            },
+            {
+                "option": "B.",
+                "text": "the, no article"
+            },
+            {
+                "option": "C.",
+                "text": "no article, the"
+            },
+            {
+                "option": "D.",
+                "text": "no article, no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Even though both of these nouns: China and the Great Wall are proper nouns, the rules apply differently here. China is a country and we don't use an article before most countries (China being one of them). When the proper noun is unique and there is only one in existence, like 'Great Wall', 'the' article is used."
+    },
+    {
+        "question": "Sonal is going to . . . . . . . . England to visit her grandfather.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: England is a country and we don't use an article before most countries (England being one of them)."
+    },
+    {
+        "question": "Our city will have . . . . . . . . university soon.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'A' should be used before words with consonant sounds at the beginning and 'an' before words with vowel sounds at the beginning. The word 'University' has consonant sound 'yoo'. Hence, 'a' is used."
+    },
+    {
+        "question": "I will send you . . . . . . . .  sms tomorrow about the next programme.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Use 'an' before words such as \"hour\" which sound like they start with a vowel even if the first letter is a consonant. Also use 'an' before letters and numbers which sound like they begin with a vowel, such as \"F\" or \"8\". 'An' will be used before 'sms'."
+    },
+    {
+        "question": "It is . . . . . . . . easy math problem.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "none of the above"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Indefinite article is used with general statements. As 'easy' begins with vowel sound 'an' will be used."
+    },
+    {
+        "question": "What is . . . . . . . . object of this plan?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C No explanation is given for this question Let's Discuss on Board"
+    },
+    {
+        "question": "I purchased . . . . . . . . one-way ticket from Miraj to Mumbai.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Indefinite article is used with general statements. Even though the word 'one' begins with the vowel 'o', it's pronounced as 'won' and thus has the sound of consonant 'w'. Thus, we use 'a' instead of 'an'."
+    },
+    {
+        "question": "He always has . . . . . . . . egg for breakfast.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Indefinite articles 'a' or 'an' are used when the noun is not specific or the noun is common. 'Egg' is common noun and begins with vowel sound, thus takes 'an' article."
+    },
+    {
+        "question": "There is . . . . . . . . Kalidas in my class.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Indefinite articles 'a' or 'an' are used when the noun is not specific or the noun is common. 'Kalidas' is not specific as readers don't know which 'Kalidas'. Hence, article 'a' will be used as the word begins with consonant sound."
+    },
+    {
+        "question": "The first of . . . . . . . . January is . . . . . . . . holiday in many countries.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "the, a"
+            },
+            {
+                "option": "B.",
+                "text": "no article, an"
+            },
+            {
+                "option": "C.",
+                "text": "no article, a"
+            },
+            {
+                "option": "D.",
+                "text": "the, no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: In the first blank, 'January' is the name of a month and mostly no article is used with proper nouns. In the second blank, 'holiday' is used to denote one of the holidays. Hence, indefinite article 'a' will be used."
+    },
+    {
+        "question": ". . . . . . . . Grand Trunk Express stood ready to leave for Chennai.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'The' article will be used because a specific train 'Grand Trunk express' is talked about."
+    },
+    {
+        "question": ". . . . . . . . President is the most powerful person in . . . . . . . . United States.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, a"
+            },
+            {
+                "option": "B.",
+                "text": "the, a"
+            },
+            {
+                "option": "C.",
+                "text": "the, the"
+            },
+            {
+                "option": "D.",
+                "text": "a, the"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The definite article 'the' is used before unique things. There is only one president for a particular country, therefore 'the' is used before it. 'The' is also used before names of countries expressed in plurals like United States of America."
+    },
+    {
+        "question": "Ram was . . . . . . . . best student in the class.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Option C is correct as 'The' is used with words with superlatives. 'Best' is superlative."
+    },
+    {
+        "question": "Pacific is . . . . . . . . deepest ocean.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "none of the above"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Option C is correct as 'The' is used with words with superlatives. 'Deepest' is superlative."
+    },
+    {
+        "question": "You won't reach to . . . . . . . . back of . . . . . . . . auditorium; so we'll have to use . . . . . . . . amplifier.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "no article, the, an"
+            },
+            {
+                "option": "B.",
+                "text": "no article, the, no article"
+            },
+            {
+                "option": "C.",
+                "text": "the, the, an"
+            },
+            {
+                "option": "D.",
+                "text": "no article, the, the"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The first and second blank shall take 'the' as the sentence talks about a particular location at a particular 'auditorium'. The third blank shall take 'an' as 'amplifier' is a singular countable noun and starts with the vowel 'a'."
+    },
+    {
+        "question": ". . . . . . . . Summer is . . . . . . . . hot season.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, a"
+            },
+            {
+                "option": "B.",
+                "text": "a, the"
+            },
+            {
+                "option": "C.",
+                "text": "the, a"
+            },
+            {
+                "option": "D.",
+                "text": "no article, a"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: The first blank will take no article as 'Summer' is the name of a season. The second blank will take 'a' article as summer is mentioned as one of the seasons."
+    },
+    {
+        "question": ". . . . . . . . life is strange sometimes. You never know what is going to happen next.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is used before abstract nouns. 'Life' is an abstract noun. Hence, it won't be preceded by any article."
+    },
+    {
+        "question": ". . . . . . . . bravery is a virtue.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Option D is correct as we usually don't use articles in front of an uncountable noun. 'Bravery' is an uncountable noun."
+    },
+    {
+        "question": "'A' is . . . . . . . . indefinite article.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The word 'indefinite' begins with vowel sound. Hence, article 'an' will be used."
+    },
+    {
+        "question": "English is . . . . . . . . international language.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The sentence indicates English as one of the languages. Hence, indefinite article will be used. 'International' begins with vowel sound and 'an' article will be used."
+    },
+    {
+        "question": "Ambulances arrived at the scene of the accident and took . . . . . . . . injured to hospital.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The definite article 'the' is used when an adjective is used to represent the entire class\/group of its type and not a particular noun. Here, 'injured' refers to all the injured people and not just one person."
+    },
+    {
+        "question": ". . . . . . . . London is the capital of Great Britain.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: No article is used with proper nouns generally."
+    },
+    {
+        "question": ". . . . . . . . rich is not always happy.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The word 'rich' is adjective. However, it also sometimes used as noun to refer to the entire class of people who are 'rich'. Hence, definite article 'the' is used."
+    },
+    {
+        "question": "He is . . . . . . . . vegetarian. He doesn't eat . . . . . . . . meat.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "no article, no article"
+            },
+            {
+                "option": "B.",
+                "text": "a, no article"
+            },
+            {
+                "option": "C.",
+                "text": "a, the"
+            },
+            {
+                "option": "D.",
+                "text": "the, no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The first blank shall take the article 'a' because vegetarian starts with the consonant 'v' and is a singular countable noun while the second blank will not take any article as meat is an uncountable noun."
+    },
+    {
+        "question": "I'm not ready yet. Can you wait . . . . . . . . moment, please?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Here, 'moment' is unspecific. The sentence also indicates 'one' moment. Hence, we need to use an indefinite article. Since moment starts with a consonant sound, the correct article is 'a'."
+    },
+    {
+        "question": ". . . . . . . . price of share keeps declining.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, price of specific thing i.e. 'Share' has been mentioned. Hence, 'the' article will be used."
+    },
+    {
+        "question": "Today . . . . . . . . weather is very hot.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: As the speaker talks about a particular day's weather, the blank shall take the definite article 'the'."
+    },
+    {
+        "question": ". . . . . . . . eagle can fly high in . . . . . . . . sky.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a, the"
+            },
+            {
+                "option": "B.",
+                "text": "an, the"
+            },
+            {
+                "option": "C.",
+                "text": "the, an"
+            },
+            {
+                "option": "D.",
+                "text": "none of the above"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: In the first blank, 'an' article will be used because 'eagle' is a common noun and begins with vowel sound. In the second blank, 'the' article will be used because specific location 'sky' where eagle flies is mentioned."
+    },
+    {
+        "question": "He had heard there were many beavers in . . . . . . . . park.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The sentence is talking about a particular park where there were many beavers. Hence, definite article 'the' will be used."
+    },
+    {
+        "question": "This poem is written by . . . . . . . . foreign writer.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: Here 'writer' is a common noun and will be preceded by indefinite article. 'A' is used because the word 'foreign' begins with consonant sound."
+    },
+    {
+        "question": "They took him to . . . . . . . .  hospital in ambulance.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "none of the above"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, it is specifically mentioned where the person was taken i.e. 'hospital'. Hence, definite article 'the' will be used."
+    },
+    {
+        "question": "I'll be there in half . . . . . . . . hour.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Use 'an' before words such as \"hour\" which sound like they start with a vowel even if the first letter is a consonant. Also use 'an' before letters and numbers which sound like they begin with a vowel, such as \"F\" or \"8\"."
+    },
+    {
+        "question": "The bike traveled 100 kilometers . . . . . . . . hour.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Use 'an' before words such as \"hour\" which sound like they start with a vowel even if the first letter is a consonant. Also use 'an' before letters and numbers which sound like they begin with a vowel, such as \"F\" or \"8\"."
+    },
+    {
+        "question": "Mary and I arrived at . . . . . . . . same time.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The definite article 'the' is used before specific things. Here, we are referring to the specific time when both the speaker and Mary arrived."
+    },
+    {
+        "question": "He felt . . . . . . . . patriot rise within his heart.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The definite article 'the' is used before specific things. Here, we are referring to the specific 'patriot' that rose within the person."
+    },
+    {
+        "question": "Can you tell me how to get to . . . . . . . . library?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The definite article 'the' is used before specific things. Here, we are referring to the specific 'library' whose location speaker wants to know."
+    },
+    {
+        "question": "My boyfriend is . . . . . . . . actor.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'An' is an indefinite article which is used before a word that begins with a vowel sound and which refers to unspecific\/general things. Here, 'actor' begins with a vowel sound and it is unspecific."
+    },
+    {
+        "question": "She works as . . . . . . . . electrician in a power plant.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'An' is an indefinite article which is used before a word that begins with a vowel sound and which refers to unspecific\/general things. Here, 'electrician' begins with a vowel sound and it is unspecific."
+    },
+    {
+        "question": "When do you go to . . . . . . . . office?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, a specific 'office' is being talked about where the second person goes. Hence, 'the' article will be used."
+    },
+    {
+        "question": "Take . . . . . . . . umbrella with you.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Here, 'Umbrella' is a general thing and therefore indefinite article will be used. Word after the blank starts with vowel sound. 'An' article will be used."
+    },
+    {
+        "question": "We are staying at . . . . . . . . hotel.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "no article"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: In the sentence it is not specified which hotel and therefore we will use indefinite article. 'Hotel' begins with a consonant sound and will be preceded by 'a' article."
+    },
+    {
+        "question": ". . . . . . . . Thar Desert is the largest desert in India.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "a"
+            },
+            {
+                "option": "B.",
+                "text": "an"
+            },
+            {
+                "option": "C.",
+                "text": "the"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Thar desert' is a specific desert and definite article should be used. Hence, 'the' article is correct."
+    }
+]

@@ -1,0 +1,2295 @@
+[
+    {
+        "question": "Total Number of Lok Sabha seats in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Two"
+            },
+            {
+                "option": "B.",
+                "text": "Five"
+            },
+            {
+                "option": "C.",
+                "text": "Six"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which one is the capital of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tura"
+            },
+            {
+                "option": "B.",
+                "text": "Cherrapunji"
+            },
+            {
+                "option": "C.",
+                "text": "Shillong"
+            },
+            {
+                "option": "D.",
+                "text": "Kohima"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the total area of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "42,429 km2"
+            },
+            {
+                "option": "B.",
+                "text": "12,429 km2"
+            },
+            {
+                "option": "C.",
+                "text": "22,429 km2"
+            },
+            {
+                "option": "D.",
+                "text": "32,429 km2"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "On which date Meghalaya came into existence as a state of India.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "12 January 1972"
+            },
+            {
+                "option": "B.",
+                "text": "21 January 1972"
+            },
+            {
+                "option": "C.",
+                "text": "1 January 1970"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Total Number of National park in Meghalya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "3"
+            },
+            {
+                "option": "D.",
+                "text": "4"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "The Nohkalikai Falls is located on ___________",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tura"
+            },
+            {
+                "option": "B.",
+                "text": "Cherrapunji"
+            },
+            {
+                "option": "C.",
+                "text": "Shillong"
+            },
+            {
+                "option": "D.",
+                "text": "Mawsynram"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Name of the capital of Meghalaya Sate",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Shillong"
+            },
+            {
+                "option": "B.",
+                "text": "Dispur"
+            },
+            {
+                "option": "C.",
+                "text": "Lucknow"
+            },
+            {
+                "option": "D.",
+                "text": "Chandigarh"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which country shares its international border with Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Nepal"
+            },
+            {
+                "option": "B.",
+                "text": "Bangladesh"
+            },
+            {
+                "option": "C.",
+                "text": "Bhutan"
+            },
+            {
+                "option": "D.",
+                "text": "Myanmar"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "what is official language of Meghalaya state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Khasi and Garo along with Jaintia and English"
+            },
+            {
+                "option": "B.",
+                "text": "Khasi and Garo along with Jaintia and Hindi"
+            },
+            {
+                "option": "C.",
+                "text": "Khasi and Garo along with Jaintia and Urdu"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which country is comparable to the size of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "El Salvador"
+            },
+            {
+                "option": "B.",
+                "text": "Bhutan"
+            },
+            {
+                "option": "C.",
+                "text": "Belize"
+            },
+            {
+                "option": "D.",
+                "text": "Austria"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is Meghalaya literacy Rank in India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "24th"
+            },
+            {
+                "option": "B.",
+                "text": "4th"
+            },
+            {
+                "option": "C.",
+                "text": "14th"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The Mawlynnong village, which is also known Asia's cleanest village is located at_____________",
+        "options": [
+            {
+                "option": "A.",
+                "text": "South West Khasi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "West Garo Hills"
+            },
+            {
+                "option": "C.",
+                "text": "Ri Bhoi"
+            },
+            {
+                "option": "D.",
+                "text": "East Khasi Hills"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "What is the capital of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Imphal"
+            },
+            {
+                "option": "B.",
+                "text": "Shillong"
+            },
+            {
+                "option": "C.",
+                "text": "Cherrapunji"
+            },
+            {
+                "option": "D.",
+                "text": "Mawsynram"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is Meghalaya Population Rank in India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "6th"
+            },
+            {
+                "option": "B.",
+                "text": "23rd"
+            },
+            {
+                "option": "C.",
+                "text": "14th"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "How much is the geographical area of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2,429 km2"
+            },
+            {
+                "option": "B.",
+                "text": "12,429 km2"
+            },
+            {
+                "option": "C.",
+                "text": "22,429 km2 (8,660 sq mi)"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which Year the East Garo Hills District Was Formed?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1975"
+            },
+            {
+                "option": "B.",
+                "text": "1976"
+            },
+            {
+                "option": "C.",
+                "text": "1980"
+            },
+            {
+                "option": "D.",
+                "text": "1992"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Total number of members in the Meghalaya Legislative Assembly is",
+        "options": [
+            {
+                "option": "A.",
+                "text": "36"
+            },
+            {
+                "option": "B.",
+                "text": "40"
+            },
+            {
+                "option": "C.",
+                "text": "47"
+            },
+            {
+                "option": "D.",
+                "text": "60"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "what is literacy Rate of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "65.26%"
+            },
+            {
+                "option": "B.",
+                "text": "62.56%"
+            },
+            {
+                "option": "C.",
+                "text": "75.26%"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What was the capital of Assam before Dispur?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Shillong"
+            },
+            {
+                "option": "B.",
+                "text": "Guwahati"
+            },
+            {
+                "option": "C.",
+                "text": "Jorhat"
+            },
+            {
+                "option": "D.",
+                "text": "Kaziranga"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the Indian state that has no Railway line?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Assam"
+            },
+            {
+                "option": "B.",
+                "text": "Manipur"
+            },
+            {
+                "option": "C.",
+                "text": "Nagaland"
+            },
+            {
+                "option": "D.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer: Option E"
+    },
+    {
+        "question": "Number of District in the state Meghalaya ?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "8"
+            },
+            {
+                "option": "B.",
+                "text": "10"
+            },
+            {
+                "option": "C.",
+                "text": "11"
+            },
+            {
+                "option": "D.",
+                "text": "14"
+            },
+            {
+                "option": "E.",
+                "text": "12"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Who is the Current Director general of police of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Shri Kulbir Krishan"
+            },
+            {
+                "option": "B.",
+                "text": "Shri S. B. Kakati"
+            },
+            {
+                "option": "C.",
+                "text": "Dr. S. B. Singh, IPS"
+            },
+            {
+                "option": "D.",
+                "text": "Dr. Lajja Ram Bishnoi, IPS"
+            },
+            {
+                "option": "E.",
+                "text": "Smti. Idashisha Nongrang, IPS"
+            }
+        ],
+        "answer": "Option E",
+        "solution": "Answer: Option E"
+    },
+    {
+        "question": "Currently who is the Chief Minister of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mukul Sangma"
+            },
+            {
+                "option": "B.",
+                "text": "Conrad Sangma"
+            },
+            {
+                "option": "C.",
+                "text": "D. D. Lapang"
+            },
+            {
+                "option": "D.",
+                "text": "Donkupar Roy"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which one s the largest tribal group in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Khasis"
+            },
+            {
+                "option": "B.",
+                "text": "Garo"
+            },
+            {
+                "option": "C.",
+                "text": "Jaintias"
+            },
+            {
+                "option": "D.",
+                "text": "Karbi"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Total Number of Rajya seats in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Four"
+            },
+            {
+                "option": "B.",
+                "text": "One"
+            },
+            {
+                "option": "C.",
+                "text": "Eight"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which country is to the south of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Bangladesh"
+            },
+            {
+                "option": "B.",
+                "text": "Nepal"
+            },
+            {
+                "option": "C.",
+                "text": "Bhutan"
+            },
+            {
+                "option": "D.",
+                "text": "Afganistan"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "When was Meghalaya separated from Assam?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "21 January 1972"
+            },
+            {
+                "option": "B.",
+                "text": "21 January 1971"
+            },
+            {
+                "option": "C.",
+                "text": "21 January 1969"
+            },
+            {
+                "option": "D.",
+                "text": "21 January 1973"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Shillong is also known as the _________ of the East.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "England"
+            },
+            {
+                "option": "B.",
+                "text": "USA"
+            },
+            {
+                "option": "C.",
+                "text": "Norway"
+            },
+            {
+                "option": "D.",
+                "text": "Scotland"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the Meghalaya state Anima?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Blackbuck"
+            },
+            {
+                "option": "B.",
+                "text": "One-horned rhinoceros"
+            },
+            {
+                "option": "C.",
+                "text": "Asiatic lion"
+            },
+            {
+                "option": "D.",
+                "text": "Clouded leopard"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "At present who is the Governor of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Banwarilal Purohit"
+            },
+            {
+                "option": "B.",
+                "text": "Satya Pal Malik"
+            },
+            {
+                "option": "C.",
+                "text": "Tathagata Roy"
+            },
+            {
+                "option": "D.",
+                "text": "Phagu Chauhan"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "How many Districts are in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "10 Districts"
+            },
+            {
+                "option": "B.",
+                "text": "9 Districts"
+            },
+            {
+                "option": "C.",
+                "text": "11 Districts"
+            },
+            {
+                "option": "D.",
+                "text": "12 Districts"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "On which river is the Khandong Dam built?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mahanadi"
+            },
+            {
+                "option": "B.",
+                "text": "brahmani"
+            },
+            {
+                "option": "C.",
+                "text": "Baitarani"
+            },
+            {
+                "option": "D.",
+                "text": "Kopili"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the Meghalaya state Tree?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Hollong"
+            },
+            {
+                "option": "B.",
+                "text": "Sacred fig"
+            },
+            {
+                "option": "C.",
+                "text": "White teak"
+            },
+            {
+                "option": "D.",
+                "text": "Ironwood"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "How many Divisions are in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1 Division"
+            },
+            {
+                "option": "B.",
+                "text": "4 Divisions"
+            },
+            {
+                "option": "C.",
+                "text": "2 Divisions"
+            },
+            {
+                "option": "D.",
+                "text": "3 Divisions"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Total Number of District in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "11"
+            },
+            {
+                "option": "B.",
+                "text": "12"
+            },
+            {
+                "option": "C.",
+                "text": "42"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "The Balphakram National Park is located at",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ri Bhoi"
+            },
+            {
+                "option": "B.",
+                "text": "West Garo Hills"
+            },
+            {
+                "option": "C.",
+                "text": "Garo Hills"
+            },
+            {
+                "option": "D.",
+                "text": "South Garo Hills"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which of the following is not an official language of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Khasi"
+            },
+            {
+                "option": "B.",
+                "text": "Lepcha"
+            },
+            {
+                "option": "C.",
+                "text": "Garo"
+            },
+            {
+                "option": "D.",
+                "text": "Jaintia"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the largest district of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "East Khasi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "West Garo Hills"
+            },
+            {
+                "option": "C.",
+                "text": "Ri Bhoi"
+            },
+            {
+                "option": "D.",
+                "text": "West Khasi Hills"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which Number of member in the Meghalaya Legislative Assembly is?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "47"
+            },
+            {
+                "option": "B.",
+                "text": "55"
+            },
+            {
+                "option": "C.",
+                "text": "60"
+            },
+            {
+                "option": "D.",
+                "text": "65"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Largest City of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Shillong"
+            },
+            {
+                "option": "B.",
+                "text": "Jowal"
+            },
+            {
+                "option": "C.",
+                "text": "Baghmara"
+            },
+            {
+                "option": "D.",
+                "text": "Nongstoin"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The Mawlynnong village, which is also known as Asia's cleanest village is located at?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Ri Bhoi"
+            },
+            {
+                "option": "B.",
+                "text": "East Khasi Hills"
+            },
+            {
+                "option": "C.",
+                "text": "West Garo Hills"
+            },
+            {
+                "option": "D.",
+                "text": "South Garo Hills"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the Sanskrit meaning of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Rain Forest"
+            },
+            {
+                "option": "B.",
+                "text": "Abode of Mountains"
+            },
+            {
+                "option": "C.",
+                "text": "Abode of Clouds"
+            },
+            {
+                "option": "D.",
+                "text": "Wettest Place"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which of the following is the State Animal of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Black Buck"
+            },
+            {
+                "option": "B.",
+                "text": "Sumatran Serow"
+            },
+            {
+                "option": "C.",
+                "text": "Clouded Leopard"
+            },
+            {
+                "option": "D.",
+                "text": "Indian Elephant"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "In which year, UNESCO added Nokrek National Park to its list of Biosphere Reserves?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1999"
+            },
+            {
+                "option": "B.",
+                "text": "2003"
+            },
+            {
+                "option": "C.",
+                "text": "2005"
+            },
+            {
+                "option": "D.",
+                "text": "2009"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which two district of Assam was carved out to form the state of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Khasi Hills and Garo Hills"
+            },
+            {
+                "option": "B.",
+                "text": "United Khasi Hills & Jaintia Hills, and Garo Hills"
+            },
+            {
+                "option": "C.",
+                "text": "United Khasi Hills & Ri-Bhoi and Garo Hills"
+            },
+            {
+                "option": "D.",
+                "text": "Khasi Hills and Ri-Bhoi"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Who is the Current Governor of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Keshari Nath Tripathi"
+            },
+            {
+                "option": "B.",
+                "text": "Banwarilal Purohit"
+            },
+            {
+                "option": "C.",
+                "text": "C. H. Vijayashankar"
+            },
+            {
+                "option": "D.",
+                "text": "Phagu Chauhan"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the area of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "7,209 sq. mi"
+            },
+            {
+                "option": "B.",
+                "text": "6,922 sq. mi"
+            },
+            {
+                "option": "C.",
+                "text": "8,660 sq. mi"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "When Was Meghalaya established?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "21 March 1972"
+            },
+            {
+                "option": "B.",
+                "text": "21 January 1972"
+            },
+            {
+                "option": "C.",
+                "text": "21 June 1972"
+            },
+            {
+                "option": "D.",
+                "text": "23 January 1972"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which one is the largest district of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "West Khasi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "East Garo Hills"
+            },
+            {
+                "option": "C.",
+                "text": "East Khasi Hills"
+            },
+            {
+                "option": "D.",
+                "text": "Jaintia Hills"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which of the following is the State Flower of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Renanthera Imschootiana"
+            },
+            {
+                "option": "B.",
+                "text": "Lady's slipper"
+            },
+            {
+                "option": "C.",
+                "text": "Ashoka"
+            },
+            {
+                "option": "D.",
+                "text": "Paphiopedilum Insigne"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Who is the Current Chief Minister of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "D. D. Lapang"
+            },
+            {
+                "option": "B.",
+                "text": "Mukul Sangma"
+            },
+            {
+                "option": "C.",
+                "text": "Conrad Sangma"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the length-to-breadth ratio of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1:1"
+            },
+            {
+                "option": "B.",
+                "text": "2:1"
+            },
+            {
+                "option": "C.",
+                "text": "4:1"
+            },
+            {
+                "option": "D.",
+                "text": "3:1"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "The number of the districts in the state Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "7"
+            },
+            {
+                "option": "B.",
+                "text": "9"
+            },
+            {
+                "option": "C.",
+                "text": "12"
+            },
+            {
+                "option": "D.",
+                "text": "13"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which of the following is the State Tree of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "White Teak"
+            },
+            {
+                "option": "B.",
+                "text": "Banyan"
+            },
+            {
+                "option": "C.",
+                "text": "Mesua Ferrea"
+            },
+            {
+                "option": "D.",
+                "text": "Gmelina Arborea"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "The largest City of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Shillong"
+            },
+            {
+                "option": "B.",
+                "text": "Jowal"
+            },
+            {
+                "option": "C.",
+                "text": "Baghmara"
+            },
+            {
+                "option": "D.",
+                "text": "Nongstoin"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the only country that borders Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "China"
+            },
+            {
+                "option": "B.",
+                "text": "Bangladesh"
+            },
+            {
+                "option": "C.",
+                "text": "Nepal"
+            },
+            {
+                "option": "D.",
+                "text": "Myanmar"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the Meghalaya state bird?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Blyth's tragopan"
+            },
+            {
+                "option": "B.",
+                "text": "House sparrow"
+            },
+            {
+                "option": "C.",
+                "text": "Great hornbill"
+            },
+            {
+                "option": "D.",
+                "text": "Common Hill Myna"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "On which river is the Myntdu-Leshka Dam built?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Umtru"
+            },
+            {
+                "option": "B.",
+                "text": "Beas"
+            },
+            {
+                "option": "C.",
+                "text": "Penna"
+            },
+            {
+                "option": "D.",
+                "text": "Myntdu"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Which is the Meghalaya state Flower?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Red Vanda"
+            },
+            {
+                "option": "B.",
+                "text": "Lady's slipper"
+            },
+            {
+                "option": "C.",
+                "text": "Lady's slipper orchid"
+            },
+            {
+                "option": "D.",
+                "text": "Kopou phul"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which is the only Indian state that borders Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Assam"
+            },
+            {
+                "option": "B.",
+                "text": "Tripura"
+            },
+            {
+                "option": "C.",
+                "text": "Manipur"
+            },
+            {
+                "option": "D.",
+                "text": "Mizoram"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Who is the Speaker of Legislative Assembly of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Abu Taher Mondal"
+            },
+            {
+                "option": "B.",
+                "text": "Donkupar Roy"
+            },
+            {
+                "option": "C.",
+                "text": "M. M. Danggo"
+            },
+            {
+                "option": "D.",
+                "text": "Timothy Shira"
+            },
+            {
+                "option": "E.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Deputy speaker of Legislative Assembly of Meghalaya",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sanbor Shullai"
+            },
+            {
+                "option": "B.",
+                "text": "Donkupar Roy"
+            },
+            {
+                "option": "C.",
+                "text": "Timothy Shira"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What does Meghalaya mean?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Land of five rivers"
+            },
+            {
+                "option": "B.",
+                "text": "Abode of clouds"
+            },
+            {
+                "option": "C.",
+                "text": "Middle region"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which Bangladeshi division borders Meghalaya to the southern side?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Khulna Division and Rajshahi Division"
+            },
+            {
+                "option": "B.",
+                "text": "Mymensingh Division and Sylhet Division"
+            },
+            {
+                "option": "C.",
+                "text": "Rajshahi Division and Chittagong Division"
+            },
+            {
+                "option": "D.",
+                "text": "Rangpur Division and Dhaka Division"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the literacy rate of Meghalaya according to 2011 census?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "71.05%"
+            },
+            {
+                "option": "B.",
+                "text": "72.53%"
+            },
+            {
+                "option": "C.",
+                "text": "74.43%"
+            },
+            {
+                "option": "D.",
+                "text": "79%"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "The secretory product pectin of cell wall is chemically a",
+        "options": [
+            {
+                "option": "A.",
+                "text": "protein"
+            },
+            {
+                "option": "B.",
+                "text": "carbohydrate"
+            },
+            {
+                "option": "C.",
+                "text": "lipid"
+            },
+            {
+                "option": "D.",
+                "text": "nucleic acid"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which one is the largest tribal group in Meghalaya ___________?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Garo"
+            },
+            {
+                "option": "B.",
+                "text": "Jaintias"
+            },
+            {
+                "option": "C.",
+                "text": "Khasis"
+            },
+            {
+                "option": "D.",
+                "text": "Karbi"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which Bangladeshi division borders Meghalaya to the western side?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Dhaka Division"
+            },
+            {
+                "option": "B.",
+                "text": "Rangpur Division"
+            },
+            {
+                "option": "C.",
+                "text": "Khulna Division"
+            },
+            {
+                "option": "D.",
+                "text": "Chittagong Division"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "The state of Meghalaya was formed in the year",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1972"
+            },
+            {
+                "option": "B.",
+                "text": "1975"
+            },
+            {
+                "option": "C.",
+                "text": "1977"
+            },
+            {
+                "option": "D.",
+                "text": "1979"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which one is the highest peak of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Tura Peak"
+            },
+            {
+                "option": "B.",
+                "text": "Nokrek Peak"
+            },
+            {
+                "option": "C.",
+                "text": "Shillong Peak"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Subansiri dam is situated in -",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya and Arunachal Pradesh"
+            },
+            {
+                "option": "B.",
+                "text": "Sikkim and Tripura"
+            },
+            {
+                "option": "C.",
+                "text": "Meghalaya and Sikkim"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "What nickname did the British imperial authorities give to Shillong during the British rule of India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Gateway To Bangladesh"
+            },
+            {
+                "option": "B.",
+                "text": "Land Of Warriors"
+            },
+            {
+                "option": "C.",
+                "text": "Scotland of the East"
+            },
+            {
+                "option": "D.",
+                "text": "Manchester of the East"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "On which river is the Umtru Dam built?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Umtru"
+            },
+            {
+                "option": "B.",
+                "text": "Gomti"
+            },
+            {
+                "option": "C.",
+                "text": "Brahmaputra"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Umiya lake is situated in which state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Mizoram"
+            },
+            {
+                "option": "B.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "C.",
+                "text": "Manipur"
+            },
+            {
+                "option": "D.",
+                "text": "Tripura"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "On which river is the Kyrdemkulai (Umiam st-III) Dam built?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Godavari"
+            },
+            {
+                "option": "B.",
+                "text": "Krishna"
+            },
+            {
+                "option": "C.",
+                "text": "Umtru"
+            },
+            {
+                "option": "D.",
+                "text": "Penna"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "What is the official language of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "English"
+            },
+            {
+                "option": "B.",
+                "text": "English and Hindi"
+            },
+            {
+                "option": "C.",
+                "text": "Garo"
+            },
+            {
+                "option": "D.",
+                "text": "Khasi"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which system is followed in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Zamindar System"
+            },
+            {
+                "option": "B.",
+                "text": "Ryotwari System"
+            },
+            {
+                "option": "C.",
+                "text": "Matrilineal System"
+            },
+            {
+                "option": "D.",
+                "text": "Patrilineal System"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "On which river is the Umiam Dam built?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Umiam"
+            },
+            {
+                "option": "B.",
+                "text": "Krishna"
+            },
+            {
+                "option": "C.",
+                "text": "Godavari"
+            },
+            {
+                "option": "D.",
+                "text": "Indus"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Williamnagar is the district headquaters of",
+        "options": [
+            {
+                "option": "A.",
+                "text": "North Garo Hills"
+            },
+            {
+                "option": "B.",
+                "text": "East Garo Hills"
+            },
+            {
+                "option": "C.",
+                "text": "West Garo Hills"
+            },
+            {
+                "option": "D.",
+                "text": "South Garo Hills"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "What is the total membership of the Commonwealth?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "42"
+            },
+            {
+                "option": "B.",
+                "text": "44"
+            },
+            {
+                "option": "C.",
+                "text": "54"
+            },
+            {
+                "option": "D.",
+                "text": "52"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "How many National Parks are there in Meghalaya state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "12"
+            },
+            {
+                "option": "B.",
+                "text": "2"
+            },
+            {
+                "option": "C.",
+                "text": "20"
+            },
+            {
+                "option": "D.",
+                "text": "5"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "which river is the Nongkhyllem Dam built?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Umtru"
+            },
+            {
+                "option": "B.",
+                "text": "Kopili"
+            },
+            {
+                "option": "C.",
+                "text": "Yamuna"
+            },
+            {
+                "option": "D.",
+                "text": "None of These"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Which is the wettest state of India?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Meghalaya"
+            },
+            {
+                "option": "B.",
+                "text": "Ladakh"
+            },
+            {
+                "option": "C.",
+                "text": "Kerala"
+            },
+            {
+                "option": "D.",
+                "text": "Himachal Pradesh"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Who among the following was an ally of Mir Qasim in the Battle of Buxar?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Haider Ali"
+            },
+            {
+                "option": "B.",
+                "text": "Maharaja Ranjit Singh"
+            },
+            {
+                "option": "C.",
+                "text": "Malhar Rao Holkar"
+            },
+            {
+                "option": "D.",
+                "text": "Shah Alam II"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "In which year Shillong was made capital of Assam?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "1872"
+            },
+            {
+                "option": "B.",
+                "text": "1873"
+            },
+            {
+                "option": "C.",
+                "text": "1874"
+            },
+            {
+                "option": "D.",
+                "text": "1875"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "How many wildlife sanctuaries are there in Meghalaya state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "12"
+            },
+            {
+                "option": "B.",
+                "text": "8"
+            },
+            {
+                "option": "C.",
+                "text": "4"
+            },
+            {
+                "option": "D.",
+                "text": "2"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "Which country's Golf Association Museum considered Shillong Golf Course as the \"Glen Eagle of the East\"",
+        "options": [
+            {
+                "option": "A.",
+                "text": "USA"
+            },
+            {
+                "option": "B.",
+                "text": "UK"
+            },
+            {
+                "option": "C.",
+                "text": "France"
+            },
+            {
+                "option": "D.",
+                "text": "South Korea"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "The root system of plants grows out from the",
+        "options": [
+            {
+                "option": "A.",
+                "text": "radicle of the embryo"
+            },
+            {
+                "option": "B.",
+                "text": "embryos of the seeds"
+            },
+            {
+                "option": "C.",
+                "text": "plumule of the embryo"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Nokrek National Park is situated in which district of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Garo Hills Region"
+            },
+            {
+                "option": "B.",
+                "text": "West Garo Hills District"
+            },
+            {
+                "option": "C.",
+                "text": "West Jainita Hills"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "Which is the wettest region in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Debundscha"
+            },
+            {
+                "option": "B.",
+                "text": "Lloro"
+            },
+            {
+                "option": "C.",
+                "text": "Mawsynram"
+            },
+            {
+                "option": "D.",
+                "text": "Quibdo"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "The members of the State Legislative Assembly are elected for what period.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "2 years"
+            },
+            {
+                "option": "B.",
+                "text": "5 years"
+            },
+            {
+                "option": "C.",
+                "text": "4 years"
+            },
+            {
+                "option": "D.",
+                "text": "6 years"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "On which river is the Mawphlang Dam built?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Sutlej"
+            },
+            {
+                "option": "B.",
+                "text": "Ravi"
+            },
+            {
+                "option": "C.",
+                "text": "Gomti"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Who is the longest serving Chief Minister of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "S. C. Marak"
+            },
+            {
+                "option": "B.",
+                "text": "D. D. Lapang"
+            },
+            {
+                "option": "C.",
+                "text": "Mukul Sangma"
+            },
+            {
+                "option": "D.",
+                "text": "Williamson A. Sangma"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer: Option D"
+    },
+    {
+        "question": "Nongkhyllem Wildlife Sanctuary is situated in which district of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "East Khasi Hills"
+            },
+            {
+                "option": "B.",
+                "text": "Ri- Bhoi District"
+            },
+            {
+                "option": "C.",
+                "text": "South West Khasi Hills"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer: Option B"
+    },
+    {
+        "question": "The geographical unity among the South-East Asian countries is maintained by",
+        "options": [
+            {
+                "option": "A.",
+                "text": "climate"
+            },
+            {
+                "option": "B.",
+                "text": "economy"
+            },
+            {
+                "option": "C.",
+                "text": "culture"
+            },
+            {
+                "option": "D.",
+                "text": "topography"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "What is the length of national highways in Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "3,170 km"
+            },
+            {
+                "option": "B.",
+                "text": "2,170 km"
+            },
+            {
+                "option": "C.",
+                "text": "1,170 km"
+            },
+            {
+                "option": "D.",
+                "text": "4,170 km"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer: Option C"
+    },
+    {
+        "question": "When did Meghalaya become a state?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "21 January 1972"
+            },
+            {
+                "option": "B.",
+                "text": "23 January 1972"
+            },
+            {
+                "option": "C.",
+                "text": "21 March 1975"
+            },
+            {
+                "option": "D.",
+                "text": "21 February 1972"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Siju Wildlife Sanctuary is situated in which district of Meghalaya?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "South Garo Hills District"
+            },
+            {
+                "option": "B.",
+                "text": "West Jaintia Hills"
+            },
+            {
+                "option": "C.",
+                "text": "East Jaintia Hills"
+            },
+            {
+                "option": "D.",
+                "text": "None of these"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    },
+    {
+        "question": "Where are the headquarters of International Organization for Standardization (ISO) located?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Geneva"
+            },
+            {
+                "option": "B.",
+                "text": "Paris"
+            },
+            {
+                "option": "C.",
+                "text": "London"
+            },
+            {
+                "option": "D.",
+                "text": "Vienna"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer: Option A"
+    }
+]
