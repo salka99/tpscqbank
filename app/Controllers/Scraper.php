@@ -54,7 +54,7 @@ class Scraper extends Controller
         ini_set('memory_limit', '-1');
         set_time_limit(0);
 
-        $baseUrl = "https://www.examveda.com/state-gk/practice-mcq-question-on-assam/";
+        $baseUrl = "https://www.examveda.com/state-gk/practice-mcq-question-on-sikkim/";
 
         // Create json folder
         if (!is_dir(WRITEPATH . 'json')) {

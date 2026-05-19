@@ -1,0 +1,2302 @@
+[
+    {
+        "question": "The doctor gave me a prescription . . . . . . . . my cough.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "for"
+            },
+            {
+                "option": "B.",
+                "text": "with"
+            },
+            {
+                "option": "C.",
+                "text": "at"
+            },
+            {
+                "option": "D.",
+                "text": "to"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: The correct preposition to use in this sentence is for. The sentence should read: \"The doctor gave me a prescription for my cough.\" This construction indicates the purpose or intended treatment of the prescription, which is for the cough. The other options do not fit contextually: B. \"The doctor gave me a prescription with my cough.\" (Incorrect) C. \"The doctor gave me a prescription at my cough.\" (Incorrect) D. \"The doctor gave me a prescription to my cough.\" (Incorrect)"
+    },
+    {
+        "question": "He gave a talk . . . . . . . . the causes of dengue fever.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "for"
+            },
+            {
+                "option": "D.",
+                "text": "off"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: In this sentence, \"on\" is the correct preposition to use. \"He gave a talk on the causes of dengue fever\" means he delivered a speech or presentation about the causes of dengue fever. Using \"of\" would imply belonging or connection, as in \"the causes of dengue fever,\" which describes what causes dengue fever. However, it does not fit in the context of giving a talk. \"For\" would suggest purpose or benefit, but it does not fit here because the talk is not intended to benefit the causes of dengue fever. \"Off\" is incorrect as it generally implies separation or distance and does not make sense in the context of delivering a talk. Therefore, \"on\" is the appropriate preposition to use when referring to the subject or topic of a talk."
+    },
+    {
+        "question": "You can see the doctor . . . . . . . . 8 am and 12 noon.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "between"
+            },
+            {
+                "option": "D.",
+                "text": "on"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Between' means 'in the period separating two points in time'. Here two points in time are 8 am and 12 noon. Hence 'between' makes the sentence meaningful."
+    },
+    {
+        "question": "Nowadays Raktim studies . . . . . . . . the whole day.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "with"
+            },
+            {
+                "option": "B.",
+                "text": "from"
+            },
+            {
+                "option": "C.",
+                "text": "throughout"
+            },
+            {
+                "option": "D.",
+                "text": "under"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Throughout' means 'in every part of'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "May I come . . . . . . . .?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "with"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "at"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Come in' means 'to enter a room, building, or other place'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "My watch is . . . . . . . . the table.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "at"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'On' is used to show that something is in a position above something else and touching it. Here 'watch' is above the 'table' and touching it."
+    },
+    {
+        "question": "Throw this pen . . . . . . . . the dustbin.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "into"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "none"
+            },
+            {
+                "option": "D.",
+                "text": "on"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: In this sentence, \"Throw this pen into the dustbin,\" the preposition \"into\" is the correct choice. It indicates the direction of the action, specifying that you should throw the pen in the direction of the dustbin, with the intention of it landing inside the dustbin. The other options are not suitable for this context: Option B: \"in\" would imply that you should throw the pen while it is already inside the dustbin, which is not the intended meaning. Option C: \"none\" is not correct as a preposition is needed in the sentence. Option D: \"on\" would imply that you should throw the pen on top of the dustbin, which is also not the intended meaning."
+    },
+    {
+        "question": "The kitchen is . . . . . . . . the back of the house.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "about"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "at"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'At' indicates specific time, location or position. Hence it is the correct preposition to be used in the sentence."
+    },
+    {
+        "question": "The children were freed . . . . . . . . the danger.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "from"
+            },
+            {
+                "option": "C.",
+                "text": "with"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Freed from' means 'to release or unburden someone or something from someone or something'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "That child died . . . . . . . . heavy fever.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "for"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Died of' means 'to die because of (something)'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "You have finished . . . . . . . . last.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "about"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "at"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: In the sentence \"You have finished...last,\" the correct preposition to use is at. So, the complete sentence is: \"You have finished at last.\" The preposition \"at\" is used to specify a particular point in time or a specific moment when something happened or was completed. In this sentence, \"at last\" means that you completed something after a period of time or effort, emphasizing the sense of relief or accomplishment. Therefore, the correct answer is Option D: at."
+    },
+    {
+        "question": "You can obtain the answer . . . . . . . . adding the date of birth to this figure.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "to"
+            },
+            {
+                "option": "B.",
+                "text": "by"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: In this context, the appropriate preposition to use is \"by\". The sentence \"You can obtain the answer by adding the date of birth to this figure.\" suggests that the answer can be obtained through the action of adding the date of birth to the given figure. The preposition \"by\" is commonly used to indicate the method or means by which an action is performed. In this case, the action of obtaining the answer is performed by adding the date of birth to the given figure."
+    },
+    {
+        "question": "He got . . . . . . . . the bus when he reached Ann St.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "off"
+            },
+            {
+                "option": "C.",
+                "text": "over"
+            },
+            {
+                "option": "D.",
+                "text": "beneath"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The preposition \"off\" is used to indicate the action of leaving a mode of transportation or getting down from something. In this context, \"He got off the bus when he reached Ann St.\" means he disembarked or left the bus upon reaching Ann St. Therefore, the correct completion is: \"He got off the bus when he reached Ann St.\""
+    },
+    {
+        "question": "I don't approve . . . . . . . . your language, young man.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "from"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Approve of' means 'to have a positive opinion of someone or something'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "He arrived . . . . . . . . the airport . . . . . . . . time for the plane.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in, in"
+            },
+            {
+                "option": "B.",
+                "text": "at, on"
+            },
+            {
+                "option": "C.",
+                "text": "on, in"
+            },
+            {
+                "option": "D.",
+                "text": "at, in"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Here, the preposition to be used is 'at' and 'in'. As 'at' indicates specific position or location and 'in' means 'early enough'."
+    },
+    {
+        "question": "He went so fast that I could not keep up . . . . . . . . him.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "for"
+            },
+            {
+                "option": "B.",
+                "text": "with"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Keep up with' means 'move or progress at the same rate as someone or something else'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Let us travel . . . . . . . . night, it will be cool then.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "by"
+            },
+            {
+                "option": "B.",
+                "text": "at"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "during"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'At' indicates specific time, location or position. Hence it is the correct preposition to be used in the sentence."
+    },
+    {
+        "question": "The bird flew . . . . . . . . my head.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "across"
+            },
+            {
+                "option": "B.",
+                "text": "over"
+            },
+            {
+                "option": "C.",
+                "text": "beside"
+            },
+            {
+                "option": "D.",
+                "text": "behind"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Over' means 'at or to a point across intervening space etc. (directly perpendicular to the object)'. Hence it is the correct preposition to be used in the sentence."
+    },
+    {
+        "question": "Tom's away at the moment. He's . . . . . . . . holiday in France.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "at"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "for"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'On holiday' means 'experiencing a time away from home, school, or business usually in order to relax or travel'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "In London the cars go . . . . . . . . the left side.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "near"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The question asks about the preposition that correctly describes the position of cars in London. Think about how cars are positioned on a road. 'In' means inside something. Cars aren't inside the left side of the road. 'On' means something is on the surface of something else. This works well here. Cars drive *on* the road. 'To' means movement towards a place. This doesn't describe the position of the cars. 'Near' means close to something. This doesn't describe the exact position of the cars on the road. Therefore, the correct preposition is 'on' because the cars drive on the left side of the road in London."
+    },
+    {
+        "question": "John put . . . . . . . . his clothes and went out.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "through"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Put on' means 'place a garment, piece of jewellery etc. on part of one's body'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "If you are averse . . . . . . . . recommending my names, you should not hesitate to admit it.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "against"
+            },
+            {
+                "option": "B.",
+                "text": "for"
+            },
+            {
+                "option": "C.",
+                "text": "about"
+            },
+            {
+                "option": "D.",
+                "text": "to"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Averse to' means 'strongly opposed to (something)'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "The room is filled . . . . . . . . smoke.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "by"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Filled with' means 'to put into as much as can be held or contained'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "In the examination, you have to answer all the questions . . . . . . . . an hour.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "by"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "before"
+            },
+            {
+                "option": "D.",
+                "text": "within"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Within' means 'before the end of'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Her thinking leans . . . . . . . . democracy.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "with"
+            },
+            {
+                "option": "B.",
+                "text": "for"
+            },
+            {
+                "option": "C.",
+                "text": "towards"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Here, 'towards' means 'in favour of'. Hence it is the correct preposition to be used."
+    },
+    {
+        "question": "Aqsa is travelling . . . . . . . . the school?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "off"
+            },
+            {
+                "option": "B.",
+                "text": "to"
+            },
+            {
+                "option": "C.",
+                "text": "towards"
+            },
+            {
+                "option": "D.",
+                "text": "through"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Towards' means 'in the direction of'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Try to reach the village . . . . . . . . the sunset.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "before"
+            },
+            {
+                "option": "B.",
+                "text": "by"
+            },
+            {
+                "option": "C.",
+                "text": "from"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Before' means 'during the period of time preceding (a particular event or time)'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "I was astonished . . . . . . . . the sad news.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "to"
+            },
+            {
+                "option": "B.",
+                "text": "with"
+            },
+            {
+                "option": "C.",
+                "text": "at"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'At' indicates specificity of something. Here, a specific 'sad news' created astonishment."
+    },
+    {
+        "question": "These four monkeys always quarrel . . . . . . . . themselves in cage.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "among"
+            },
+            {
+                "option": "D.",
+                "text": "between"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The most common use for 'among' is when something is in or with a group of a few, several, or many things. The most common use of 'between' is when something is in the middle of two things or two groups of things. It is sometimes used in the phrase in between."
+    },
+    {
+        "question": "I am waiting . . . . . . . . my brother.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "to"
+            },
+            {
+                "option": "C.",
+                "text": "for"
+            },
+            {
+                "option": "D.",
+                "text": "at"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'For' is used to indicate that the wait is related to someone or something specific. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "William says that he aims . . . . . . . . winning at least a consolation prize.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "to"
+            },
+            {
+                "option": "B.",
+                "text": "at"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "for"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'At' indicates specificity of something. Here, a specific 'consolation prize' is something that William is aiming for."
+    },
+    {
+        "question": "Both parties must adhere . . . . . . . . the terms of the contract.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "by"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "to"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Adhere to' means 'to continue to obey, believe in, or support something'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "You are rather friendly . . . . . . . . the Tans, aren't you?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "to"
+            },
+            {
+                "option": "B.",
+                "text": "at"
+            },
+            {
+                "option": "C.",
+                "text": "with"
+            },
+            {
+                "option": "D.",
+                "text": "over"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The meaning of 'friendly with' is having a casual rather than close friendship. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "She smiled . . . . . . . . my mistakes.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "upon"
+            },
+            {
+                "option": "C.",
+                "text": "over"
+            },
+            {
+                "option": "D.",
+                "text": "at"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'At' indicates specificity of something. Here, a specific 'mistake' is the reason for the 'smile'."
+    },
+    {
+        "question": "Exercise is necessary . . . . . . . . a good health.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "by"
+            },
+            {
+                "option": "B.",
+                "text": "for"
+            },
+            {
+                "option": "C.",
+                "text": "with"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'For' is used to indicate that 'exercise' is related to 'good health'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "He was absent . . . . . . . . the meeting.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "from"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The prepositions that are generally used with 'absent' are 'from' and 'in'. \"absent from\" would indicate \"should be there but is not\". For example - The student is absent from school today. \"absent in\" would indicate \"this trait\/element etc.\" is not a part of something. For example - Fear of death is absent in many African religions."
+    },
+    {
+        "question": "We did not exactly bargain . . . . . . . . him turning up like that out of the blue.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "about"
+            },
+            {
+                "option": "B.",
+                "text": "for"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "to"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Bargain for' means 'to expect or be prepared for something'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "The Muslims attend prayers in the mosque . . . . . . . . Friday.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "from"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: We use 'at' for a precise time, 'in' for months, years, centuries and long periods and 'on' for days and dates."
+    },
+    {
+        "question": "This is the book I was telling you . . . . . . . . .",
+        "options": [
+            {
+                "option": "A.",
+                "text": "for"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "about"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Tell about' means 'to speak or relate information to one about someone or something'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Mike often hides . . . . . . . . that tree.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "above"
+            },
+            {
+                "option": "B.",
+                "text": "behind"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Behind' means 'at or to the far side of (something), typically so as to be hidden by it'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "What time did you arrive . . . . . . . . the station?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "by"
+            },
+            {
+                "option": "B.",
+                "text": "at"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'At' indicates specific time, location or position. Hence it is the correct preposition to be used in the sentence."
+    },
+    {
+        "question": "He is responsible . . . . . . . . the president for his decisions?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "for"
+            },
+            {
+                "option": "B.",
+                "text": "of"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The adjective 'responsible' can be followed by the prepositions 'for' or 'to'. Use 'for' when you are naming a task that a person or group has to carry out. Use 'to' when you are naming the person or group of people to whom you have a duty."
+    },
+    {
+        "question": "You have to work hard if you want to succeed . . . . . . . . life.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "from"
+            },
+            {
+                "option": "C.",
+                "text": "for"
+            },
+            {
+                "option": "D.",
+                "text": "to"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Succeed in' means 'to achieve something that you have been aiming for, or (of a plan or piece of work) to have the desired results'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "\"He had to go . . . . . . . . square one.\"",
+        "options": [
+            {
+                "option": "A.",
+                "text": "back to"
+            },
+            {
+                "option": "B.",
+                "text": "under"
+            },
+            {
+                "option": "C.",
+                "text": "onto (on to)"
+            },
+            {
+                "option": "D.",
+                "text": "over"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Back to square one' means 'back to where one started, with no progress having been made'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Rita was engaged . . . . . . . . Ravi.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "with"
+            },
+            {
+                "option": "B.",
+                "text": "from"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "none"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: According to the sentence an engagement or betrothal is a promise to wed, and also the period of time between a marriage proposal and a marriage. 'To' is the correct preposition that shall be used."
+    },
+    {
+        "question": "The farmer is working . . . . . . . . his field.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "over"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: Option Example Explanation Option A: \"at\" The farmer is working at the market. The preposition \"at\" is typically used to indicate a specific point or location. In the example, it suggests that the farmer is working in a general location, like the market, rather than being specifically engaged with the field. \"At\" is not appropriate when referring to someone working directly on the surface or area of the field. Option B: \"in\" The farmer is working in the barn. The preposition \"in\" is used to denote something enclosed or inside a specific area or space. For instance, \"in the barn\" suggests that the farmer is inside a building. \"In\" might be used if the field were somehow enclosed, but generally, it's not the correct choice for referring to the open area of a field. Option C: \"on\" The farmer is working on his field. \"On\" is the correct preposition because it indicates that the farmer is working directly on the surface of the field. The field is a surface or area where the work is being performed, making \"on\" the most appropriate preposition to use in this context. Option D: \"over\" The farmer is working over the fence. The preposition \"over\" suggests a position above something or across from one side to another. In this context, \"over\" would imply that the farmer is working above the field, which doesn’t make sense in the context of physically working on the land. Conclusion: The correct preposition to use is \"on\" because it accurately conveys that the farmer is engaged in work directly on the surface of the field. The other options either imply a different location or context that does not fit the intended meaning of the sentence."
+    },
+    {
+        "question": "He comes . . . . . . . . a car.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "by"
+            },
+            {
+                "option": "C.",
+                "text": "with"
+            },
+            {
+                "option": "D.",
+                "text": "on"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: When you are talking about general ways to travel, use the preposition \"by\". For example, you can travel by train, by car, by bus, by truck, by plane, by motorcycle, by helicopter or by boat."
+    },
+    {
+        "question": "What did you think . . . . . . . . the film? I did not like it much.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "of"
+            },
+            {
+                "option": "C.",
+                "text": "about"
+            },
+            {
+                "option": "D.",
+                "text": "on"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Think on' or 'think about' is when you’re considering something and taking time to think it through. 'Think of' is used when recalling something from memory. Here 'film' is being recalled."
+    },
+    {
+        "question": "She is interested . . . . . . . . drawing and painting.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "at"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: If you are 'interested in' something, you think it is important and want to learn more about it or spend time doing it."
+    },
+    {
+        "question": "My friend asked me to meet him outside the cinema . . . . . . . . an hour's time.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "at"
+            },
+            {
+                "option": "D.",
+                "text": "within"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: The correct answer is B: in. Let's break down why: The Question Meaning: The sentence means your friend wants to meet you after a duration of one hour from now. Why \"in\" is correct: \"In\" is used to express a point in the future *after* a certain duration of time. For example, \"I will be there in an hour\" signifies that you will arrive one hour from the current time. Why the other options are incorrect: \"on\" is generally used for specific dates or days (e.g., \"on Monday\"). \"at\" is used for a specific time or location (e.g., \"at 5 PM\" or \"at the park\"). \"within\" indicates a limit or range of time. If you said \"within an hour\", it would mean sometime *before* or *at* one hour. Therefore, \"in\" is the most suitable preposition for expressing a future point after a time duration of one hour."
+    },
+    {
+        "question": "He parted . . . . . . . . all his property.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "over"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The correct preposition to use in this sentence is \"of\". The sentence should read, \"He parted of all his property.\" The preposition \"of\" is used to indicate possession or association. In this context, it signifies that he separated or distributed his property among others. Option A: on is not the correct answer as it does not convey the intended meaning of dividing property. Option B: in is not the correct answer as it does not convey the same meaning as \"parted.\" \"In\" is used to indicate location or a state of being. Option D: over is not the correct answer as it does not accurately convey the idea of dividing property. Given the options provided, the correct answer is Option C: of."
+    },
+    {
+        "question": "The wheel span . . . . . . . . the winning line.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "back to"
+            },
+            {
+                "option": "B.",
+                "text": "under"
+            },
+            {
+                "option": "C.",
+                "text": "past"
+            },
+            {
+                "option": "D.",
+                "text": "along"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: As a preposition 'past' means 'beyond or farther than a place'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "You should be ashamed . . . . . . . . your misconduct.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "to"
+            },
+            {
+                "option": "B.",
+                "text": "by"
+            },
+            {
+                "option": "C.",
+                "text": "at"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Ashamed means embarrassed or guilty because of one's actions. The word is followed by the preposition 'of', to denote the action to cause the guilt. Hence, 'of' is the correct answer for the given blank."
+    },
+    {
+        "question": "Divide the chocolates . . . . . . . . the two sisters.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "between"
+            },
+            {
+                "option": "B.",
+                "text": "among"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "for"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: The most common use of 'between' is when something is in the middle of two things or two groups of things. It is sometimes used in the phrase in between. The most common use for 'among' is when something is in or with a group of a few, several, or many things."
+    },
+    {
+        "question": "Rama is good . . . . . . . . dancing.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "about"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "for"
+            },
+            {
+                "option": "D.",
+                "text": "at"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'At' indicates specificity of something. Here, a specific activity 'dancing' is something Ram is good at."
+    },
+    {
+        "question": "The company has been . . . . . . . . fire from investors because of its poor performance this year.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "under"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "about"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Under fire' means 'being rigorously criticized'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "I was born . . . . . . . . July 10th.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "at"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: We use 'at' for a precise time, 'in' for months, years, centuries and long periods and 'on' for days and dates."
+    },
+    {
+        "question": "The mother was anxious . . . . . . . . the safety of her son.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "upon"
+            },
+            {
+                "option": "B.",
+                "text": "about"
+            },
+            {
+                "option": "C.",
+                "text": "at"
+            },
+            {
+                "option": "D.",
+                "text": "for"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: Normally, 'anxious about' and 'anxious at' are used to express concern. 'Anxious about' refers to the subject of worry, and 'anxious at' refers to the cause of worry."
+    },
+    {
+        "question": "He has suffered heavy losses, yet he was rolling . . . . . . . . wealth.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "for"
+            },
+            {
+                "option": "C.",
+                "text": "with"
+            },
+            {
+                "option": "D.",
+                "text": "from"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Roll in' means 'be received in large amounts'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "His office is . . . . . . . . the second floor to the building.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: A preposition is a word which comes before a noun or a pronoun and establishes a relationship between the elements of a clause or words. 'On' is correct as it indicates a surface. The other options are wrong as 'at', 'in', and 'of' indicate a specific location, inside something, and possession respectively."
+    },
+    {
+        "question": "Petrol is sold . . . . . . . . the liter.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "by"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "at"
+            },
+            {
+                "option": "D.",
+                "text": "from"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: A preposition is a word which comes before a noun or a pronoun and establishes a relationship between the elements of a clause or words. 'By' is correct as it indicates an agent. The other options are wrong as from, at, and on indicate a source, a specific location, and a surface respectively."
+    },
+    {
+        "question": "The food is very good . . . . . . . . that restaurant.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "of"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'At' indicates specific time, location or position. Hence it is the correct preposition to be used in the sentence."
+    },
+    {
+        "question": "I don't think she is afraid . . . . . . . . the dogs.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "of"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: A Preposition is a word used to link noun, pronoun or phrases to other words within a sentence. In the blank, preposition \"of\" will be used because preposition \"of\" is used after adjectives like afraid of, ashamed of, capable of, tired of etc."
+    },
+    {
+        "question": "I'll call you . . . . . . . . six o'clock.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'At' indicates specific time, location or position. Hence it is the correct preposition to be used in the sentence."
+    },
+    {
+        "question": "The car . . . . . . . . front is slowing down.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "about"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'In front' means 'in a position just ahead of or further forward than someone or something else'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "The boss is . . . . . . . . leave still.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "by"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'On leave' means 'absent from duty with permission'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Do you believe . . . . . . . . ghosts.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "for"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Believe in' means 'have faith in the truth or existence of something'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "When the bull ran . . . . . . . . me, I jumped . . . . . . . . the fence.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "beside, next to"
+            },
+            {
+                "option": "B.",
+                "text": "in, next to"
+            },
+            {
+                "option": "C.",
+                "text": "towards, over"
+            },
+            {
+                "option": "D.",
+                "text": "over, next to"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Towards' means 'in the direction of' and 'jumped over' means 'to travel over the top of something by leaping or vaulting'. Option C is the correct answer here."
+    },
+    {
+        "question": "We stayed . . . . . . . . the Ritz-Carlton Hotel.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "to"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "into"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'At' indicates specific time, location or position. Hence it is the correct preposition to be used in the sentence."
+    },
+    {
+        "question": ". . . . . . . . the years, things got better.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "Over"
+            },
+            {
+                "option": "B.",
+                "text": "About"
+            },
+            {
+                "option": "C.",
+                "text": "In"
+            },
+            {
+                "option": "D.",
+                "text": "Of"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Over the years' means 'during several\/some\/many years'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Who is that boy . . . . . . . . the black jacket?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "with"
+            },
+            {
+                "option": "B.",
+                "text": "unto"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "on"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'In' is used when something is within, i.e. one thing contains another. Here 'boy' is within the 'black jacket'."
+    },
+    {
+        "question": "Did you try looking . . . . . . . . the door or . . . . . . . . cupboard?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "under, behind"
+            },
+            {
+                "option": "B.",
+                "text": "behind, in"
+            },
+            {
+                "option": "C.",
+                "text": "in, over"
+            },
+            {
+                "option": "D.",
+                "text": "at, in"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: In the first blank, 'behind' will be used because it means 'at or to the far side of (something), typically so as to be hidden by it'. In the second blank, 'in' will be used because it is used when something is within, i.e. one thing contains another."
+    },
+    {
+        "question": "You should not put . . . . . . . . doing something until the very last minute.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "over"
+            },
+            {
+                "option": "B.",
+                "text": "of"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "off"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Put off' means 'postpone something'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "After having tea, he settled himself . . . . . . . . his arm chair.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "into"
+            },
+            {
+                "option": "B.",
+                "text": "over"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "at"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Settled into' means 'make yourself comfortable in a place'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "The most beautiful bird was flying . . . . . . . . the river.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "with"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "across"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Across' means 'on the other side of something, or from one side to the other of something which has sides or limits such as a city, road or river'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "He was driving . . . . . . . . 180 miles per hour when he crashed . . . . . . . . the central barrier.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at, into"
+            },
+            {
+                "option": "B.",
+                "text": "under, around"
+            },
+            {
+                "option": "C.",
+                "text": "at, in"
+            },
+            {
+                "option": "D.",
+                "text": "in, next to"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: In the first blank, 'at' will be used because it indicates specificity of something. Here, a specific speed '180 miles per hour' is mentioned. In the second blank, 'into' will be used because 'crashed into' means 'to come into violent contact with'."
+    },
+    {
+        "question": "While giving speech, I was trembling . . . . . . . . fear.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "from"
+            },
+            {
+                "option": "B.",
+                "text": "with"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Trembling with fear' means 'to shake slightly in a way that you cannot control, for example because you are frightened, angry, or excited, or because of illness'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "I gave my speech . . . . . . . . front of the whole class.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "of"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'In front' means 'in a position just ahead of or further forward than someone or something else'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Many species of insects were wiped . . . . . . . . when the jungle was cleared.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "away"
+            },
+            {
+                "option": "C.",
+                "text": "off"
+            },
+            {
+                "option": "D.",
+                "text": "out"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Wiped out' means 'complete or utter destruction'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "They complained . . . . . . . . your misbehaviour.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "about"
+            },
+            {
+                "option": "B.",
+                "text": "against"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: The word \"complained\" is often followed by the preposition \"of\" when you are specifying what someone is complaining about. Think of it like this: You are expressing the cause or reason for the complaint. * Option A: about While \"about\" can sometimes follow \"complain,\" it's less direct and usually used when talking more generally. * Option B: against \"Against\" means to be opposed to something or someone, which doesn't fit the context of expressing displeasure with misbehavior. * Option C: to \"To\" is used to indicate the recipient of the complaint (e.g., \"They complained to the manager\"). This question is about the reason of complaining and not to whom they are complaining . So, \"They complained of your misbehavior\" means they were unhappy and voiced their concern regarding your poor behavior."
+    },
+    {
+        "question": "The bank is . . . . . . . . front of my house.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "in"
+            },
+            {
+                "option": "B.",
+                "text": "of"
+            },
+            {
+                "option": "C.",
+                "text": "about"
+            },
+            {
+                "option": "D.",
+                "text": "on"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'In front' means 'in a position just ahead of or further forward than someone or something else'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "What is happening . . . . . . . . this picture?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "from"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'In' is used when something is within, i.e. one thing contains another. Here a particular event is within the 'picture'."
+    },
+    {
+        "question": "Do not take any notice . . . . . . . . him.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "about"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "of"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Take notice of' means 'to become aware of or give attention to something or someone'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "He came . . . . . . . . me in the market.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "into"
+            },
+            {
+                "option": "C.",
+                "text": "across"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Come across' means 'meet or find someone or something by chance'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "If an enemy comes . . . . . . . . a beat fish, the fish will puff out its gills to make it appear to be larger than it really is.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "near"
+            },
+            {
+                "option": "B.",
+                "text": "far"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "None of the above"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Near' means 'at or to a short distance away from (a place)'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "They reminded me . . . . . . . . the meeting.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "from"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "about"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Remind of' is used to make someone remember someone that they know or something that happened in the past. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "The Neighbours complained . . . . . . . . how loud our music was.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "at"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "about"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Complained about' means 'to say that you are annoyed, unhappy, or not satisfied about someone or something'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Your diet is deficient . . . . . . . . proteins and fats.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "on"
+            },
+            {
+                "option": "C.",
+                "text": "for"
+            },
+            {
+                "option": "D.",
+                "text": "in"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: 'Deficient in' means 'lacking in some necessary quality or element'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "The situation is . . . . . . . . control.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "under"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "about"
+            },
+            {
+                "option": "D.",
+                "text": "of"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Under control' means '(of a danger or emergency) such that people are able to deal with it successfully'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "The customer smashed his fist dow . . . . . . . . the table.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "against"
+            },
+            {
+                "option": "C.",
+                "text": "in"
+            },
+            {
+                "option": "D.",
+                "text": "at"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: In the sentence \"The customer smashed his fist dow . . . . . . . . the table,\" the preposition that best fits the context is \"against\". The word \"against\" is used to indicate a forceful contact or impact with something, which matches the scenario of smashing a fist on a surface like a table. Option A: on – While \"on\" can indicate contact with a surface, it does not convey the sense of force or impact implied in the action of smashing. Option C: in – This is incorrect because \"in\" suggests being inside something, which does not fit the context of smashing a fist on the table. Option D: at – \"At\" is used for indicating a point or location but does not imply the forceful impact that \"against\" does. Therefore, the correct preposition to use is \"against\"."
+    },
+    {
+        "question": "What did you make . . . . . . . . the lecture?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "about"
+            },
+            {
+                "option": "D.",
+                "text": "on"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'Make of' is 'to have or form an opinion about (something or someone)'. Hence it makes the sentence meaningful."
+    },
+    {
+        "question": "Amit is married . . . . . . . . Sangeeta.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "to"
+            },
+            {
+                "option": "C.",
+                "text": "between"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: When it comes to marrying, the preposition used is always 'to'. For instance, married to him. 'With' is used when you use the word marriage. For example - Your father has fixed your marriage with her."
+    },
+    {
+        "question": "The muslims always beg . . . . . . . . Allah's help.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "by"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "for"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: Beg for is used when someone asks or requests for a thing (help \/ support \/ assistance etc.) In this sentence “Allah’s help” = the thing they are asking for Therefore, the natural and grammatically correct preposition is for Why not the other options? of → used when requesting directly from a person (Example: “I beg of you”) by → does not express a request in this usage to → used in different meanings (Example: “I beg to differ”) So the correct sentence is: The Muslims always beg for Allah’s help. Note: This sentence is only a grammar \/ preposition practice example. There is no religious intention or offence meant. If any word usage feels uncomfortable, it can be replaced with a neutral example — but grammatically, the structure “beg for (help)” remains the same."
+    },
+    {
+        "question": "Rubina was invited her friends . . . . . . . . dinner.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "over"
+            },
+            {
+                "option": "B.",
+                "text": "with"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "for"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: The question asks which preposition best fits the sentence to show Rubina invited her friends to a dinner. Let's look at each option: Option A: over - \"Over\" usually means something is above or across something else. It doesn't make sense here. Option B: with - \"With\" means together. While Rubina was *with* her friends, it doesn't show she invited them to dinner. It suggests they were already together. Option C: to - \"To\" indicates direction or purpose. \"Invited to dinner\" is a common and correct phrase. It means Rubina invited her friends to attend the dinner. Option D: for - \"For\" can mean in behalf of or to benefit someone. While she might have prepared dinner *for* her friends, it doesn't mean she invited them. Therefore, the correct answer is Option C: to because it accurately shows that Rubina invited her friends to the dinner."
+    },
+    {
+        "question": "I look forward . . . . . . . . meeting you next month?",
+        "options": [
+            {
+                "option": "A.",
+                "text": "at"
+            },
+            {
+                "option": "B.",
+                "text": "for"
+            },
+            {
+                "option": "C.",
+                "text": "to"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option C",
+        "solution": "Answer & Solution Answer: Option C Solution: 'Look forward to' something means to be pleased or excited that it is going to happen. The 'to' in look forward to is a preposition, so we must follow it by a noun phrase or a verb in the -ing form."
+    },
+    {
+        "question": "I have drawn a flower . . . . . . . . the board.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "on"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "out"
+            },
+            {
+                "option": "D.",
+                "text": "within"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'On' is used to show that something is in a position above something else and touching it. Here 'flower' is above the surface of the 'board' and touching it."
+    },
+    {
+        "question": "There is a temple . . . . . . . . the house.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "over"
+            },
+            {
+                "option": "B.",
+                "text": "above"
+            },
+            {
+                "option": "C.",
+                "text": "on"
+            },
+            {
+                "option": "D.",
+                "text": "across"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: In the sentence \"There is a temple . . . . . . . . the house,\" the preposition that fits best is \"across\". The word \"across\" is used to indicate that something is situated on the other side of a space or area relative to the reference point (in this case, the house). This implies that the temple is located on the other side of the house, possibly visible from it or nearby. Option A: over – \"Over\" is used to indicate movement or position directly above something but can imply a covering or no contact. It does not convey the correct relationship in this context. Option B: above – \"Above\" means higher in position but does not necessarily indicate the same spatial relationship as \"across,\" which suggests a crossing or opposite side. Option C: on – \"On\" implies direct contact or position on top of a surface, which does not fit the context of the temple being located relative to the house. Therefore, the correct preposition to use is \"across\", as it properly conveys the intended meaning of the temple's location in relation to the house."
+    },
+    {
+        "question": "He paid the dining bill . . . . . . . . a credit card.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "for"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "by"
+            },
+            {
+                "option": "D.",
+                "text": "with"
+            }
+        ],
+        "answer": "Option D",
+        "solution": "Answer & Solution Answer: Option D Solution: The correct answer is Option D: with Here's why: We use the preposition \"with\" to indicate the instrument or means used to do something. In this sentence, the credit card is the instrument used to pay the bill. * \"He paid the dining bill with a credit card\" means he used a credit card as the method of payment. Let's look at why the other options are incorrect: * \"for\" is used to indicate a reason or purpose. \"He paid the dining bill for his friend\" would be correct, but not in this context. * \"in\" is usually used to indicate location or a state of being. \"He paid in cash\" is possible, but \"in a credit card\" is grammatically incorrect. * \"by\" is often used to indicate proximity or agency. \"He paid by check\" is also possible, similar usage of \"with\". However, \"with\" usually prefers to using an instrument or a tool. Therefore, \"with\" is the most appropriate preposition to use in this sentence."
+    },
+    {
+        "question": "He will be discharged . . . . . . . . a week.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "after"
+            },
+            {
+                "option": "B.",
+                "text": "before"
+            },
+            {
+                "option": "C.",
+                "text": "from"
+            },
+            {
+                "option": "D.",
+                "text": "since"
+            }
+        ],
+        "answer": "Option A",
+        "solution": "Answer & Solution Answer: Option A Solution: 'After' means 'later than' and 'next in time or place'. 'After' can be used before a noun phrase (as a preposition)."
+    },
+    {
+        "question": "Muslims believe . . . . . . . . one God named Allah.",
+        "options": [
+            {
+                "option": "A.",
+                "text": "of"
+            },
+            {
+                "option": "B.",
+                "text": "in"
+            },
+            {
+                "option": "C.",
+                "text": "for"
+            },
+            {
+                "option": "D.",
+                "text": "by"
+            }
+        ],
+        "answer": "Option B",
+        "solution": "Answer & Solution Answer: Option B Solution: 'Believe in' means 'have faith in the truth or existence of something'. Hence it makes the sentence meaningful."
+    }
+]
